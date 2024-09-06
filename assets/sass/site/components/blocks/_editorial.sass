@@ -1,0 +1,18 @@
+.block-editorial
+    .media
+        padding: 0
+    .content
+        @include padding(3rem)
+        background: $light
+        transform: translateY(-10%)
+        z-index: 1
+    @include media-breakpoint-up(md)
+        .media
+            transform: translateX(-10%)
+        .content
+            transform: translateX(10%)
+        &-rtl
+            .media
+                transform: translateX(10%)
+            .content
+                transform: translateX(-10%)

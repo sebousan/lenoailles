@@ -1,0 +1,24 @@
+fr:
+  title: Légal
+  links:
+    - blank: false
+      title: Mentions légales
+      url: /mentions-legales/
+    - blank: false
+      title: Politique de confidentialité
+      url: /politique-de-confidentialite/
+    - blank: false
+      title: Plan du site
+      url: /plan-du-site/
+en:
+  title: Legal
+  links:
+    - blank: false
+      title: Legal mentions
+      url: /en/legal-mentions/
+    - blank: false
+      title: Privacy policy
+      url: /en/privacy-policy/
+    - blank: false
+      title: Sitemap
+      url: /en/sitemap/

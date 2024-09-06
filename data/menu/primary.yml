@@ -1,0 +1,11 @@
+fr:
+  links:
+    - url: /la-brasserie/
+      title: La brasserie
+    - url: /la-carte/
+      title: La carte
+    - url: /contact/
+      title: Contact
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Reserver en ligne
