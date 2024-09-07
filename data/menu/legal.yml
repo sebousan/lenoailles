@@ -1,5 +1,4 @@
 fr:
-  title: Légal
   links:
     - blank: false
       title: Mentions légales
@@ -11,7 +10,6 @@ fr:
       title: Plan du site
       url: /plan-du-site/
 en:
-  title: Legal
   links:
     - blank: false
       title: Legal mentions
