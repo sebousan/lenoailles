@@ -1,5 +1,12 @@
 ---
 isPage: true
+hero:
+  surtitle: Brasserie traditionnelle
+  title: Le Noailles
+  align: center
+  image:
+    background_image: true
+    src: /images/uploads/IMGP9402.jpg
 blocks:
   - type: editorial
     background: false
