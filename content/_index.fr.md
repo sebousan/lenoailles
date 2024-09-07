@@ -30,11 +30,26 @@ blocks:
     cta:
       url: /la-carte/
       text: Découvrir la carte
+  - type: editorial
+    surtitle: Les vins
+    title: Au cœur du plus grand vignoble de vins fins du monde
+    text: >-
+      Bordeaux offre aux papilles les plus averties, un choix formidable de crus de toutes les couleurs et de toutes les saveurs (Bordeaux rouges, rosés, blancs secs ou liquoreux).
+
+
+      Côtes de Bordeaux, Entre-Deux-Mers, Margaux, Médoc, Pessac-Léognan, Pomerol, Saint-Emilion, Sauternes… 
+
+
+      Autant d'appellations dont le seul nom est un voyage œnologique et auxquelles la carte du Noailles fait la part belle, qu'il s'agisse de petits Bordeaux à découvrir ou de grands crus mythiques.
+    image:
+      src: /images/uploads/IMGP9895.jpg
   - type: pushes
     items:
       - title: Réserver en ligne
+        text: Lorem ipsum
+        offset: center
         cta:
           url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
           blank: true
-          title: Reserver en ligne
+          text: Reserver en ligne
 ---
