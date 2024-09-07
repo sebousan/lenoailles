@@ -1,6 +1,6 @@
 ---
 isIndex: true
-title: Accueil
+title: Home
 hero:
   title: Le Noailles
   align: center
@@ -10,8 +10,8 @@ hero:
 blocks:
   - type: editorial
     background: false
-    surtitle: La brasserie
-    title: Un lieu, une histoire
+    surtitle: The brasserie
+    title: One place, one history
     text: >-
       Située en plein cœur de Bordeaux, dans le quartier dit du "Triangle d'or", la Brasserie Le Noailles se définit comme <em>"la plus parisienne des brasseries bordelaises"</em>.
 

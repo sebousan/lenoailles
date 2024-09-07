@@ -14,19 +14,22 @@ blocks:
     title: Tous les jours
     image:
       src: /images/uploads/IMGP9371.jpg
-    text: >-
+    text: |-
       **Café-Brasserie**
+
       09h00 - 23h00
 
 
-      **Resataurant**
+      **Restaurant**
 
       12h00 - 15h00 et 19h00 - 23h00
+
 
 
       **Sortie de théatre**
 
       Dîner assuré sur réservation
+    direction: ltr
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.575624,44.8432406]}'
@@ -40,18 +43,19 @@ blocks:
       - title: Téléphone
         cta:
           blank: true
-          text: Tél. +33 (0)5 56 81 94 45
+          text: +33 (0)5 56 81 94 45
           url: tel:+33556819445
       - title: Parking à proximité
         text: Urbis Park Tourny, allée de Tourny
       - title: Tramway
         text: B, C et D, arrêt Quinconces
+    column: 3
   - type: editorial
     direction: rtl
     surtitle: Visite virtuelle
     title: Découvrir notre salle
     image:
-      src: /images/uploads/IMGP9382.jpg
+      src: /images/uploads/IMGP9353.jpg
     cta:
       blank: true
       text: Visite virtuelle

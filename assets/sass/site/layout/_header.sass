@@ -1,6 +1,19 @@
-header[role=banner]
+header[role="banner"]
+    left: 0
+    position: fixed
+    right: 0
+    transition: top .3s ease, background .3s ease
+    &.is-sticky
+        position: fixed
+    .logo
+        font-family: $headings-font-family
+        font-size: 1.5rem
+        font-weight: $headings-font-weight
+        text-decoration: none
     .nav-primary
         li:last-child
             a
                 --bs-nav-link-color: white
+                --bs-nav-link-hover-color: white
+                --bs-nav-link-active-color: white
                 background: $primary
