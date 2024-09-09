@@ -26,6 +26,10 @@ blocks:
       **Sortie de théatre**
 
       Dîner assuré sur réservation
+    ctas:
+      - blank: true
+        text: Réservation en ligne
+        url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
     direction: ltr
   - type: map
     background: false
@@ -34,18 +38,20 @@ blocks:
     heading:
       surtitle: Au cœur du triangle d’or
       title: 12 Allée de Tourny, 33000 Bordeaux
+      text: Par téléphone au +33 (0)5 56 81 94 45
     grid: full
   - type: informations
     items:
-      - title: Téléphone
-        cta:
-          blank: true
-          text: +33 (0)5 56 81 94 45
-          url: tel:+33556819445
       - title: Parking à proximité
         text: Urbis Park Tourny, allée de Tourny
       - title: Tramway
         text: B, C et D, arrêt Quinconces
+      - title: Avis
+        text:
+        cta:
+          blank: true
+          text: Avis Google
+          url: https://www.google.com/search?sa=X&sca_esv=0bf7fb3a22d86ef4&tbm=lcl&sxsrf=ADLYWIJgnyjsTpuPKnjMG_YL8bgyFd-MJg:1725886836131&q=Le+Noailles+Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2MjUwMjK3NDQ0NbQ0NjAztDAz3sDI-IpRwCdVwS8_MTMnJ7VYwbEss3gRK4YQAG2CHZVAAAAA&rldimm=2502279115193061863&hl=fr-FR&ved=2ahUKEwjS6qi-9bWIAxX8RqQEHTm7CXsQ9fQKegQILxAF&biw=1277&bih=1319&dpr=1#lkt=LocalPoiReviews
     column: 3
   - type: editorial
     direction: rtl

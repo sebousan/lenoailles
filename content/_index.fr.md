@@ -13,9 +13,6 @@ blocks:
     surtitle: La brasserie
     title: Un lieu, une histoire
     text: >-
-      Située en plein cœur de Bordeaux, dans le quartier dit du "Triangle d'or", la Brasserie Le Noailles se définit comme <em>"la plus parisienne des brasseries bordelaises"</em>.
-
-
       Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
     image:
       src: /images/uploads/IMGP0178.jpg
@@ -40,14 +37,12 @@ blocks:
   - type: editorial
     surtitle: Contact
     title: Ouvert tous les jours
-    text: |-
-      12 Allée de Tourny\
-      33000 Bordeaux
+    text: Située en plein cœur de Bordeaux, dans le quartier dit du "Triangle d'or", la Brasserie Le Noailles se définit comme <em>"la plus parisienne des brasseries bordelaises"</em>.
     image:
       src: /images/uploads/IMGP9371.jpg
     cta:
       url: /contact/
-      text: En savoir plus
+      text: Venir nous voir
     direction: ltr
   - type: pushes
     layout: grid
