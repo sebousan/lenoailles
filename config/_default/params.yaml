@@ -1,4 +1,5 @@
 _merge: deep
 animation: false
 logo:
-  footer: /assets/images/picto.png
+  header: /assets/images/logo.svg
+  footer: /assets/images/logo-footer.svg

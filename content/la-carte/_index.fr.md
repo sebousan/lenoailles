@@ -21,6 +21,7 @@ blocks:
       - title: Saucisse d’Accompagnement
         text: 5,50 €
   - type: table
+    background: true
     grid: medium
     heading:
       title: Les entrées
@@ -63,6 +64,42 @@ blocks:
         text: 35,50 €
       - title: Plat Végétarien du Moment
         text: à l’ardoise
+
+  - type: table
+    background: true
+    grid: medium
+    heading:
+      title: Les poissons
+
+  - type: table
+    background: false
+    grid: medium
+    heading:
+      title: Les classiques
+
+  - type: table
+    background: true
+    grid: medium
+    heading:
+      title: Les grillades
+
+  - type: table
+    background: false
+    grid: medium
+    heading:
+      title: Les fromages affinés
+
+  - type: table
+    background: true
+    grid: medium
+    heading:
+      title: Les desserts
+
+  - type: table
+    background: false
+    grid: medium
+    heading:
+      title: Les desserts glacés
 
   - type: editorial
     title: La carte des vins

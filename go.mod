@@ -2,6 +2,7 @@ module github.com/hugolify/hugolify-template
 
 go 1.19
 
+replace github.com/hugolify/hugolify-theme => ../hugolify/hugolify-theme
 
 require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect

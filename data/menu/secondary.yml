@@ -1,0 +1,9 @@
+fr:
+  title: Menu
+  links:
+    - url: /la-brasserie/
+      title: La brasserie
+    - url: /la-carte/
+      title: La carte
+    - url: /contact/
+      title: Contact
