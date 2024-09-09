@@ -1,0 +1,31 @@
+{{- $class := partial "func/GetColClass" .grid -}}
+<section class="block-table {{- with .background }} block-bg{{ end }}" {{- partial "func/SetAnim" (dict "element" "block") }}>
+  <div class="container">
+
+    {{- partial "blocks/heading.html" . -}}
+
+    {{- if $class }}
+    <div class="row">
+      <div class="{{ $class }}">
+    {{ end -}}
+
+    {{- with .rows }}
+    <table>
+      <tbody>
+        {{ range . }}
+          <tr>
+            <th scope="row">{{ partial "func/PrepareHTML" .title | markdownify }}</th>
+            <td>{{ partial "func/PrepareHTML" .text }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    {{ end -}}
+      
+    {{- if $class }}
+      </div>
+    </div>
+    {{ end -}}
+
+  </div>
+</section>

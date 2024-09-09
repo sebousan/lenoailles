@@ -2,14 +2,16 @@ fr:
   title: Le Noailles
   text: |-
     12 Allée de Tourny
-    33000 Bordeaux
+    33000 Bordeaux
+    France
   cta:
     url: /contact/
     text: Contact
 en:
   text: |-
     12 Allée de Tourny
-    33000 Bordeaux
+    33000 Bordeaux
+    France
   title: Le Noailles
   cta:
     text: Contact
@@ -19,6 +21,7 @@ es:
   title: Le Noailles
   text: |-
     12 Allée de Tourny
-    33000 Bordeaux
+    33000 Bordeaux
+    France
   cta:
-    ? blank
+    blank:

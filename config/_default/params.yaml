@@ -1,3 +1,4 @@
 _merge: deep
+animation: false
 logo:
   footer: /assets/images/picto.png

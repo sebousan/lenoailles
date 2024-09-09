@@ -2,16 +2,13 @@
 isPage: true
 title: Contact
 hero:
+  surtitle: Le Noailles
   title: Contact
   align: center
-  ctas:
-    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
-      blank: true
-      text: Reserver en ligne
 blocks:
   - type: editorial
     surtitle: Horaires d'ouverture
-    title: Tous les jours
+    title: Ouvert tous les jours
     image:
       src: /images/uploads/IMGP9371.jpg
     text: |-
