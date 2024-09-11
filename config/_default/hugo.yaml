@@ -7,7 +7,9 @@ build:
   writeStats: true
 enableRobotsTXT: true
 imaging:
-  quality: 75
+  hint: picture
+  quality: 85
+  resampleFilter: Lanczos
 markup:
   tableOfContents:
     ordered: true

@@ -44,10 +44,12 @@ blocks:
     items:
       - title: Parking à proximité
         text: Urbis Park Tourny, allée de Tourny
+        icon: car-front
       - title: Tramway
         text: B, C et D, arrêt Quinconces
+        icon: train-lightrail-front
       - title: Avis
-        text:
+        icon: chat-right-quote
         cta:
           blank: true
           text: Avis Google
