@@ -9,3 +9,4 @@ fr:
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
       blank: true
       title: Reserver en ligne
+      is_highlighted: true
