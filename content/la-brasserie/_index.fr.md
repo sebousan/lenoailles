@@ -24,7 +24,7 @@ blocks:
       veau à l'ancienne, Sole meunière, Entrecôte, Tête de veau…) et a fait la
       part belle aux produits régionaux que l'on trouve à la saison.
     image:
-      src: /images/uploads/IMGP9382.jpg
+      src: /images/uploads/IMGP9644.jpg
   - type: quote
     quote: la Brasserie Le Noailles se définit comme “la plus parisienne des brasseries bordelaises”.
   - type: editorial
@@ -34,11 +34,13 @@ blocks:
       Noailles en 1989 pour en faire une brasserie haut de gamme. Aujourd’hui,
       c'est Nicolas, le fils de Daniel Cuny, qui assure la relève.
     image:
-      src: /images/uploads/IMGP9382.jpg
+      src: /images/uploads/IMGP0181.jpg
     direction: ltr
-  - type: paragraph
-    grid: medium
-    offset: center
+  - type: editorial
+    direction: rtl
+    image:
+      src: /images/uploads/IMGP9435.jpg
+    title: Institution bordelaise
     text: >-
       Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
 
