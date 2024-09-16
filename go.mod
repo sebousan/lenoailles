@@ -7,7 +7,7 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-decap-cms v1.15.1 // indirect
 	github.com/hugolify/hugolify-theme v1.16.6 // indirect
-	github.com/hugolify/hugolify-theme-4 v0.0.0-20240916183533-1b59c1813671 // indirect
+	github.com/hugolify/hugolify-theme-4 v0.0.0-20240916190045-23a70cf02a3f // indirect
 	github.com/midzer/tobii v2.5.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect

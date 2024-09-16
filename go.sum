@@ -6,11 +6,10 @@ github.com/hugolify/hugolify-decap-cms v1.15.1 h1:QFSczFiQHSunQ/g3+dHZMDivXS2Hh8
 github.com/hugolify/hugolify-decap-cms v1.15.1/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
 github.com/hugolify/hugolify-theme v1.16.6 h1:qERpeIbaJHGFdkmbjruX7/jyhFPYeknO2JjjI2dQPlk=
 github.com/hugolify/hugolify-theme v1.16.6/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
-github.com/hugolify/hugolify-theme-4 v0.0.0-20240916183533-1b59c1813671 h1:t2N+GnMLxIGSvrIi+YJz9SNhfc3QElRWi2PknYWFtzw=
-github.com/hugolify/hugolify-theme-4 v0.0.0-20240916183533-1b59c1813671/go.mod h1:+Bq3W1XezJTk4tnEUtksomRwykOHFWx6yrYS5N4oaiw=
+github.com/hugolify/hugolify-theme-4 v0.0.0-20240916190045-23a70cf02a3f h1:w6RnKkYUwI7swjJu1tvnScAV2IM6uyvZER+awFcEsrI=
+github.com/hugolify/hugolify-theme-4 v0.0.0-20240916190045-23a70cf02a3f/go.mod h1:+Bq3W1XezJTk4tnEUtksomRwykOHFWx6yrYS5N4oaiw=
 github.com/midzer/tobii v2.5.0+incompatible h1:Gg3r5Zp0M6shS70NVGHALUgfw0sPtk3YHRjfYHbOUbo=
 github.com/midzer/tobii v2.5.0+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
