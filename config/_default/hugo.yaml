@@ -7,6 +7,7 @@ build:
   writeStats: true
 enableRobotsTXT: true
 imaging:
+  anchor: Smart
   hint: picture
   quality: 85
   resampleFilter: Lanczos

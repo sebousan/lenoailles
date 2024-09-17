@@ -2,9 +2,13 @@
 isPage: true
 title: La brasserie
 hero:
-  surtitle: Brasserie traditionnelle
-  title: Le Noailles
+  surtitle: Brasserie Le Noailles
+  title: La brasserie traditionnelle
   align: center
+  image:
+    background_image: true
+    darken: true
+    src: /images/uploads/salle-paysage-2.jpg
 blocks:
   - type: editorial
     surtitle: 1932

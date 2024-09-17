@@ -5,5 +5,7 @@ fr:
       title: La brasserie
     - url: /la-carte/
       title: La carte
-    - url: /contact/
-      title: Contact
+    - url: /offrir/
+      title: Offrir
+    - url: /les-groupes/
+      title: Les groupes

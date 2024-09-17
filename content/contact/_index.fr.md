@@ -2,9 +2,13 @@
 isPage: true
 title: Contact
 hero:
-  surtitle: Le Noailles
+  surtitle: Brasserie Le Noailles
   title: Contact
   align: center
+  image:
+    background_image: true
+    darken: true
+    src: /images/uploads/IMGP9402.jpg
 blocks:
   - type: editorial
     surtitle: Horaires d'ouverture
@@ -48,13 +52,7 @@ blocks:
       - title: Tramway
         text: B, C et D, arrêt Quinconces
         icon: train-lightrail-front
-      - title: Avis
-        icon: chat-right-quote
-        cta:
-          blank: true
-          text: Avis Google
-          url: https://www.google.com/search?sa=X&sca_esv=0bf7fb3a22d86ef4&tbm=lcl&sxsrf=ADLYWIJgnyjsTpuPKnjMG_YL8bgyFd-MJg:1725886836131&q=Le+Noailles+Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2MjUwMjK3NDQ0NbQ0NjAztDAz3sDI-IpRwCdVwS8_MTMnJ7VYwbEss3gRK4YQAG2CHZVAAAAA&rldimm=2502279115193061863&hl=fr-FR&ved=2ahUKEwjS6qi-9bWIAxX8RqQEHTm7CXsQ9fQKegQILxAF&biw=1277&bih=1319&dpr=1#lkt=LocalPoiReviews
-    column: 3
+    column: 2
   - type: editorial
     direction: rtl
     surtitle: Visite virtuelle

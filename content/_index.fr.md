@@ -1,14 +1,19 @@
 ---
 isIndex: true
 title: Accueil
-hero:
-  title: Le Noailles
-  align: center
-  image:
-    background_image: true
-    darken: true
-    src: /images/uploads/IMGP9402.jpg
+# hero:
+#   title: Le Noailles
+#   align: center
+#   image:
+#     background_image: true
+#     src: /images/uploads/salle-paysage-2.jpg
+
 blocks:
+  - type: figure
+    grid: large
+    figure:
+      src: /images/uploads/salle-paysage-2.jpg
+
   - type: editorial
     background: false
     surtitle: La brasserie
@@ -45,12 +50,19 @@ blocks:
       url: /contact/
       text: Venir nous voir
     direction: ltr
+
+  - type: figure
+    grid: large
+    offset: end
+    figure:
+      src: /images/uploads/salle-paysage-1.jpg
+
   - type: pushes
     layout: grid
     column: 2
     items:
       - title: Réserver en ligne
-        text: Lorem ipsum
+        text: Toute l’équipe du Noailles est heureuse de vous accueillir.
         offset: center
         cta:
           url: https://ib.guestonline.fr/instabook/bookings/T48mtHU

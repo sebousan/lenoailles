@@ -3,3 +3,5 @@ animation: false
 logo:
   header: /assets/images/logo.svg
   footer: /assets/images/logo-footer.svg
+hero:
+  cover: 1600x350

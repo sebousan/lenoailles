@@ -1,11 +1,5 @@
 .home-page
     h1
         @extend .visually-hidden
-    .hero
-        .container
-            background: url(/assets/images/logo-footer.svg) no-repeat center
-            background-size: auto 180px
-            filter: invert(1)
-        img
-            filter: brightness(0.5)
-            margin: 0
+    .hero-cover + .container
+        min-height: 600px
