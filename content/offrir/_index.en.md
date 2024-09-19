@@ -24,6 +24,7 @@ blocks:
       src: /images/uploads/IMG_7199.jpg
 
   - type: form
+    background: true
     offset: center
     grid: medium
     name: form-offer
