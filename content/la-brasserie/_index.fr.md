@@ -16,8 +16,15 @@ blocks:
     text: 'Fondée en 1932 par Madame Homar, Le Noailles proposait alors un plat
       unique : la choucroute (toujours à la carte du restaurant).'
     image:
-      src: /images/uploads/IMGP9382.jpg
-    direction: ltr
+      src: /images/uploads/Michel-et-Marcelle-Homar.jpg
+    direction: rtl
+  - type: figure
+    grid: large
+    offset: end
+    figure:
+      src: /images/uploads/devanture-noailles-annees-40.jpg
+      legend: Deventure du Noailles dans les années 40
+
   - type: quote
     quote: Située en plein cœur de Bordeaux, dans le quartier dit du “Triangle d‘or”.
   - type: editorial
