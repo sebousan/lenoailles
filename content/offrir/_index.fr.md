@@ -28,13 +28,15 @@ blocks:
   - type: testimonials
     layout: carousel
     carousel:
-      pagination: false
-      autoplay: true
-      arrows: true
-      type: slide
-      gap: 1.5rem
-      perPage: 3
-      padding: 4rem
+      params:
+        pagination: false
+        autoplay: true
+        arrows: true
+        type: loop
+        gap: 1.5rem
+        perPage: 3
+        perMove: 1
+        padding: 4rem
       responsive:
         - breakpoints: 640
           params:
@@ -49,8 +51,6 @@ blocks:
         quote: >-
           Endroit que je recommande pour son service ( de vrais serveurs en
           habit), sa bonne cuisine.
-
-
 
 
           Cuisine: 5/5 
@@ -71,6 +71,17 @@ blocks:
           l’equipe.
 
 
+          Cuisine: 5/5
+
+
+          Service: 5/5
+
+
+          Ambiance: 5/5
+      - author:
+          title: Jacques GUICHARD
+        quote: >-
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
 
 
           Cuisine: 5/5
@@ -79,7 +90,15 @@ blocks:
           Service: 5/5
 
 
-          Ambiance: 5/5
+          Ambiance: 4/5
+      - author:
+          title: G.A
+        quote: >-
+          J’adore cette brasserie. Très sympa. Service efficace. Cuisine excellente.
+      - author:
+          title: Viator-helveticus
+        quote: >-
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
   - type: form
     background: true
     offset: center
