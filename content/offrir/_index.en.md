@@ -12,17 +12,18 @@ hero:
 blocks:
   - type: editorial
     title: Offrez un repas au Noailles
-    text: |-
-      Un cadeau de fin d'année, un cadeau d'anniversaire, un cadeau pour fêter un évènement particulier…
+    text: >-
+      Un cadeau de fin d'année, un cadeau d'anniversaire, un cadeau pour fêter
+      un évènement particulier…
+
 
 
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
     cta:
-      url: '#form-1'
+      url: "#form-1"
       text: Nous écrire
     image:
       src: /images/uploads/IMG_7199.jpg
-
   - type: form
     background: true
     offset: center

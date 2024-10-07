@@ -46,16 +46,16 @@ San Francisco, \
 California 94107, \
 United States
 
-https://www.netlify.com
+{{< blank_link link="https://www.netlify.com" text="https://www.netlify.com">}}
 
 ## Conception
 
 **Intégration et développement**\
 Un Cinq\
-https://uncinq.dev
+{{< blank_link link="https://uncinq.dev" text="https://uncinq.dev">}}
 
 **Solution**\
-Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d’accessibilité.
+Ce site a été conçu avec {{< blank_link link="https://www.hugolify.io" text="Hugolify">}}, une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d’accessibilité.
 
 ## Crédits
 

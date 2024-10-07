@@ -18,6 +18,7 @@ blocks:
     image:
       src: /images/uploads/Michel-et-Marcelle-Homar.jpg
     direction: rtl
+
   - type: figure
     grid: large
     offset: end
@@ -26,7 +27,9 @@ blocks:
       legend: Deventure du Noailles dans les années 40
 
   - type: quote
+    background: true
     quote: Située en plein cœur de Bordeaux, dans le quartier dit du “Triangle d‘or”.
+
   - type: editorial
     direction: rtl
     surtitle: Au fil du temps
@@ -50,7 +53,7 @@ blocks:
   - type: editorial
     direction: rtl
     image:
-      src: /images/uploads/IMGP9435.jpg
+      src: /images/uploads/IMGP9382.jpg
     title: Institution bordelaise
     text: >-
       Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.

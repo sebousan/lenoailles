@@ -12,8 +12,10 @@ hero:
 blocks:
   - type: editorial
     title: Offrez un repas au Noailles
-    text: |-
-      Un cadeau de fin d'année, un cadeau d'anniversaire, un cadeau pour fêter un évènement particulier…
+    text: >-
+      Un cadeau de fin d'année, un cadeau d'anniversaire, un cadeau pour fêter
+      un évènement particulier…
+
 
 
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
@@ -22,7 +24,62 @@ blocks:
       text: Nous écrire
     image:
       src: /images/uploads/IMG_7199.jpg
+    direction: ltr
+  - type: testimonials
+    layout: carousel
+    carousel:
+      pagination: false
+      autoplay: true
+      arrows: true
+      type: slide
+      gap: 1.5rem
+      perPage: 3
+      padding: 4rem
+      responsive:
+        - breakpoints: 640
+          params:
+            pagination: false
+            perPage: 2
+    background: false
+    items:
+      - author:
+          image:
+            linear: false
+          title: Laure Bordeaux
+        quote: >-
+          Endroit que je recommande pour son service ( de vrais serveurs en
+          habit), sa bonne cuisine.
 
+
+
+
+          Cuisine: 5/5 
+
+
+          Service: 5/5
+
+
+          Ambiance: 4/5
+      - author:
+          image:
+            linear: false
+          title: Marie-Hélène Giraud
+        quote: >-
+          L’accueil, le décor, le poids de l’histoire qui se dégage, l’ambiance
+          chaleureuse, la simplicité chic et l’excellente cuisine font du
+          Noailles une brasserie incontournable de Bordeaux ! Merci à toute
+          l’equipe.
+
+
+
+
+          Cuisine: 5/5
+
+
+          Service: 5/5
+
+
+          Ambiance: 5/5
   - type: form
     background: true
     offset: center

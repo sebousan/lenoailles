@@ -11,6 +11,10 @@ title: Accueil
 blocks:
   - type: figure
     grid: large
+    offset: start
+    heading:
+      surtitle: Allée de Tourny
+      title: Brasserie Le Noailles
     figure:
       src: /images/uploads/salle-paysage-2.jpg
 
@@ -51,21 +55,21 @@ blocks:
       text: Venir nous voir
     direction: ltr
 
-  - type: figure
-    grid: large
-    offset: end
-    figure:
-      src: /images/uploads/salle-paysage-1.jpg
+  # - type: figure
+  #   grid: large
+  #   offset: end
+  #   figure:
+  #     src: /images/uploads/salle-paysage-1.jpg
 
-  - type: pushes
-    layout: grid
-    column: 2
-    items:
-      - title: Réserver en ligne
-        text: Toute l’équipe du Noailles est heureuse de vous accueillir.
-        offset: center
-        cta:
-          url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
-          blank: true
-          text: Reserver en ligne
+  # - type: pushes
+  #   layout: grid
+  #   column: 2
+  #   items:
+  #     - title: Réserver en ligne
+  #       text: Toute l’équipe du Noailles est heureuse de vous accueillir.
+  #       offset: center
+  #       cta:
+  #         url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+  #         blank: true
+  #         text: Reserver en ligne
 ---
