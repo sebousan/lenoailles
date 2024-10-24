@@ -1,0 +1,14 @@
+{{- $fields := slice 
+  "title" 
+  "text" -}}
+{
+  name: 'rows',
+  label: 'Tableau',
+  label_singular: 'ligne',
+  widget: 'list',
+  required: false,
+  i18n: true,
+  collapsed: true,
+  summary: '{{`{{title}}`}}',
+  {{ partial "admin/fields/_fields.yml" $fields }}
+}

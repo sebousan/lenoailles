@@ -144,6 +144,7 @@
       "section-les-groupes",
       "section-offrir",
       "section-sitemap",
+      "sitemap-admin",
       "sitemap-contact",
       "sitemap-pages",
       "splide",
@@ -158,6 +159,7 @@
     ],
     "ids": [
       "TableOfContents",
+      "admin",
       "conception",
       "contact",
       "crédits",

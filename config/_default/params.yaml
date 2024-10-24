@@ -5,3 +5,19 @@ logo:
   footer: /assets/images/logo-footer.svg
 hero:
   cover: 1600x350
+
+admin:
+  i18n:
+    default_locale: fr
+    locales: '[fr,en,es]'
+  locale: en # CMS lang
+  blocks:
+    availables:
+      - editorial
+      - form
+      - informations
+      - map
+      - pushes
+      # - table
+      - testimonials
+      - title

@@ -12,3 +12,31 @@ fr:
       blank: true
       title: Reserver en ligne
       is_highlighted: true
+en:
+  links:
+    - url: /en/la-brasserie/
+      title: La brasserie
+    - url: /en/the-menu/
+      title: The menu
+    - url: /en/offrir/
+      title: Offrir
+    - url: /en/contact/
+      title: Contact
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Book online
+      is_highlighted: true
+es:
+  links:
+    - url: /es/la-brasserie/
+      title: La brasserie
+    - url: /es/la-carte/
+      title: La carte
+    - url: /es/offrir/
+      title: Offrir
+    - url: /es/contact/
+      title: Contact
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Reserver en ligne
+      is_highlighted: true

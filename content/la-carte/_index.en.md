@@ -1,6 +1,7 @@
 ---
 isPage: true
 title: The menu
+url: the-menu
 hero:
   surtitle: Brasserie Le Noailles
   title: The menu
