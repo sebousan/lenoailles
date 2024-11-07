@@ -41,7 +41,7 @@ blocks:
     surtitle: 1986
     title: Famille Cuny
     text: >-
-      Après le décès de Mme Homar en 1978, la Brasserie est mise en vente et plusieurs restaurateurs s’y succèdent -Mr Regnaud puis Mr Hias-, avant que les frères Cuny n’en prennent les rênes en 1986.
+      Après le décès de Mme Homar en 1978, la Brasserie est mise en vente et plusieurs restaurateurs s’y succèdent -M. Regnaud puis M. Hias-, avant que les frères Cuny n’en prennent les rênes en 1986.
 
 
       Anne-Sophie, la fille de Bernard, tient l’établissement pendant quelques années avant que Nicolas, le fils de Daniel, ne prenne le relais depuis 2012. À ses côtés, sa sœur Marion navigue entre le bar et la cuisine.
@@ -52,7 +52,7 @@ blocks:
   - type: editorial
     direction: rtl
     image:
-      src: /images/uploads/IMGP9382.jpg
+      src: /images/uploads/IMGP9751.jpg
     title: Petite anecdote
     text: >-
       Si le Noailles fait aujourd&#39;hui la part belle aux plats régionaux (cèpes, lamproie, grenier médocain et autres confits…), un plat reste immuablement à la carte, en l’honneur de sa fondatrice, la Choucroute de Mme Homar !

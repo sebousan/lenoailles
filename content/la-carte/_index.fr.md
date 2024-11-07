@@ -196,6 +196,17 @@ blocks:
         text: 8,50 €
 
   - type: editorial
+    direction: rtl
+    title: La carte des boissons
+    text: Boissons chaudes, eaux, soda, apéritifs, spiritueux…
+    cta:
+      url: /pdf/carte-vins.pdf
+      blank: true
+      text: Voir la carte (PDF)
+    image:
+      src: /images/uploads/IMGP1615.jpg
+
+  - type: editorial
     title: La carte des vins
     text: Au cœur du plus grand vignoble de vins fins du monde.
     cta:
@@ -204,16 +215,6 @@ blocks:
       text: Voir la carte (PDF)
     image:
       src: /images/uploads/IMGP9882.jpg
-
-  - type: quote
-    quote:
-      “Je crois qu'il est plus sain de manger plus bellement et moins… et de
-      manger plus souvent.”
-    author:
-      title: Michel Eyquem de Montaigne
-      text:
-        Maire de Bordeaux au 16<sup>ème</sup> siècle, grand philosophe et amateur
-        de gastronomie.
 
   - type: alert
     state: warning

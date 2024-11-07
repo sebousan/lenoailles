@@ -39,8 +39,8 @@ blocks:
   - type: title
     heading:
       surtitle: Nos menus
-      title: Portée par le souhait de proposer des produits de qualité, Le Noailles vous garantit une carte haute en saveur.
-      text: |-
+      title: Le Noailles vous garantit une carte haute en saveur.
+      text: >-
         Dans un décor aux accents art déco et au cadre intemporel, notre chef vous propose les incontournables de la brasserie parisienne mais aussi des plats régionaux tel que le Grenier Médocain, la Cuisse de Canard Confite ou la Belle Entrecôte 300g et sa sauce Bordelaise…
 
 
@@ -52,6 +52,7 @@ blocks:
     name: form-group
     submit: Envoyer
     heading:
+      surtitle: Contactez-nous
       title: Votre évènement
       text: Pour profiter d’un repas entre collègues ou amis et célébrer toute occasion aussi bien dans un cadre privé que professionnel, chacun de vos événements trouvera au Noailles un cadre à sa mesure.
     items:
@@ -76,8 +77,8 @@ blocks:
         options:
           - title: Déjeuner
             value: Déjeuner
-          - title: Diner
-            value: Diner
+          - title: Dîner
+            value: Dîner
         required: true
         autocomplete: false
       - label: Nombre de convives
@@ -92,10 +93,6 @@ blocks:
       - label: Date souhaitée
         type: date
         required: true
-        autocomplete: false
-      - label: Date flexible ?
-        type: checkbox
-        required: false
         autocomplete: false
       - label: Message
         type: textarea
