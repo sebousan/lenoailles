@@ -1,0 +1,17 @@
+<div class="content">
+  {{- $pages := $.Site.Pages -}}
+  {{ if $pages }}
+    <div class="sitemap-pages">
+      <h2 id="pages">{{ i18n "pages.title" 2 }}</h2>
+      <ul>
+        {{- range $pages }}
+          {{ if and (ne .Type "admin") (ne .Type "sitemap") }}
+          <li>
+            <a href="{{ .Permalink }}">{{ partial "func/PrepareHTML" .Title }}</a>
+          </li>
+          {{ end }}
+        {{ end -}}
+      </ul>
+    </div>
+  {{ end }}
+</div>
