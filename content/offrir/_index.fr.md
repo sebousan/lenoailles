@@ -28,9 +28,10 @@ blocks:
 
   - type: gallery
     column: 3
+    ratio: 1.25
     gallery:
       - image:
-        src: /images/uploads/IMGP1519.jpg
+        src: /images/uploads/IMGP1517.jpg
       - image:
         src: /images/uploads/IMGP1522.jpg
       - image:
