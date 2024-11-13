@@ -11,7 +11,8 @@ admin:
     default_locale: fr
     locales: '[fr,en,es]'
   blocks:
-    availables:
+    enable:
+      - alert
       - editorial
       - form
       - informations

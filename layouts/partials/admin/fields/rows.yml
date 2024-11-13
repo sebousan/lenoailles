@@ -1,5 +1,7 @@
 {{- $fields := slice 
   "title" 
+  "image_src" 
+  "year" 
   "text" -}}
 {
   name: 'rows',

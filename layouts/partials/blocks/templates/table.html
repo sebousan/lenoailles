@@ -11,10 +11,28 @@
 
     {{- with .rows }}
     <table>
+      <thead class="d-none">
+        <tr>
+          <th scope="col">{{ i18n "name" }}</th>
+          <th scope="col">{{ i18n "label" }}</th>
+          <th scope="col">{{ i18n "year" }}</th>
+          <th scope="col">{{ i18n "price" }}</th>
+        </tr>
+      </thead>
       <tbody>
         {{ range . }}
           <tr>
             <th scope="row">{{ partial "func/PrepareHTML" .title | markdownify }}</th>
+            <td>
+              {{- with .src }}
+                {{- partial "commons/image" (dict "src" . "desktop" "25x") -}}
+              {{ end -}}
+            </td>
+            <td>
+              {{- with .year }}
+                {{- partial "func/PrepareHTML" . -}}
+              {{ end -}}
+            </td>
             <td>{{ partial "func/PrepareHTML" .text }}</td>
           </tr>
         {{ end }}

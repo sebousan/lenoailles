@@ -1,0 +1,7 @@
+.block-table
+    &:not(.block-bg) + &:not(.block-bg),
+    &.block-bg + &.block-bg
+        @include margin-top(-3rem)
+        padding-top: 0
+    .heading
+        @include margin-bottom(3rem)

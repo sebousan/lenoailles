@@ -200,9 +200,8 @@ blocks:
     title: La carte des boissons
     text: Boissons chaudes, eaux, soda, apéritifs, spiritueux…
     cta:
-      url: /pdf/carte-vins.pdf
-      blank: true
-      text: Voir la carte (PDF)
+      url: /la-carte-des-boissons/
+      text: Voir la carte des boissons
     image:
       src: /images/uploads/IMGP1615.jpg
 
@@ -210,9 +209,8 @@ blocks:
     title: La carte des vins
     text: Au cœur du plus grand vignoble de vins fins du monde.
     cta:
-      url: /pdf/carte-vins.pdf
-      blank: true
-      text: Voir la carte (PDF)
+      url: /la-carte-des-vins/
+      text: Voir la carte des vins
     image:
       src: /images/uploads/IMGP9882.jpg
 
