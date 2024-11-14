@@ -10,34 +10,50 @@
     {{ end -}}
 
     {{- with .rows }}
-    <table>
-      <thead class="d-none">
-        <tr>
-          <th scope="col">{{ i18n "name" }}</th>
-          <th scope="col">{{ i18n "label" }}</th>
-          <th scope="col">{{ i18n "year" }}</th>
-          <th scope="col">{{ i18n "price" }}</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{ range . }}
+    {{- $hasLabel := false -}}
+    {{- $hasYear := false -}}
+    {{- range . -}}
+    {{- with .src }}{{ $hasLabel = true }}{{ end -}}
+    {{- with .year }}{{ $hasYear = true }}{{ end -}}
+    {{ end -}}
+    <div class="table-responsive-sm">
+      <table>
+        <thead class="d-none">
           <tr>
-            <th scope="row">{{ partial "func/PrepareHTML" .title | markdownify }}</th>
-            <td>
-              {{- with .src }}
-                {{- partial "commons/image" (dict "src" . "desktop" "25x") -}}
-              {{ end -}}
-            </td>
-            <td>
-              {{- with .year }}
-                {{- partial "func/PrepareHTML" . -}}
-              {{ end -}}
-            </td>
-            <td>{{ partial "func/PrepareHTML" .text }}</td>
+            <th scope="col">{{ i18n "name" }}</th>
+            {{- if $hasLabel }}
+            <th scope="col">{{ i18n "label" }}</th>
+            {{ end -}}
+            {{- if $hasYear }}
+            <th scope="col">{{ i18n "year" }}</th>
+            {{ end -}}
+            <th scope="col">{{ i18n "price" }}</th>
           </tr>
-        {{ end }}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {{- range . }}
+            <tr>
+              <th scope="row">{{ partial "func/PrepareHTML" .title | markdownify }}</th>
+              {{- if $hasLabel }}
+              <td>
+                {{- with .src }}
+                  {{- partial "commons/image" (dict "src" . "desktop" "25x") -}}
+                {{ end -}}
+              </td>
+              {{ end -}}
+              {{- if $hasYear }}
+              <td>
+                {{- with .year }}
+                  {{- partial "func/PrepareHTML" . -}}
+                {{ end -}}
+              </td>
+              {{ end -}}
+              <td>{{ partial "func/PrepareHTML" .text }}</td>
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
     {{ end -}}
       
     {{- if $class }}
