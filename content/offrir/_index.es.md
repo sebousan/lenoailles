@@ -8,7 +8,7 @@ hero:
   image:
     background_image: true
     darken: true
-    src: /images/uploads/IMGP0023.jpg
+    src: /images/uploads/IMGP1413.jpg
 blocks:
   - type: editorial
     title: Offrez un repas au Noailles
@@ -20,30 +20,27 @@ blocks:
 
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
     cta:
-      url: "#form-1"
-      text: Nous écrire
+      url: '/contact/#form-5'
+      text: Nous contacter
     image:
       src: /images/uploads/IMG_7199.jpg
-  - type: form
-    background: true
-    offset: center
-    grid: medium
-    name: form-offer
-    submit: Envoyer
-    heading:
-      title: Envoyez-nous un message
-    items:
-      - label: Nom
-        type: text
-        required: true
-        autocomplete: name
-      - label: Email
-        type: email
-        required: true
-        autocomplete: email
-      - label: Message
-        type: textarea
-        full: true
-        required: true
-        autocomplete: false
+    direction: ltr
+
+  - type: gallery
+    column: 3
+    ratio: 1.25
+    gallery:
+      - image:
+        src: /images/uploads/IMGP1517.jpg
+      - image:
+        src: /images/uploads/IMGP1522.jpg
+      - image:
+        src: /images/uploads/IMGP1532.jpg
+      - image:
+        src: /images/uploads/IMGP9676.jpg
+      - image:
+        src: /images/uploads/IMGP9644.jpg
+      - image:
+        src: /images/uploads/IMGP9602.jpg
+    background: false
 ---

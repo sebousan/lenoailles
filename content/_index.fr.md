@@ -1,7 +1,6 @@
 ---
 isIndex: true
 title: Accueil
-
 hero:
   surtitle: Bordeaux, Allées de Tourny
   title: Brasserie Le Noailles
@@ -9,18 +8,8 @@ hero:
   image:
     darken: true
     background_image: true
-    src: /images/uploads/IMGP9402.jpg
-
+    src: /images/uploads/salle-milieu-vue-fenetres.jpg
 blocks:
-  # - type: figure
-  #   grid: large
-  #   offset: start
-  #   heading:
-  #     surtitle: Bordeaux, Allée de Tourny
-  #     title: Brasserie Le Noailles
-  #   figure:
-  #     src: /images/uploads/salle-paysage-2.jpg
-
   - type: editorial
     background: false
     surtitle: La brasserie

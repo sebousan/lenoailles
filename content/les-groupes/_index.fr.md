@@ -8,7 +8,7 @@ hero:
   image:
     background_image: true
     darken: true
-    src: /images/uploads/IMG_7195.jpg
+    src: /images/uploads/salle-du-fond.jpg
 blocks:
   - type: images
     heading:
@@ -20,9 +20,9 @@ blocks:
 
         La véranda est réservée à la clientèle de passage et pour les réservations sauf privatisation complète de la Brasserie.
     images:
-      - src: /images/uploads/salle-paysage-1.jpg
+      - src: /images/uploads/salle-milieu-vue-bar.jpg
         half: true
-      - src: /images/uploads/salle-paysage-2.jpg
+      - src: /images/uploads/salle-milieu-vue-fenetres.jpg
         half: true
 
   - type: editorial
@@ -30,7 +30,7 @@ blocks:
     surtitle: Visite virtuelle
     title: Découvrir notre salle
     image:
-      src: /images/uploads/IMGP9353.jpg
+      src: /images/uploads/salle-milieu-vue-basse.jpg
     cta:
       blank: true
       text: Visite virtuelle

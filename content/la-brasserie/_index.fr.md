@@ -8,7 +8,7 @@ hero:
   image:
     background_image: true
     darken: true
-    src: /images/uploads/salle-paysage-2.jpg
+    src: /images/uploads/IMGP2274.jpg
 blocks:
   - type: editorial
     title: Le Noailles, une histoire de familles…
@@ -27,15 +27,21 @@ blocks:
 
       En 1932, les Homar décident de s’installer à Bordeaux et y recréent leur « Noailles ». Ils jettent leur dévolu sur une ancienne quincaillerie, sur les Allées de Tourny. C’est le début du Noailles que vous connaissez…
     image:
-      src: /images/uploads/Michel-et-Marcelle-Homar.jpg
+      src: /images/uploads/portrait-couple.jpg
     direction: rtl
 
   - type: figure
     grid: large
     offset: end
     figure:
-      src: /images/uploads/devanture-noailles-annees-40.jpg
+      src: /images/uploads/facade.jpg
       legend: Deventure du Noailles dans les années 40
+
+  - type: figure
+    grid: small
+    offset: start
+    figure:
+      src: /images/uploads/petite-facade.jpg
 
   - type: editorial
     surtitle: 1986
@@ -46,8 +52,14 @@ blocks:
 
       Anne-Sophie, la fille de Bernard, tient l’établissement pendant quelques années avant que Nicolas, le fils de Daniel, ne prenne le relais depuis 2012. À ses côtés, sa sœur Marion navigue entre le bar et la cuisine.
     image:
-      src: /images/uploads/IMGP0181.jpg
+      src: /images/uploads/famille-cuny-portrait.jpg
     direction: ltr
+
+  - type: figure
+    grid: medium
+    offset: center
+    figure:
+      src: /images/uploads/salle-milieu-vue-bar.jpg
 
   - type: editorial
     direction: rtl

@@ -2,26 +2,26 @@
 isIndex: true
 title: Home
 hero:
-  title: Le Noailles
+  surtitle: Bordeaux, Allées de Tourny
+  title: Brasserie Le Noailles
   align: center
   image:
+    darken: true
     background_image: true
-    src: /images/uploads/IMGP9402.jpg
+    src: /images/uploads/salle-milieu-vue-fenetres.jpg
 blocks:
   - type: editorial
     background: false
-    surtitle: The brasserie
-    title: One place, one history
+    surtitle: La brasserie
+    title: Un lieu, une histoire
     text: >-
-      Située en plein cœur de Bordeaux, dans le quartier dit du "Triangle d'or", la Brasserie Le Noailles se définit comme <em>"la plus parisienne des brasseries bordelaises"</em>.
-
-
       Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
     image:
-      src: /images/uploads/IMGP0178.jpg
+      src: /images/uploads/IMGP9382.jpg
     cta:
       url: /la-brasserie/
       text: Découvrir la brasserie
+
   - type: editorial
     background: false
     direction: rtl
@@ -38,25 +38,103 @@ blocks:
       url: /la-carte/
       text: Découvrir la carte
   - type: editorial
-    surtitle: Les vins
-    title: Au cœur du plus grand vignoble de vins fins du monde
+    surtitle: Contact
+    title: Ouvert tous les jours de l’année
     text: >-
-      Bordeaux offre aux papilles les plus averties, un choix formidable de crus de toutes les couleurs et de toutes les saveurs (Bordeaux rouges, rosés, blancs secs ou liquoreux).
+      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle d’or ».
 
 
-      Côtes de Bordeaux, Entre-Deux-Mers, Margaux, Médoc, Pessac-Léognan, Pomerol, Saint-Emilion, Sauternes… 
-
-
-      Autant d'appellations dont le seul nom est un voyage œnologique et auxquelles la carte du Noailles fait la part belle, qu'il s'agisse de petits Bordeaux à découvrir ou de grands crus mythiques.
+      Restauration pour le déjeuner et le dîner.
     image:
-      src: /images/uploads/IMGP9895.jpg
-  - type: pushes
+      src: /images/uploads/IMGP9371.jpg
+    cta:
+      url: /contact/
+      text: Venir nous voir
+    direction: ltr
+
+  - type: figure
+    figure:
+      src: /images/uploads/IMGP1379.jpg
+
+  - type: testimonials
+    heading:
+      text: >-
+        **Les avis**
+    layout: carousel
+    carousel:
+      params:
+        pagination: false
+        autoplay: true
+        arrows: true
+        type: loop
+        gap: 1.5rem
+        perPage: 3
+        perMove: 1
+        padding: 4rem
+      responsive:
+        - breakpoints: 640
+          params:
+            arrows: false
+            perPage: 1
+        - breakpoints: 768
+          params:
+            arrows: false
+            perPage: 2
+    background: false
     items:
-      - title: Réserver en ligne
-        text: Lorem ipsum
-        offset: center
-        cta:
-          url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
-          blank: true
-          text: Reserver en ligne
+      - author:
+          image:
+            linear: false
+          title: Laure Bordeaux
+        quote: >-
+          Endroit que je recommande pour son service ( de vrais serveurs en
+          habit), sa bonne cuisine.
+
+
+          Cuisine: 5/5 
+
+
+          Service: 5/5
+
+
+          Ambiance: 4/5
+      - author:
+          image:
+            linear: false
+          title: Marie-Hélène Giraud
+        quote: >-
+          L’accueil, le décor, le poids de l’histoire qui se dégage, l’ambiance
+          chaleureuse, la simplicité chic et l’excellente cuisine font du
+          Noailles une brasserie incontournable de Bordeaux ! Merci à toute
+          l’equipe.
+
+
+          Cuisine: 5/5
+
+
+          Service: 5/5
+
+
+          Ambiance: 5/5
+      - author:
+          title: Jacques GUICHARD
+        quote: >-
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
+
+
+          Cuisine: 5/5
+
+
+          Service: 5/5
+
+
+          Ambiance: 4/5
+      - author:
+          title: G.A
+        quote: >-
+          J’adore cette brasserie. Très sympa. Service efficace. Cuisine excellente.
+      - author:
+          title: Viator-helveticus
+        quote: >-
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
 ---
