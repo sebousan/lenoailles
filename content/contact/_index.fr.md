@@ -52,7 +52,7 @@ blocks:
     surtitle: Visite virtuelle
     title: Découvrir notre salle
     image:
-      src: /images/uploads/IMGP9353.jpg
+      src: /images/uploads/salle-milieu-vue-basse.jpg
     cta:
       blank: true
       text: Visite virtuelle
