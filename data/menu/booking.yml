@@ -1,0 +1,18 @@
+fr:
+  links:
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Reserver
+      is_highlighted: true
+en:
+  links:
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Book
+      is_highlighted: true
+es:
+  links:
+    - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      blank: true
+      title: Reserver
+      is_highlighted: true

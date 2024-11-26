@@ -37,6 +37,12 @@ blocks:
       src: /images/uploads/facade.jpg
       legend: Deventure du Noailles dans les années 40
 
+  - type: figure
+    grid: small
+    offset: start
+    figure:
+      src: /images/uploads/petite-facade.jpg
+
   - type: editorial
     surtitle: 1986
     title: Famille Cuny

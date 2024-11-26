@@ -8,22 +8,24 @@ hero:
   image:
     background_image: true
     darken: true
-    src: /images/uploads/salle-du-fond.jpg
+    src: /images/uploads/salle-milieu-vue-bar.jpg
 blocks:
   - type: images
     heading:
       surtitle: Capacité
       title: 100 places assises en configuration restaurant
       text: |-
-        Espaces dédiés dans la salle avec une capacité optimale de **28 places** et de **44 places assises**
+        Espaces dédiés dans la salle avec une capacité optimale de **72 places assises**
 
 
         La véranda est réservée à la clientèle de passage et pour les réservations sauf privatisation complète de la Brasserie.
     images:
-      - src: /images/uploads/salle-milieu-vue-bar.jpg
-        half: true
       - src: /images/uploads/salle-milieu-vue-fenetres.jpg
         half: true
+        legend: Première salle avec une capacité de 44 places assises
+      - src: /images/uploads/salle-du-fond.jpg
+        half: true
+        legend: Deuxième salle avec une capacité de 28 places assises
 
   - type: editorial
     direction: rtl

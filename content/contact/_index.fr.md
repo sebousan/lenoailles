@@ -8,7 +8,7 @@ hero:
   image:
     background_image: true
     darken: true
-    src: /images/uploads/IMGP9402.jpg
+    src: /images/uploads/IMG_7865.jpg
 blocks:
   - type: editorial
     surtitle: Horaires d'ouverture
@@ -25,6 +25,18 @@ blocks:
         text: Réservation en ligne
         url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
     direction: ltr
+
+  - type: editorial
+    direction: rtl
+    surtitle: Visite virtuelle
+    title: Découvrir notre salle
+    image:
+      src: /images/uploads/salle-milieu-vue-basse.jpg
+    cta:
+      blank: true
+      text: Visite virtuelle
+      url: https://www.google.com/maps/@44.8432593,-0.5756103,3a,75y,225h,90t/data=!3m8!1e1!3m6!1shbfmQZsDJ8wAAAQvOsqxqw!2e0!3e2!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DhbfmQZsDJ8wAAAQvOsqxqw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D225.31219%26pitch%3D0!7i13312!8i6656
+
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.575624,44.8432406]}'
@@ -43,20 +55,15 @@ blocks:
         icon: train-lightrail-front
     column: 2
 
-  - type: gallery
-    images:
-      - src: /images/uploads/IMGP9402.jpg
-
   - type: editorial
-    direction: rtl
-    surtitle: Visite virtuelle
-    title: Découvrir notre salle
+    direction: ltr
+    surtitle: 100 places assises
+    title: Réservation pour les groupes
     image:
-      src: /images/uploads/salle-milieu-vue-basse.jpg
+      src: /images/uploads/salle-milieu-vue-bar.jpg
     cta:
-      blank: true
-      text: Visite virtuelle
-      url: https://www.google.com/maps/@44.8432593,-0.5756103,3a,75y,225h,90t/data=!3m8!1e1!3m6!1shbfmQZsDJ8wAAAQvOsqxqw!2e0!3e2!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DhbfmQZsDJ8wAAAQvOsqxqw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D225.31219%26pitch%3D0!7i13312!8i6656
+      text: En savoir plus
+      url: /les-groupes/
 
   - type: form
     background: true

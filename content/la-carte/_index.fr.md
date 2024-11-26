@@ -195,24 +195,88 @@ blocks:
       - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire, Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel Beurre salé)*
         text: 8,50 €
 
-  - type: editorial
-    direction: rtl
-    title: La carte des boissons
-    text: Boissons chaudes, eaux, soda, apéritifs, spiritueux…
-    cta:
-      url: /la-carte-des-boissons/
-      text: Voir la carte des boissons
-    image:
-      src: /images/uploads/IMGP1615.jpg
+  - type: table
+    grid: medium
+    heading:
+      title: Les Champagnes et Effervescents
+    rows:
+      - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
+        text: 39,50 €
+        year: 2024
+  - type: table
+    grid: medium
+    background: true
+    heading:
+      title: Les Champagnes Rosés
+    rows:
+      - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
+        text: 39,50 €
+  - type: table
+    grid: medium
+    heading:
+      title: Les Vins Rosés de Bordeaux et d'Ailleurs
+      text: 75cl
+    rows:
+      - title: Château Réaut *Bordeaux*
+        year: 2023
+        text: 19,00 €
+      - title: Château Grimont *Bordeaux Clairet*
+        year: 2022
+        text: 20,50 €
+      - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
+        year: 2023
+        text: 24,50 €
+        src: /images/uploads/logo-terra-vitis.png
 
-  - type: editorial
-    title: La carte des vins
-    text: Au cœur du plus grand vignoble de vins fins du monde.
-    cta:
-      url: /la-carte-des-vins/
-      text: Voir la carte des vins
-    image:
-      src: /images/uploads/IMGP9882.jpg
+  - type: table
+    grid: medium
+    heading:
+      text: 50cl
+    rows:
+      - title: Château Réaut *Bordeaux*
+        year: 2023
+        text: 19,00 €
+      - title: Château Grimont *Bordeaux Clairet*
+        year: 2022
+        text: 20,50 €
+      - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
+        year: 2023
+        text: 24,50 €
+        src: /images/uploads/logo-terra-vitis.png
+
+  - type: table
+    grid: medium
+    background: true
+    heading:
+      title: Les grands crus classés (75cl)
+      text: Margaux
+    rows:
+      - title: Clos Dufourg
+        year: 2019
+        text: 110,00 €
+        src: /images/uploads/logo-bio.png
+      - title: Margaux du Château Margaux *3ème Vin du Château*
+        year: 2017
+        text: 130,00 €
+      - title: Château Dauzac
+        year: 2013
+        text: 165,00 €
+
+  - type: table
+    grid: medium
+    background: true
+    heading:
+      text: Saint Julien
+    rows:
+      - title: Château Gloria
+        year: 2014
+        text: 98,00 €
+      - title: Château Saint Pierre
+        year: 2015
+        text: 135,00 €
+      - title: Château Saint Pierre
+        year: 2000
+        text: 195,00 €
 
   - type: alert
     state: warning

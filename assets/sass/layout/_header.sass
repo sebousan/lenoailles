@@ -1,0 +1,46 @@
+header[role="banner"]
+    background-color: $header-background-color
+    color: $header-color
+    position: sticky
+    top: 0
+    z-index: $zindex-sticky
+    @media (prefers-reduced-motion: no-preference)
+        transition: top .3s ease
+
+    html:not(.is-dropdown-menu-open).is-scrolling-down &
+        &:not(:hover)
+            top: -$header-height
+    &.is-sticky
+        position: sticky
+
+    > nav
+        @extend .navbar
+        @extend .navbar-expand-xl
+    
+    .btn-menu
+        @extend .navbar-toggler
+        border: 0
+        @include media-breakpoint-down(lg)
+            margin-right: - $navbar-toggler-padding-x
+        > span
+            --bs-navbar-toggler-icon-bg: #{escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$header-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>"))}
+            @extend .navbar-toggler-icon
+    
+    .logo
+        color: $header-color
+        margin-top: -3px
+        padding-left: 53px
+        position: relative
+        white-space: nowrap
+        &::before
+            background: url(/assets/images/picto.svg) no-repeat
+            background-size: auto 100%
+            content: ''
+            height: 42px
+            left: 0
+            position: absolute
+            top: -4px
+            width: 50px
+    .nav-item-highlighted span
+        @include media-breakpoint-down(xxl)
+            display: none

@@ -4,13 +4,18 @@ fr:
       title: La brasserie
     - url: /la-carte/
       title: La carte
-    - url: /offrir/
+    - url: /offrir-un-repas/
       title: Offrir
+    - url: https://www.facebook.com/Le.Noailles
+      title: Actualité
+      blank: true
+    - url: /les-groupes/
+      title: Les groupes
     - url: /contact/
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
       blank: true
-      title: Reserver en ligne
+      title: Reserver<span> en ligne</span>
       is_highlighted: true
 en:
   links:
@@ -24,7 +29,7 @@ en:
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
       blank: true
-      title: Book online
+      title: Book<span> online</span>
       is_highlighted: true
 es:
   links:
@@ -38,5 +43,5 @@ es:
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
       blank: true
-      title: Reserver en ligne
+      title: Reserver<span> en ligne</span>
       is_highlighted: true

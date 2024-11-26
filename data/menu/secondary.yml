@@ -5,7 +5,10 @@ fr:
       title: La brasserie
     - url: /la-carte/
       title: La carte
-    - url: /offrir/
+    - url: https://www.facebook.com/Le.Noailles
+      title: Actualité
+      blank: true
+    - url: /offrir-un-repas/
       title: Offrir un repas
     - url: /les-groupes/
       title: Les groupes
