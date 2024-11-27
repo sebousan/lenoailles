@@ -4,6 +4,11 @@ fr:
       title: La brasserie
     - url: /la-carte/
       title: La carte
+      links:
+        - url: /la-carte/
+          title: La carte
+        - url: /la-carte/#carte-des-vins
+          title: La carte des vins
     - url: /offrir-un-repas/
       title: Offrir
     - url: https://www.facebook.com/Le.Noailles
@@ -25,6 +30,11 @@ en:
       title: The menu
     - url: /en/offrir/
       title: Offrir
+    - url: https://www.facebook.com/Le.Noailles
+      title: Actualité
+      blank: true
+    - url: /en/les-groupes/
+      title: Les groupes
     - url: /en/contact/
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
@@ -35,10 +45,15 @@ es:
   links:
     - url: /es/la-brasserie/
       title: La brasserie
-    - url: /es/la-carte/
-      title: La carte
+    - url: /es/el-menu/
+      title: El menú
     - url: /es/offrir/
       title: Offrir
+    - url: https://www.facebook.com/Le.Noailles
+      title: Actualité
+      blank: true
+    - url: /es/les-groupes/
+      title: Les groupes
     - url: /es/contact/
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU

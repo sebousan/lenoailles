@@ -22,16 +22,6 @@ blocks:
     image:
       src: /images/uploads/IMGP9676.jpg
 
-  - type: editorial
-    title: The wines menu
-    text: Lorem ipsum
-    cta:
-      url: /pdf/carte-vins.pdf
-      blank: true
-      text: View the wines menu (PDF)
-    image:
-      src: /images/uploads/IMGP9882.jpg
-
   - type: alert
     state: warning
     offset: center

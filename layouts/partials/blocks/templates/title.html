@@ -1,0 +1,13 @@
+{{- with . }}
+  {{- $id := print "block-title-" .index -}}
+  {{- with .heading -}}
+    {{- with .title -}}
+      {{- $id = . | urlize -}}
+    {{- end -}}
+  {{- end -}}
+  <section id="{{ $id }}" class="block-title {{- with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
+    <div class="container">
+      {{ partial "blocks/heading.html" . }}
+    </div>
+  </section>
+{{ end }}

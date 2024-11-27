@@ -1,9 +1,10 @@
 ---
 isPage: true
-title: The menu
+title: El menú
+url: el-menu
 hero:
   surtitle: Brasserie Le Noailles
-  title: The menu
+  title: El menú
   align: center
   image:
     background_image: true
@@ -12,24 +13,14 @@ hero:
 blocks:
   - type: editorial
     direction: rtl
-    title: The menu
+    title: El menú
     text: Lorem ipsum
     cta:
-      url: https://www.e-restaurantnfc.com/m3/eRESTAURANT-2.0/lang_select.php?rest_ref=DELBUS1122
+      url: https://www.e-restaurantnfc.com/m3/eRESTAURANT-2.0/erestaurant.php?rest_ref=DELBUS1122&lang_code=SPA#_home
       blank: true
-      text: View the menu
+      text: Ver el menú
     image:
       src: /images/uploads/IMGP9676.jpg
-
-  - type: editorial
-    title: The wines menu
-    text: Lorem ipsum
-    cta:
-      url: /pdf/carte-vins.pdf
-      blank: true
-      text: View the wines menu (PDF)
-    image:
-      src: /images/uploads/IMGP9882.jpg
 
   - type: alert
     state: warning

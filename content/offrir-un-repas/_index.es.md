@@ -19,9 +19,12 @@ blocks:
 
 
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
+
+
+      Envoyez nous un message, nous composerons ensemble votre bon cadeau.
     cta:
       url: '/contact/#form-5'
-      text: Nous contacter
+      text: Message
     image:
       src: /images/uploads/IMG_7199.jpg
     direction: ltr

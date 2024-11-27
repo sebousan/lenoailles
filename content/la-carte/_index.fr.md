@@ -3,13 +3,17 @@ isPage: true
 title: La carte
 hero:
   surtitle: Brasserie Le Noailles
-  title: La carte
+  title: Les cartes
   align: center
   image:
     background_image: true
     darken: true
     src: /images/uploads/IMGP9676.jpg
 blocks:
+  - type: title
+    heading:
+      title: Carte
+
   - type: table
     grid: medium
     heading:
@@ -25,7 +29,6 @@ blocks:
       - title: Saucisse d’Accompagnement
         text: 5,50 €
   - type: table
-    background: true
     grid: medium
     heading:
       title: Les entrées
@@ -70,7 +73,6 @@ blocks:
         text: à l’ardoise
 
   - type: table
-    background: true
     grid: medium
     heading:
       title: Les poissons
@@ -108,7 +110,6 @@ blocks:
         text: 29,50 €
 
   - type: table
-    background: true
     grid: medium
     heading:
       title: Les grillades
@@ -127,7 +128,6 @@ blocks:
         text: 79,50 €
 
   - type: table
-    background: false
     grid: medium
     heading:
       title: Les légumes
@@ -139,7 +139,6 @@ blocks:
         text: 13,00 €
 
   - type: table
-    background: true
     grid: medium
     heading:
       title: Les fromages affinés
@@ -158,7 +157,6 @@ blocks:
         text: 18,50 €
 
   - type: table
-    background: false
     grid: medium
     heading:
       title: Les desserts
@@ -177,7 +175,6 @@ blocks:
         text: 13,00 €
 
   - type: table
-    background: true
     grid: medium
     heading:
       title: Les desserts glacés
@@ -195,24 +192,61 @@ blocks:
       - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire, Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel Beurre salé)*
         text: 8,50 €
 
+  - type: title
+    background: true
+    heading:
+      title: Carte des vins
+
   - type: table
     grid: medium
+    background: true
     heading:
       title: Les Champagnes et Effervescents
+      text: 75cl
     rows:
       - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
         text: 39,50 €
-        year: 2024
+      - title: Besserat de Bellefon *Gde Tradition Brut*
+        text: 74,00 €
+      - title: Moët et Chandon *Impérial*
+        text: 87,00 €
+      - title: Moët et Chandon *Impérial*
+        text: '<span>(la coupe 12,5cl)</span> 15,50 €'
+      - title: Louis Roederer *Brut Premier*
+        text: 90,00 €
+      - title: Veuve Clicquot Ponsardin *Brut*
+        text: 105,00 €
+      - title: Lanson *Le vintage 2012 Brut*
+        text: 135,00 €
+      - title: Louis Roederer *Blanc de Blancs vintage 2015*
+        text: 165,00 €
+      - title: Cattier Clos du Moulin *Brut Premier Cru*
+        text: 205,00 €
+      - title: Cristal Roederer *cuvée 2014*
+        text: 299,00 €
+      - title: Dom Pérignon *cuvée 2013*
+        text: 325,00 €
+      - title: Henri Giraud *MV 18*
+        text: 450,00 €
   - type: table
     grid: medium
     background: true
     heading:
       title: Les Champagnes Rosés
+      text: 75cl
     rows:
-      - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
-        text: 39,50 €
+      - title: Palmer *Rosé cuvée « Solera »*
+        text: 83,50 €
+      - title: Moët et Chandon *Impérial Rosé*
+        text: 108,00 €
+      - title: Veuve Clicquot Ponsardin *Rosé*
+        text: 120,00 €
+      - title: La Grande Dame *Rosé*
+        text: 375,00 €
+
   - type: table
     grid: medium
+    background: true
     heading:
       title: Les Vins Rosés de Bordeaux et d'Ailleurs
       text: 75cl
@@ -230,6 +264,7 @@ blocks:
 
   - type: table
     grid: medium
+    background: true
     heading:
       text: 50cl
     rows:
@@ -248,8 +283,8 @@ blocks:
     grid: medium
     background: true
     heading:
-      title: Les grands crus classés (75cl)
-      text: Margaux
+      title: Les grands crus classés
+      text: Margaux — 75cl
     rows:
       - title: Clos Dufourg
         year: 2019
@@ -266,7 +301,7 @@ blocks:
     grid: medium
     background: true
     heading:
-      text: Saint Julien
+      text: Saint Julien — 75cl
     rows:
       - title: Château Gloria
         year: 2014
