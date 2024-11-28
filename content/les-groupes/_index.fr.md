@@ -15,7 +15,7 @@ blocks:
       surtitle: Capacité
       title: 100 places assises en configuration restaurant
       text: |-
-        Espaces dédiés dans la salle avec une capacité optimale de **72 places assises**
+        Deux espaces dédiés dans la salle avec une capacité totale de **72 places assises**.
 
 
         La véranda est réservée à la clientèle de passage et pour les réservations sauf privatisation complète de la Brasserie.

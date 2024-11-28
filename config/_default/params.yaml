@@ -10,6 +10,15 @@ admin:
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
+  collections:
+    config:
+      files:
+        - nav-primary
+        - nav-legal
+        - nav-social
+        - banner
+        - footer
+        - seo
   blocks:
     enable:
       - alert
