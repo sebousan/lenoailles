@@ -1,6 +1,6 @@
 ---
 isIndex: true
-title: Home
+title: Accueil
 hero:
   surtitle: Bordeaux, Allées de Tourny
   title: Brasserie Le Noailles
@@ -13,44 +13,62 @@ blocks:
   - type: editorial
     background: false
     surtitle: La brasserie
-    title: Un lieu, une histoire
+    title: The Most Parisian of Bordeaux Brasseries
     text: >-
-      Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
+      Since 1932, Le Noailles has offered a timeless setting and refined cuisine in the heart of Bordeaux.
+
+
+      This iconic establishment, where François Mauriac once had his regular table, has welcomed generations of artistic, intellectual, economic, and political figures.
     image:
       src: /images/uploads/IMGP9382.jpg
-    cta:
-      url: /la-brasserie/
-      text: Découvrir la brasserie
+    ctas:
+      - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+        blank: true
+        text: Book now
 
   - type: editorial
     background: false
     direction: rtl
     surtitle: La carte
-    title: La gastronomie bordelaise
+    title: French and Local Specialties
     text: >-
-      La région bordelaise est un pays de Cocagne.
-
-
-      Les 5 départements qui composent l'Aquitaine, foisonnent de produits gourmands dont le Noailles s'inspire pour concocter des mets savoureux et authentiques : lamproie, cèpes, asperges de Blaye, caviar de Gironde, fraises de Dordogne ou du Lot et Garonne, foie gras et volailles des Landes, truffes du Périgord…
+      Le Noailles offers high-end French cuisine, showcasing fresh and locally sourced products. Among the must-tries on the menu, you’ll find deviled eggs, Joël Dupuch’s oysters, pan-fried calf liver, Dover sole, the legendary Tournedos Rossini, iconic dishes of great Parisian brasseries, as well as signature creations like scallops with porcini mushrooms…
     image:
       src: /images/uploads/IMGP9644.jpg
     cta:
-      url: /la-carte/
-      text: Découvrir la carte
+      url: /en/the-menu/
+      text: View the menu
+
   - type: editorial
-    surtitle: Contact
-    title: Ouvert tous les jours de l’année
+    background: false
+    surtitle: History
+    title: A Story of Families
     text: >-
-      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle d’or ».
+      Since 1932, different families have successively taken the helm of this brasserie, which has gradually become a true institution, symbolizing tradition and quality.
+    image:
+      src: /images/uploads/IMGP1452.jpg
+    ctas:
+      - url: /en/la-brasserie/
+        text: Discover la brasserie
+
+  - type: editorial
+    direction: rtl
+    surtitle: Contact
+    title: Open every day of the year
+    text: >-
+      Located in the heart of Bordeaux, in the renowned &quot;Triangle d’Or&quot; district.
 
 
-      Restauration pour le déjeuner et le dîner.
+      Just a few steps from the Grand Théâtre, Le Noailles welcomes you from Monday to Sunday:
+
+      * Lunch: 12:00 PM to 3:00 PM
+
+      * Dinner: 7:00 PM to 11:00 PM
     image:
       src: /images/uploads/IMGP9371.jpg
     cta:
-      url: /contact/
-      text: Venir nous voir
-    direction: ltr
+      url: /en/contact/
+      text: Visit us
 
   - type: figure
     figure:

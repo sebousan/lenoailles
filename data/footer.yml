@@ -14,10 +14,11 @@ en:
     12 Allée de Tourny
     33000 Bordeaux
     France
+
+    +33 (0) 5 56 81 94 45
   title: Le Noailles
   cta:
     text: Contact
-    blank: null
     url: /en/contact/
 es:
   title: Le Noailles
@@ -25,5 +26,8 @@ es:
     12 Allée de Tourny
     33000 Bordeaux
     France
+
+    +33 (0) 5 56 81 94 45
   cta:
-    blank:
+    text: Contact
+    url: /es/contact/

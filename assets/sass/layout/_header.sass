@@ -55,6 +55,12 @@ header[role="banner"]
     .nav-item-highlighted span
         @include media-breakpoint-down(xxl)
             display: none
+    
+    .nav-primary
+        .dropdown-toggle::before
+            content: ''
+            inset: 0
+            position: absolute
 
     .nav-booking
         margin-left: auto

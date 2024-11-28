@@ -28,10 +28,10 @@ en:
       title: La brasserie
     - url: /en/the-menu/
       title: The menu
-    - url: /en/offrir/
+    - url: /en/offrir-un-repas/
       title: Offrir
     - url: https://www.facebook.com/Le.Noailles
-      title: Actualité
+      title: News
       blank: true
     - url: /en/les-groupes/
       title: Les groupes
@@ -47,7 +47,7 @@ es:
       title: La brasserie
     - url: /es/el-menu/
       title: El menú
-    - url: /es/offrir/
+    - url: /es/offrir-un-repas/
       title: Offrir
     - url: https://www.facebook.com/Le.Noailles
       title: Actualité

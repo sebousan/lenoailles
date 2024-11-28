@@ -13,44 +13,58 @@ blocks:
   - type: editorial
     background: false
     surtitle: La brasserie
-    title: Un lieu, une histoire
+    title: La plus Parisienne des Brasseries Bordelaises
     text: >-
-      Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
+      Depuis 1932, le Noailles offre un cadre intemporel et une cuisine raffinée en plein cœur de Bordeaux.
+
+
+      Dans cette institution où François Mauriac avait son rond de serviette, de nombreuses personnalités artistiques, intellectuelles, économiques et politiques se succèdent depuis plusieurs générations.
     image:
       src: /images/uploads/IMGP9382.jpg
-    cta:
-      url: /la-brasserie/
-      text: Découvrir la brasserie
+    ctas:
+      - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+        blank: true
+        text: Réserver
 
   - type: editorial
     background: false
     direction: rtl
     surtitle: La carte
-    title: La gastronomie bordelaise
+    title: Spécialités françaises et locales
     text: >-
-      La région bordelaise est un pays de Cocagne.
-
-
-      Les 5 départements qui composent l'Aquitaine, foisonnent de produits gourmands dont le Noailles s'inspire pour concocter des mets savoureux et authentiques : lamproie, cèpes, asperges de Blaye, caviar de Gironde, fraises de Dordogne ou du Lot et Garonne, foie gras et volailles des Landes, truffes du Périgord…
+      Le Noailles vous offre une cuisine française haut de gamme, mettant en avant des produits frais et locaux. Parmi les incontournables de la carte, vous retrouverez les œufs mimosa, les huîtres de Joël Dupuch, le foie de veau poêlé, la sole, le légendaire tournedos Rossini, des plats emblématiques des grandes brasseries parisiennes mais aussi quelques plats signature comme les saint jacques aux cèpes…
     image:
       src: /images/uploads/IMGP9644.jpg
     cta:
       url: /la-carte/
       text: Découvrir la carte
+
   - type: editorial
+    background: false
+    surtitle: Histoire
+    title: Une histoire de familles
+    text: >-
+      Depuis 1932, différentes familles ont successivement pris les rênes de cette brasserie, qui est progressivement devenue une véritable institution, symbole de tradition et de qualité.
+    image:
+      src: /images/uploads/IMGP1452.jpg
+    ctas:
+      - url: /la-brasserie/
+        text: Découvrir la brasserie
+
+  - type: editorial
+    direction: rtl
     surtitle: Contact
     title: Ouvert tous les jours de l’année
     text: >-
       Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle d’or ».
 
 
-      Restauration pour le déjeuner et le dîner.
+      À quelques mètres du grand théâtre le Noailles vous accueille du lundi au dimanche de 12h00 à 15h00 et de 19h00 à 23h00.
     image:
       src: /images/uploads/IMGP9371.jpg
     cta:
       url: /contact/
       text: Venir nous voir
-    direction: ltr
 
   - type: figure
     figure:

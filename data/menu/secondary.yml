@@ -12,3 +12,32 @@ fr:
       title: Offrir un repas
     - url: /les-groupes/
       title: Les groupes
+
+en:
+  title: Menu
+  links:
+    - url: /en/la-brasserie/
+      title: La brasserie
+    - url: /en/the-menu/
+      title: The menu
+    - url: https://www.facebook.com/Le.Noailles
+      title: News
+      blank: true
+    - url: /en/offrir-un-repas/
+      title: Offrir un repas
+    - url: /en/les-groupes/
+      title: Les groupes
+es:
+  title: Menu
+  links:
+    - url: /es/la-brasserie/
+      title: La brasserie
+    - url: /es/the-menu/
+      title: The menu
+    - url: https://www.facebook.com/Le.Noailles
+      title: News
+      blank: true
+    - url: /es/offrir-un-repas/
+      title: Offrir un repas
+    - url: /es/les-groupes/
+      title: Les groupes
