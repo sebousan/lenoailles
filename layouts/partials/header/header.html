@@ -1,0 +1,14 @@
+<header role="banner">
+  <nav role="navigation" aria-label="{{ i18n "navigation.main" }}">
+    <div class="container">
+      {{ partialCached "header/logo.html" . }}
+      {{ if site.Data.menu.booking }}
+        {{ partial "nav/booking.html" . }}
+      {{ end }}
+      {{ if site.Data.menu.primary }}
+        {{ partialCached "header/button" . }}
+        {{ partial "header/offcanvas" . }}
+      {{ end }}
+    </div>
+  </nav>
+</header>

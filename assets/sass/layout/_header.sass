@@ -28,19 +28,41 @@ header[role="banner"]
     
     .logo
         color: $header-color
-        margin-top: -3px
-        padding-left: 53px
+        padding-left: 40px
         position: relative
         white-space: nowrap
         &::before
             background: url(/assets/images/picto.svg) no-repeat
             background-size: auto 100%
             content: ''
-            height: 42px
+            height: 30px
             left: 0
             position: absolute
-            top: -4px
-            width: 50px
+            top: 50%
+            transform: translateY(-50%)
+            width: 35px
+        @media (min-width: 370px)
+            padding-left: 53px
+            &::before
+                height: 42px
+                width: 50px
+        @include media-breakpoint-up(xl)
+            margin-top: -3px
+
     .nav-item-highlighted span
         @include media-breakpoint-down(xxl)
+            display: none
+
+    .nav-booking
+        margin-left: auto
+        .nav-item-highlighted
+            a
+                --bs-btn-padding-y: #{$nav-link-padding-y}
+                @extend .btn
+                @extend .btn-primary
+                white-space: nowrap
+                @include media-breakpoint-down(sm)
+                    --bs-btn-padding-x: .75rem
+                    --bs-btn-padding-y: .35rem
+        @include media-breakpoint-up(xl)
             display: none
