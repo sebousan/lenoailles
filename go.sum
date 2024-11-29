@@ -4,13 +4,12 @@ github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+y
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hugolify/hugolify-admin v0.0.0-20241128120113-c943978c6981 h1:rbGm2/77HShGg3tSQzadLLI5qhT2YBe3pnFS7OHcalQ=
 github.com/hugolify/hugolify-admin v0.0.0-20241128120113-c943978c6981/go.mod h1:uzHDyMS/6myuT/jXLJGYzrIkOgEgwcd6fyRzlomMtEM=
-github.com/hugolify/hugolify-theme v1.18.13 h1:ySyy5VbD+YXr9dzyldYdBj/vqr70WHYvNHJaVXx9EkI=
-github.com/hugolify/hugolify-theme v1.18.13/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
+github.com/hugolify/hugolify-theme v1.18.14 h1:PNvTfpLSvI0h2ZKECGAuXXnP0KkzIuhus9+efwUDGAA=
+github.com/hugolify/hugolify-theme v1.18.14/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-4 v0.0.0-20241128085213-e79a963b9e50 h1:zqAu+Um+TDFtwY1/8RvdcKQYpgK2l6qit1ltutBEk4g=
 github.com/hugolify/hugolify-theme-4 v0.0.0-20241128085213-e79a963b9e50/go.mod h1:+Bq3W1XezJTk4tnEUtksomRwykOHFWx6yrYS5N4oaiw=
 github.com/midzer/tobii v2.6.0+incompatible h1:roAZ7LkES1ElqXdvFRwquDe4zuhry6fOCwjpW5UsK28=
 github.com/midzer/tobii v2.6.0+incompatible/go.mod h1:ByXFkVm8ja2+TXT7L+lfkdEIeHW4IdWdsQO8zJ5mEqA=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
