@@ -9,6 +9,8 @@ fr:
           title: La carte
         - url: /la-carte/#carte-des-vins
           title: La carte des vins
+        - url: /la-carte/#carte-des-boissons
+          title: La carte des boissons
     - url: /offrir-un-repas/
       title: Offrir
     - url: https://www.facebook.com/Le.Noailles

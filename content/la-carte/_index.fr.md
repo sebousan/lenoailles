@@ -33,28 +33,30 @@ blocks:
     heading:
       title: Les entrées
     rows:
+      - title: L’Entrée du jour
+        text: à l’ardoise
       - title: Œuf Mimosa au thon
         text: 9,50 €
       - title: Grenier Médocain
         text: 11,50 €
-      - title: Assiette de Jambon de Parme
-        text: 13,50 €
-      - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
-        text: 15,00 €
-      - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron vert)*
-        text: 18,50 €
-      - title: Foie Gras de Canard mi cuit au Lillet
-        text: 25,00 €
-      - title: Gazpacho Andalou
-        text: 10,50 €
+      - title: Hareng Pommes à l’Huile
+        text: 11,50 €
       - title: Salade de Chèvre chaud rôti à l’huile de noix
         text: 12,50 €
-      - title: Artichaut Vinaigrette
-        text: 14,00 €
+      - title: Soupe à l’Oignon Gratinée
+        text: 13,50 €
+      - title: Assiette de Jambon de Parme
+        text: 14,00 €
       - title: Saumon Gravlax
         text: 15,50 €
+      - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
+        text: 16,50 €
+      - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron vert)*
+        text: 18,50 €
       - title: Œuf à la coque au Caviar d’Aquitaine *(Perlita)*
         text: 19,50 €
+      - title: Foie Gras de Canard mi cuit au Lillet
+        text: 25,00 €
       - title: Caviar d’Aquitaine (30g) *(Perlita)*
         text: 79,50 €
 
@@ -64,11 +66,11 @@ blocks:
       title: Les œufs et plats végétariens
     rows:
       - title: Œuf Bacon
-        text: 15,50 €
+        text: 16,50 €
       - title: Omelette aux Cèpes
         text: 27,50 €
       - title: Omelette aux Truffes
-        text: 35,50 €
+        text: 36,50 €
       - title: Plat Végétarien du Moment
         text: à l’ardoise
 
@@ -77,12 +79,12 @@ blocks:
     heading:
       title: Les poissons
     rows:
-      - title: Dos de Merlu Grillé, Crème d’Ail et ses Petits Légumes
-        text: 24,50 €
+      - title: Dos de Merlu Grillé sauce Raisins & Sauternes et ses Petits Légumes
+        text: 26,50 €
       - title: 1ère Symphonie de Maître Lombard *(Saumon, Merlu et Saint Jacques)*
         text: 28,50 €
       - title: Noix de St Jacques aux Cèpes
-        text: 33,50 €
+        text: 35,50 €
       - title: Sole Grillée ou Meunière *(Selon Arrivage)*
         text: 44,50 €
 
@@ -92,22 +94,24 @@ blocks:
     heading:
       title: Les classiques
     rows:
-      - title: Suprême de Volaille Rôti Crème de Moutarde, Tagliatelles
-        text: 19,00 €
-      - title: Tartare de Bœuf *assaisonné ou non*
+      - title: Suprême de Volaille Rôti Sauce Vermouth, Tagliatelles
         text: 20,50 €
-      - title: Tête de Veau Ravigote Pomme vapeur
+      - title: Tartare de Bœuf *assaisonné ou non*
         text: 21,00 €
-      - title: Foie de Veau poêlé au vinaigre de Xérès
-        text: 21,50 €
       - title: Rognons de Veau grillés Purée Maison
-        text: 22,00 €
-      - title: Médaillon de Boudin Noir et sa Purée aux deux Pommes
-        text: 22,50 €
+        text: 21,50 €
       - title: Confit de Canard au four *(10 min cuisson) et ses Frites Maison*
-        text: 23,50 €
-      - title: Cèpes à la Bordelaise
+        text: 22,00 €
+      - title: Tête de Veau Ravigote Pomme vapeur
+        text: 22,50 €
+      - title: Foie de Veau poêlé au vinaigre de Xérès
+        text: 23,00 €
+      - title: 'Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail, Jarreton Braisé, Jambon à l’Os*'
         text: 29,50 €
+      - title: Cèpes à la Bordelaise
+        text: 32,50 €
+      - title: Foie de Canard Frais Poêlé aux Fruits (Fra)
+        text: 36,50 €
 
   - type: table
     grid: medium
@@ -119,13 +123,13 @@ blocks:
       - title: Magret de Canard Grillé 200g *avec ou sans Sauce au Poivre*
         text: 22,50 €
       - title: Entrecôte Grillée Sauce Bordelaise 300g
-        text: 27,50 €
+        text: 28,50 €
       - title: Tournedos Grillé *(Sauce au choix)*
-        text: 36,00 €
+        text: 37,00 €
       - title: Tournedos Rossini au Foie gras de Canard poêlé
-        text: 44,00 €
+        text: 45,00 €
       - title: Côte de Bœuf 1,2 Kg pour deux aux échalotes confites *(Sauce au choix)*
-        text: 79,50 €
+        text: 89,50 €
 
   - type: table
     grid: medium
@@ -143,17 +147,17 @@ blocks:
     heading:
       title: Les fromages affinés
     rows:
+      - title: Rocamadour A.O.P.
+        text: 7,00 €
+      - title: Roquefort A.O.P.
+        text: 7,50 €
       - title: Camembert au lait cru
         text: 8,00 €
-      - title: Chabichou du Poitou
-        text: 9,00 €
       - title: Brebis du Pays Basque
         text: 9,00 €
-      - title: Roquefort A.O.P.
-        text: 6,50 €
-      - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Chabichou et Roquefort)*
+      - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et Roquefort)*
         text: 15,00 €
-      - title: Assiette des 4 Bergers *(Camembert, Brebis, Chabichou et Roquefort)*
+      - title: Assiette des 4 Bergers *(Camembert, Brebis, Rocamadour et Roquefort)*
         text: 18,50 €
 
   - type: table
@@ -164,15 +168,15 @@ blocks:
       - title: Crème Brûlée à la Vanille
         text: 8,50 €
       - title: Fromage Blanc *et son Coulis fruits Rouge ou Caramel au Beurre Salé*
-        text: 7,50 €
+        text: 8,50 €
       - title: Mousse au Chocolat Maison
-        text: 9,00 €
-      - title: Pâtisserie du jour Maison
         text: 9,50 €
+      - title: Pâtisserie du jour Maison
+        text: 10,00 €
       - title: Coupe de Fraises
         text: 10,00 €
       - title: Le Café Gourmand
-        text: 13,00 €
+        text: 13,20 €
 
   - type: table
     grid: medium
@@ -838,6 +842,28 @@ blocks:
       - title: Château Cheval Blanc *Saint Emilion*
         year: 2015
         text: 1 520,00 €
+
+  - type: title
+    heading:
+      title: Carte des boissons
+
+  - type: table
+    grid: medium
+    heading:
+      title: Les Boissons Chaudes
+    rows:
+      - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à la solidarité locale*
+        text: 3,20 €
+      - title: Décaféiné
+        text: 3,40 €
+      - title: Thé *Earl Grey, Ceylan, Darjeeling, Thé vert, Thé vert Menthe*
+        text: 5,10 €
+      - title: Infusion *Tilleul, Camomille, Verveine, Verveine Menthe*
+        text: 5,10 €
+      - title: Irish Coffee
+        text: 13,50 €
+      - title: French Coffee
+        text: 14,50 €
 
   - type: alert
     state: warning
