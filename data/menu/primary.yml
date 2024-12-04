@@ -30,6 +30,11 @@ en:
       title: La brasserie
     - url: /en/the-menu/
       title: The menu
+      links:
+        - url: /en/the-menu/
+          title: The menu
+        - url: /en/the-menu/#wine-menu
+          title: Wine menu
     - url: /en/offrir-un-repas/
       title: Offrir
     - url: https://www.facebook.com/Le.Noailles
