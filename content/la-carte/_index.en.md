@@ -842,7 +842,7 @@ blocks:
 
   - type: title
     heading:
-      title: Carte des boissons
+      title: Drinks menu
 
   - type: table
     grid: medium
