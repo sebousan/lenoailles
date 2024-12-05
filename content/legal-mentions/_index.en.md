@@ -8,33 +8,37 @@ hero:
 
 ## Editor
 
-La Brasserie Le Noailles, SARL, dont le siège social est situé au 12 allée de Tourny, 33000 Bordeaux, immatriculée sous le numéro 325 337 053 R.C.S. BORDEAUX, est l’éditeur du site web de la Brasserie Le Noailles.
+La Brasserie Le Noailles, SARL, whose registered office is located at 12 Allée de Tourny, 33000 Bordeaux, registered under number 325 337 053 R.C.S. BORDEAUX, is the publisher of the Brasserie Le Noailles website.
 
-**Directeur de la publication :**\
-Monsieur Nicolas Cuny\
+**Publication director:**\
+Mr Nicolas Cuny\
 +33 (0)5 56 81 94 45
 
-## Mentions
+## Legal notice
 
-Ce site est une création intellectuelle originale qui, par conséquent, entre dans le champ de protection du droit d'auteur. Chacun des éléments qui le composent est également protégé par des droits de propriété intellectuelle et/ou industrielle. Toute personne qui portera atteinte aux droits de propriété intellectuelle attachés aux différents objets de ce site internet se rend coupable du délit de contrefaçon et est passible des sanctions pénales prévues par la loi.
+This website is an original intellectual creation and, as such, is protected under copyright law. Each of its components is also protected by intellectual and/or industrial property rights. Any person who infringes the intellectual property rights related to the various elements of this website commits the offense of counterfeiting and is liable to the penalties provided by law.
 
-Les marques et noms de domaine qui peuvent apparaître sur le site Internet de la Brasserie Le Noailles en sont sa propriété exclusive.
+The trademarks and domain names that may appear on the Brasserie Le Noailles website are its exclusive property.
 
-Toute reproduction ou utilisation de ces marques ou noms de domaine, de quelque manière et à quelque titre que ce soit, est interdite.
+Any reproduction or use of these trademarks or domain names, in any manner and for any purpose, is prohibited.
 
-La création de liens hypertextes vers le site Internet de la Brasserie Le Noailles ne peut être faite qu’avec l’autorisation écrite et préalable de la Brasserie Le Noailles.
+Creating hyperlinks to the Brasserie Le Noailles website is only allowed with the prior written authorization of Brasserie Le Noailles.
 
-La Brasserie Le Noailles décline toute responsabilité concernant le contenu de sites liés au site Internet de La Brasserie Le Noailles.
+La Brasserie Le Noailles declines all responsibility for the content of websites linked to the Brasserie Le Noailles website.
 
-La Brasserie Le Noailles est susceptible de collecter vos données personnelles. Seule La Brasserie Le Noailles est destinataire de ces données personnelles.
+## Data Collection and Privacy
 
-Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée en 2004, vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant au Département Communication, 12 Allée de Tourny - 33000 Bordeaux ou par e-mail à lenoailles@orange.fr.
+La Brasserie Le Noailles may collect your personal data. Only Brasserie Le Noailles is the recipient of this data.
 
-La Brasserie Le Noailles s'est pleinement efforcée de s’assurer que les informations accessibles par l’intermédiaire de son site Internet sont exactes. Cependant, nous ne garantissons en aucune manière que ces informations soient exactes, complètes ou à jour.
+In accordance with the "Data Protection Act" of January 6, 1978, as amended in 2004, you have the right to access and rectify information concerning you. You may exercise this right by contacting the Communication Department, 12 Allée de Tourny, 33000 Bordeaux, or by email at lenoailles@orange.fr.
 
-La Brasserie Le Noailles n’assure aucune garantie, expresse ou tacite, concernant tout ou partie de son site Internet.
+## Accuracy and liability
 
-En aucun cas, La Brasserie Le Noailles ne peut être tenue pour responsable d’un quelconque dommage direct ou indirect, quelle qu’en soit la nature, découlant de l’utilisation de son site Internet.
+La Brasserie Le Noailles has made every effort to ensure that the information accessible through its website is accurate. However, we do not guarantee in any way that this information is accurate, complete, or up to date.
+
+La Brasserie Le Noailles provides no express or implied warranty regarding any part of its website.
+
+Under no circumstances can La Brasserie Le Noailles be held responsible for any direct or indirect damage, of any nature whatsoever, arising from the use of its website.
 
 ## Hosting
 
@@ -56,6 +60,6 @@ https://uncinq.dev
 **Solution**\
 This site was designed with [Hugolify](https://www.hugolify.io), an open-source Jamstack solution, which allows you to design a site that is as environmentally friendly as possible and closest to accessibility criteria.
 
-**Droits d’auteur photographies :**\
-© Frédéric Guy pour Le Noailles\
-Archives Brasserie Le Noailles
+**Copyright for Photographs**\
+© Frédéric Guy for Le Noailles\
+Brasserie Le Noailles Archives
