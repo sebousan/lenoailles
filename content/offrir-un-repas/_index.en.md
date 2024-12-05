@@ -1,9 +1,10 @@
 ---
 isPage: true
-title: Offrir un repas
+title: To offer a meal
+url: to-offer-a-meal
 hero:
   surtitle: Brasserie Le Noailles
-  title: Offrir un repas
+  title: To offer a meal
   align: center
   image:
     background_image: true
@@ -11,17 +12,15 @@ hero:
     src: /images/uploads/IMGP1413.jpg
 blocks:
   - type: editorial
-    title: Offrez un repas au Noailles
+    title: Offer a meal at Le Noailles
     text: >-
-      Un cadeau de fin d'année, un cadeau d'anniversaire, un cadeau pour fêter
-      un évènement particulier…
+      A year-end gift, a birthday present, or a way to celebrate a special occasion…
 
 
+      Choose from our full [à la carte](/la-carte/) menu according to your budget.
 
-      Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
 
-
-      Envoyez nous un message, nous composerons ensemble votre bon cadeau.
+      Send us a message, and together we’ll create your personalized gift voucher.
     cta:
       url: '/contact/#form-5'
       text: Message

@@ -1,5 +1,6 @@
 ---
 isIndex: true
+draft: true
 title: Home
 hero:
   surtitle: Bordeaux, Allées de Tourny

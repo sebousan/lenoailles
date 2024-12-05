@@ -83,7 +83,7 @@ blocks:
             value: Dîner
         required: true
         autocomplete: false
-      - label: Nombre de convives
+      - label: Nombre de convives (15 minimum)
         type: number
         required: true
         autocomplete: false

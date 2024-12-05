@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: El menú
 url: el-menu
 hero:

@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: Offrir un repas
 hero:
   surtitle: Brasserie Le Noailles

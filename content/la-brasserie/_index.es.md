@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: La brasserie
 hero:
   surtitle: Brasserie Le Noailles
@@ -62,7 +63,7 @@ blocks:
     grid: medium
     offset: center
     figure:
-      src: /images/uploads/salle-milieu-vue-bar.jpg
+      src: /images/uploads/IMGP0146.jpg
 
   - type: editorial
     direction: rtl

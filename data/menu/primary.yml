@@ -1,7 +1,5 @@
 fr:
   links:
-    - url: /la-brasserie/
-      title: La brasserie
     - url: /la-carte/
       title: La carte
       links:
@@ -11,11 +9,13 @@ fr:
           title: La carte des vins
         - url: /la-carte/#carte-des-boissons
           title: La carte des boissons
-    - url: /offrir-un-repas/
-      title: Offrir
     - url: https://www.facebook.com/Le.Noailles
       title: Actualité
       blank: true
+    - url: /la-brasserie/
+      title: La brasserie
+    - url: /offrir-un-repas/
+      title: Offrir
     - url: /les-groupes/
       title: Les groupes
     - url: /contact/
@@ -26,22 +26,22 @@ fr:
       is_highlighted: true
 en:
   links:
+    - url: /en/the-menu/
+      title: La carte
+      links:
+        - url: /en/la-carte/
+          title: La carte
+        - url: /en/la-carte/#wine-list
+          title: Wine list
+    - url: https://www.facebook.com/Le.Noailles
+      title: Restaurant news
+      blank: true
     - url: /en/la-brasserie/
       title: La brasserie
-    - url: /en/the-menu/
-      title: The menu
-      links:
-        - url: /en/the-menu/
-          title: The menu
-        - url: /en/the-menu/#wine-menu
-          title: Wine menu
-    - url: /en/offrir-un-repas/
-      title: Offrir
-    - url: https://www.facebook.com/Le.Noailles
-      title: News
-      blank: true
-    - url: /en/les-groupes/
-      title: Les groupes
+    - url: /en/to-offer-a-meal/
+      title: Offer
+    - url: /en/groups/
+      title: Groups
     - url: /en/contact/
       title: Contact
     - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
@@ -50,15 +50,15 @@ en:
       is_highlighted: true
 es:
   links:
-    - url: /es/la-brasserie/
-      title: La brasserie
     - url: /es/el-menu/
       title: El menú
-    - url: /es/offrir-un-repas/
-      title: Offrir
     - url: https://www.facebook.com/Le.Noailles
       title: Actualité
       blank: true
+    - url: /es/la-brasserie/
+      title: La brasserie
+    - url: /es/offrir-un-repas/
+      title: Offrir
     - url: /es/les-groupes/
       title: Les groupes
     - url: /es/contact/

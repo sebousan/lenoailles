@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: Les groupes
 hero:
   surtitle: Brasserie Le Noailles

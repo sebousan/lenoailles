@@ -1,9 +1,10 @@
 ---
 isPage: true
-title: Les groupes
+title: Groups
+url: groups
 hero:
   surtitle: Brasserie Le Noailles
-  title: Les groupes
+  title: Groups
   align: center
   image:
     background_image: true
@@ -13,60 +14,60 @@ blocks:
   - type: images
     heading:
       surtitle: Capacité
-      title: 100 places assises en configuration restaurant
+      title: 100 seats in a full restaurant setup
       text: |-
-        Espaces dédiés dans la salle avec une capacité optimale de **72 places assises**
+        **Dedicated spaces** in the dining room with an optimal capacity of **72 seats**
 
 
-        La véranda est réservée à la clientèle de passage et pour les réservations sauf privatisation complète de la Brasserie.
+        The veranda is reserved for walk-in customers and standard reservations unless the brasserie is fully privatized.
     images:
       - src: /images/uploads/salle-milieu-vue-fenetres.jpg
         half: true
-        legend: Première salle avec une capacité de 44 places assises
+        legend: 'First room: capacity of 44 seats'
       - src: /images/uploads/salle-du-fond.jpg
         half: true
-        legend: Deuxième salle avec une capacité de 28 places assises
+        legend: 'Second room: capacity of 28 seats'
 
   - type: editorial
     direction: rtl
-    surtitle: Visite virtuelle
-    title: Découvrir notre salle
+    surtitle: Virtual Tour
+    title: Discover our dining space
     image:
       src: /images/uploads/salle-milieu-vue-basse.jpg
     cta:
       blank: true
-      text: Visite virtuelle
+      text: Virtual Tour
       url: https://www.google.com/maps/@44.8432593,-0.5756103,3a,75y,225h,90t/data=!3m8!1e1!3m6!1shbfmQZsDJ8wAAAQvOsqxqw!2e0!3e2!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DhbfmQZsDJ8wAAAQvOsqxqw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D225.31219%26pitch%3D0!7i13312!8i6656
 
   - type: title
     heading:
-      surtitle: Nos menus
-      title: Le Noailles vous garantit une carte haute en saveur.
+      surtitle: Our Menus
+      title: At Noailles, we guarantee a flavorful menu.
       text: >-
-        Dans un décor aux accents art déco et au cadre intemporel, notre chef vous propose les incontournables de la brasserie parisienne mais aussi des plats régionaux tel que le Grenier Médocain, la Cuisse de Canard Confite ou la Belle Entrecôte 300g et sa sauce Bordelaise…
+        In a timeless art deco-inspired setting, our chef offers the classics of a Parisian brasserie alongside regional specialties such as Grenier Médocain, Duck Confit, or the Beautiful 300g Grilled Entrecôte with Bordelaise Sauce…
 
 
-        En fonction de votre budget et de la période, nous vous proposerons le menu le plus adapté à vos envies.
+        Depending on your budget and the season, we’ll suggest the menu best suited to your desires.
   - type: form
     background: true
     offset: center
     grid: medium
     name: form-group
-    submit: Envoyer
+    submit: Send
     heading:
-      surtitle: Contactez-nous
-      title: Votre évènement
-      text: Pour profiter d’un repas entre collègues ou amis et célébrer toute occasion aussi bien dans un cadre privé que professionnel, chacun de vos événements trouvera au Noailles un cadre à sa mesure.
+      surtitle: Contact Us
+      title: Your Event
+      text: Whether it’s a meal with colleagues or friends, or a celebration in a private or professional setting, le Noailles offers the perfect venue for any occasion.
     items:
-      - label: Nom
+      - label: Name
         type: text
         required: true
         autocomplete: name
-      - label: Société
+      - label: Company
         type: text
         required: false
         autocomplete: organization
-      - label: Téléphone
+      - label: Phone
         type: tel
         required: true
         autocomplete: tel
@@ -74,25 +75,25 @@ blocks:
         type: email
         required: true
         autocomplete: email
-      - label: Type d’évènement
+      - label: Event Type
         type: select
         options:
-          - title: Déjeuner
-            value: Déjeuner
-          - title: Dîner
-            value: Dîner
+          - title: Lunch
+            value: Lunch
+          - title: Diner
+            value: Diner
         required: true
         autocomplete: false
-      - label: Nombre de convives
+      - label: Number of guests (minimum of 15)
         type: number
         required: true
         autocomplete: false
-      - label: Budget par personne
+      - label: Budget per person
         type: number
-        hint: Montant TTC en €
+        # hint: Montant TTC en €
         required: true
         autocomplete: false
-      - label: Date souhaitée
+      - label: Preferred date
         type: date
         required: true
         autocomplete: false

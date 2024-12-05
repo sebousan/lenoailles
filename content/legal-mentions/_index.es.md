@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: Mentions légales
 url: mentions-legales
 hero:

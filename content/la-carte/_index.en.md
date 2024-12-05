@@ -1,10 +1,9 @@
 ---
 isPage: true
-title: The menu
-url: the-menu
+title: La carte
 hero:
   surtitle: Brasserie Le Noailles
-  title: The menu
+  title: La carte
   align: center
   image:
     background_image: true
@@ -197,7 +196,7 @@ blocks:
   - type: title
     background: true
     heading:
-      title: Wine menu
+      title: Wine list
 
   - type: table
     grid: medium

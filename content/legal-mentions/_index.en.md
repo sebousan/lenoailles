@@ -1,13 +1,12 @@
 ---
 isPage: true
-title: Mentions légales
-url: mentions-legales
+title: Legal mentions
 hero:
-  title: Mentions légales
+  title: Legal mentions
   align: center
 ---
 
-## Editeur
+## Editor
 
 La Brasserie Le Noailles, SARL, dont le siège social est situé au 12 allée de Tourny, 33000 Bordeaux, immatriculée sous le numéro 325 337 053 R.C.S. BORDEAUX, est l’éditeur du site web de la Brasserie Le Noailles.
 
@@ -37,7 +36,7 @@ La Brasserie Le Noailles n’assure aucune garantie, expresse ou tacite, concern
 
 En aucun cas, La Brasserie Le Noailles ne peut être tenue pour responsable d’un quelconque dommage direct ou indirect, quelle qu’en soit la nature, découlant de l’utilisation de son site Internet.
 
-## Hébergement
+## Hosting
 
 **Netlify**\
 2325 3rd Street, \
@@ -50,14 +49,12 @@ https://www.netlify.com
 
 ## Conception
 
-**Intégration et développement**\
+**Web development**\
 Un Cinq\
 https://uncinq.dev
 
 **Solution**\
-Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d’accessibilité.
-
-## Crédits
+This site was designed with [Hugolify](https://www.hugolify.io), an open-source Jamstack solution, which allows you to design a site that is as environmentally friendly as possible and closest to accessibility criteria.
 
 **Droits d’auteur photographies :**\
 © Frédéric Guy pour Le Noailles\

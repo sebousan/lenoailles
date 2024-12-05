@@ -1,5 +1,6 @@
 ---
 isPage: true
+draft: true
 title: Contact
 hero:
   surtitle: Brasserie Le Noailles
@@ -80,14 +81,14 @@ blocks:
         required: true
         autocomplete: name
         full: true
-      - label: Email
-        type: email
-        required: true
-        autocomplete: email
       - label: Téléphone
         type: tel
         required: true
         autocomplete: tel
+      - label: Email
+        type: email
+        required: true
+        autocomplete: email
       - label: Message
         type: textarea
         full: true
