@@ -8,19 +8,24 @@ module.exports = {
     '@fullhuman/postcss-purgecss': {
       mode: 'all',
       content: ['./hugo_stats.json'],
-      dynamicAttributes: ['aria-current', 'href', 'role'],
+      dynamicAttributes: [
+        'aria-current',
+        'aria-hidden',
+        'aria-expanded',
+        'href',
+        'role',
+        'type'
+      ],
       safelist: {
         standard: [
           'show',
+          'showing',
+          'hide',
           'fade',
           /-backdrop$/,
           /^is-/,
-          /^has-/,
-          /^js-/,
-          /^[href^="#"]/,
-          /^[href^="mailto"]/
-        ],
-        deep: [/^tobii/]
+          /^splide_/
+        ]
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;
