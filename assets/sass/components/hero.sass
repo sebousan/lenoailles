@@ -1,0 +1,106 @@
+.hero
+    background-color: $hero-background-color
+    color: $hero-color
+    position: relative
+    .container
+        @include padding-bottom($global-spacing)
+        @include padding-top($global-spacing)
+        display: flex
+        min-height: $hero-min-height
+        position: relative
+    .row
+        align-items: center
+        flex-basis: calc(100% + var(--bs-gutter-x))
+    a:not(.btn)
+        color: $hero-color
+    h1, .description
+        text-wrap: balance
+    h1:last-child
+        margin-bottom: 0
+    .cta, &-content > .btn
+        margin-top: $spacer
+    .btn:first-of-type
+        @extend .btn-primary
+    .btn + .btn
+        @extend .btn-outline-primary
+
+    @if variable-exists(icons-map)
+        .btn[href^="#"] 
+            &::after
+                @include icon('arrow-down-short')
+                margin-left: .5rem
+
+    &-cover
+        height: 100%
+        left: 0
+        position: absolute
+        top: 0
+        width: 100%
+        img
+            height: 100%
+            object-fit: cover
+            pointer-events: none
+            width: 100%
+    &-cover-darken
+        img
+            filter: brightness(.3)
+        & + div
+            color: white
+            .btn + .btn
+                --bs-btn-bg: transparent
+                --bs-btn-color: #{$light}
+                --bs-btn-border-color: #{$light}
+                --bs-btn-hover-color: #{$black}
+                --bs-btn-hover-bg: #{$light}
+                --bs-btn-hover-border-color: #{$light}
+                --bs-btn-focus-shadow-rgb: 248,249,250
+                --bs-btn-active-color: #{$black}
+                --bs-btn-active-bg: #{$light}
+                --bs-btn-active-border-color: #{$light}
+                --bs-btn-disabled-color: #{$light}
+                --bs-btn-disabled-bg: transparent
+                --bs-btn-disabled-border-color: #{$light}
+
+    &-content
+        @extend .col-md-6
+        @extend .col-xl-5
+    &-center &-content
+        @extend .offset-md-3
+        @extend .col-xl-6
+    &-media
+        @extend .col-md-6
+        @extend .col-xl-4
+        @extend .offset-xl-1
+        img
+            height: auto
+            width: 100%
+    .hero-content + .hero-content
+        @extend .col-md-5
+        @extend .offset-md-1
+        @extend .col-xl-4
+        @extend .offset-xl-2
+        @include media-breakpoint-down(lg)
+            margin-top: $grid-gutter-width
+
+    // Only one content
+    &:not(&-with-image):not(&-with-second-content)
+        .hero-content
+            @extend .col-md-10
+            @extend .col-xl-10
+        &.hero-center .hero-content
+            @extend .offset-md-1
+    
+    @include media-breakpoint-down(md)
+        &-media
+            img
+                margin-top: $spacer
+
+    @include media-breakpoint-up(md)
+        &-center 
+            .hero-content
+                text-align: center
+            .cta
+                display: inline-flex
+        &-end 
+            .row
+                flex-direction: row-reverse
