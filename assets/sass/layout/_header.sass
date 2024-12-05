@@ -64,14 +64,15 @@ header[role="banner"]
 
     .nav-booking
         margin-left: auto
-        .nav-item-highlighted
-            a
-                --bs-btn-padding-y: #{$nav-link-padding-y}
-                @extend .btn
-                @extend .btn-primary
-                white-space: nowrap
-                @include media-breakpoint-down(sm)
-                    --bs-btn-padding-x: .75rem
-                    --bs-btn-padding-y: .35rem
         @include media-breakpoint-up(xl)
             display: none
+        
+    
+    .nav-item-highlighted
+        a
+            --bs-btn-padding-y: #{$nav-link-padding-y}
+            @extend .btn
+            @include button-variant($primary,$primary)
+            @include media-breakpoint-down(sm)
+                --bs-btn-padding-x: .75rem
+                --bs-btn-padding-y: .35rem

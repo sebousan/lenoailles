@@ -20,9 +20,9 @@
     .cta, &-content > .btn
         margin-top: $spacer
     .btn:first-of-type
-        @extend .btn-primary
+        @include button-variant($primary,$primary)
     .btn + .btn
-        @extend .btn-outline-primary
+        @include button-outline-variant($primary)
 
     @if variable-exists(icons-map)
         .btn[href^="#"] 
@@ -47,20 +47,8 @@
         & + div
             color: white
             .btn + .btn
-                --bs-btn-bg: transparent
-                --bs-btn-color: #{$light}
-                --bs-btn-border-color: #{$light}
-                --bs-btn-hover-color: #{$black}
-                --bs-btn-hover-bg: #{$light}
-                --bs-btn-hover-border-color: #{$light}
-                --bs-btn-focus-shadow-rgb: 248,249,250
-                --bs-btn-active-color: #{$black}
-                --bs-btn-active-bg: #{$light}
-                --bs-btn-active-border-color: #{$light}
-                --bs-btn-disabled-color: #{$light}
-                --bs-btn-disabled-bg: transparent
-                --bs-btn-disabled-border-color: #{$light}
-
+                @include button-outline-variant($light)
+                
     &-content
         @extend .col-md-6
         @extend .col-xl-5
