@@ -175,11 +175,11 @@ blocks:
       - title: Coffee with a mix of small desserts
         text: 13,20 €
 
-  # - type: table
-  #   grid: medium
-  #   heading:
-  #     title: Les desserts glacés
-    rows:
+      # - type: table
+      #   grid: medium
+      #   heading:
+      #     title: Les desserts glacés
+      # rows:
       - title: Salted butter Caramel ice cream sundae
         text: 9,50 €
       - title: Coffee or Chocolate ice cream sundae

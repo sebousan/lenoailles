@@ -16,10 +16,10 @@ fr:
 en:
   title: Menu
   links:
-    - url: /en/the-menu/
-      title: The menu
+    - url: /en/la-carte/
+      title: La carte
     - url: https://www.facebook.com/Le.Noailles
-      title: News
+      title: Restaurant news
       blank: true
     - url: /en/la-brasserie/
       title: La brasserie
@@ -30,8 +30,8 @@ en:
 es:
   title: Menu
   links:
-    - url: /es/el-menu/
-      title: El menú
+    - url: /es/la-carte/
+      title: La carte
     - url: https://www.facebook.com/Le.Noailles
       title: News
       blank: true

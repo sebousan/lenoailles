@@ -26,13 +26,15 @@ fr:
       is_highlighted: true
 en:
   links:
-    - url: /en/the-menu/
+    - url: /en/la-carte/
       title: La carte
       links:
         - url: /en/la-carte/
           title: La carte
         - url: /en/la-carte/#wine-list
           title: Wine list
+        - url: /en/la-carte/#carte-des-boissons
+          title: La Carte des boissons
     - url: https://www.facebook.com/Le.Noailles
       title: Restaurant news
       blank: true
@@ -50,8 +52,15 @@ en:
       is_highlighted: true
 es:
   links:
-    - url: /es/el-menu/
-      title: El menú
+    - url: /es/la-carte/
+      title: La carte
+      links:
+        - url: /es/la-carte/
+          title: La carte
+        - url: /es/la-carte/#carte-des-vins
+          title: La carte des vins
+        - url: /es/la-carte/#carte-des-boissons
+          title: La Carte des boissons
     - url: https://www.facebook.com/Le.Noailles
       title: Actualité
       blank: true
