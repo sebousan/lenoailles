@@ -67,12 +67,15 @@ header[role="banner"]
         @include media-breakpoint-up(xl)
             display: none
         
-    
     .nav-item-highlighted
         a
             --bs-btn-padding-y: #{$nav-link-padding-y}
             @extend .btn
             @include button-variant($primary,$primary)
-            @include media-breakpoint-down(sm)
-                --bs-btn-padding-x: .75rem
-                --bs-btn-padding-y: .35rem
+
+    @include media-breakpoint-down(sm)
+        .nav-booking
+            .nav-item-highlighted
+                a
+                    --bs-btn-padding-x: .75rem
+                    --bs-btn-padding-y: .35rem
