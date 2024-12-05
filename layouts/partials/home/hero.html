@@ -11,7 +11,8 @@
   {{ with .image }}
     {{ if .background_image }}
       {{- $picture_class := "hero-cover" -}}
-      {{- $cover := "1600x650" -}}
+      {{- $desktop := "1600x650" -}}
+      {{- $mobile := "375x375" -}}
       {{- $mobile := site.Params.hero.cover_mobile -}}
       {{- if .darken -}}
         {{- $picture_class = printf "%s hero-cover-darken" $picture_class -}}
@@ -19,7 +20,7 @@
       {{ partial "commons/image.html" (dict
           "src" .src
           "alt" .alt
-          "desktop" $cover
+          "desktop" $desktop
           "mobile" $mobile
           "picture_class" $picture_class
           "lazy" false

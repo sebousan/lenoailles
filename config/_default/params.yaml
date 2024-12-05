@@ -5,6 +5,7 @@ logo:
   footer: /assets/images/logo-footer.svg
 hero:
   cover: 1600x350
+  cover_mobile: 375x200
 
 admin:
   i18n:

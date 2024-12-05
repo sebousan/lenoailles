@@ -1,4 +1,6 @@
 .home-page
     .hero-cover + .container
+        @include media-breakpoint-down(md)
+            aspect-ratio: 1
         @include media-breakpoint-up(md)
             min-height: 650px
