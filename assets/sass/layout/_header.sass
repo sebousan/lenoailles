@@ -66,16 +66,19 @@ header[role="banner"]
         margin-left: auto
         @include media-breakpoint-up(xl)
             display: none
+
+    .nav-language
+        .dropdown-toggle
+            --bs-nav-link-font-size: .875rem
         
     .nav-item-highlighted
-        a
+        .btn
             --bs-btn-padding-y: #{$nav-link-padding-y}
-            @extend .btn
             @include button-variant($primary,$primary)
 
     @include media-breakpoint-down(sm)
         .nav-booking
             .nav-item-highlighted
-                a
+                .btn
                     --bs-btn-padding-x: .75rem
                     --bs-btn-padding-y: .35rem
