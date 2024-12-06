@@ -25,6 +25,7 @@ admin:
       - alert
       - editorial
       - form
+      - figure
       - informations
       - map
       - pushes
