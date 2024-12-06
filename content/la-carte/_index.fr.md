@@ -291,6 +291,7 @@ blocks:
     background: true
     heading:
       title: Les Vins Blancs de Bordeaux et d’Ailleurs
+      text: 75cl
     rows:
       - title: Château La Rose Bois Montet *(Bordeaux)*
         year: 2023
@@ -367,6 +368,34 @@ blocks:
       - title: Château Yquem *1er GCC - Sauternes*
         year: 2011
         text: 580,00 €
+
+  - type: table
+    grid: medium
+    background: true
+    heading:
+      text: 37,5cl
+    rows:
+      - title: Château Sainte Marie *Entre deux Mers (Bordeaux)*
+        year: 2023
+        text: 18,00 €
+      - title: Château de Chantegrive *Graves (Bordeaux)*
+        year: 2020
+        text: 20,50 €
+      - title: Château Rochemorin *Pessac Léognan*
+        year: 2020
+        text: 25,50 €
+      - title: Château Fontaine-Audon *Sancerre - Loire*
+        year: 2022
+        text: 29,00 €
+      - title: Château Sigalas Rabaud *1er CC - Sauternes*
+        year: 2007
+        text: 66,50 €
+      - title: Château de Fieuzal *Pessac Léognan*
+        year: 2019
+        text: 79,50 €
+      - title: Château Yquem *1er CC - Sauternes*
+        year: 2016
+        text: 320,00 €
 
   - type: table
     grid: medium
@@ -574,21 +603,24 @@ blocks:
       - title: Château Batailley
         year: 2017
         text: 118,50 €
+      - title: Château Bellevue Cardon
+        year: 2015
+        text: 140,00 €
       - title: Château Grand-Puy-Lacoste
         year: 2006
         text: 210,00 €
-      - title: Château Lynch Bages
+      - title: Château Pontet-Canet
+        year: 2017
+        text: 215,00 €
+      - title: Château Pichon Longueville *Comtesse de Lalande*
+        year: 2017
+        text: 265,00 €
+      - title: Château Pontet-Canet
         year: 2016
-        text: 280,00 €
-      - title: Château Pontet-Canet
-        year: 2014
-        text: 245,00 €
-      - title: Château Pontet-Canet
-        year: 2011
-        text: 265,00 €
-      - title: Château Pontet-Canet
-        year: 2015
-        text: 295,00 €
+        text: 295,00 €
+      - title: Château Lynch Bages
+        year: 2010
+        text: 340,00 €
 
   - type: table
     grid: medium
@@ -597,12 +629,6 @@ blocks:
       text: Saint Estèphe — 75cl
     rows:
       - title: Château Haut-Marbuzet **— 37,50cl**
-        year: 2014
-        text: 39,50 €
-      - title: Château Haut-Marbuzet
-        year: 2014
-        text: 82,50 €
-      - title: Château Haut-Marbuzet **— 37,50cl**
         year: 2017
         text: 39,50 €
       - title: Château Haut-Marbuzet
@@ -610,28 +636,28 @@ blocks:
         text: 82,50 €
       - title: Château Phélan Ségur
         year: 2012
-        text: 122,50 €
+        text: 125,50 €
       - title: Château Lafon-Rochet
-        year: 2006
-        text: 135,00 €
+        year: 2017
+        text: 99,50 €
       - title: Château Montrose
         year: 2014
-        text: 250,00 €
+        text: 225,00 €
       - title: Château Montrose
-        year: 2015
-        text: 270,00 €
+        year: 2017
+        text: 255,00 €
       - title: Château Montrose
         year: 2010
-        text: 440,00 €
+        text: 480,00 €
       - title: Château Calon-Ségur
-        year: 2016
-        text: 285,00 €
-      - title: Château Cos d’Estournel
-        year: 2014
-        text: 270,00 €
+        year: 2017
+        text: 255,00 €
       - title: Château Cos d’Estournel
         year: 2008
-        text: 320,00 €
+        text: 300,00 €
+      - title: Château Cos d’Estournel
+        year: 2016
+        text: 420,00 €
 
   - type: table
     grid: medium
@@ -639,33 +665,33 @@ blocks:
     heading:
       text: Pessac Léognan — 75cl
     rows:
+      - title: Château Latour Martillac **— 37,50cl**
+        year: 2019
+        text: 43,50 €
+      - title: Château Latour Martillac
+        year: 2014
+        text: 85,00 €
       - title: Château Carbonnieux
         year: 2018
-        text: 90,00 €
-      - title: Château Latour Martillac **— 37,50cl**
-        year: 2016
-        text: 46,00 €
-      - title: Château Latour Martillac
-        year: 2016
-        text: 96,50 €
-      - title: Château Latour Martillac **— 37,50cl**
-        year: 2019
-        text: 46,00 €
-      - title: Château Latour Martillac
-        year: 2019
-        text: 96,50 €
+        text: 88,50 €
       - title: Château Malartic Lagravière
-        year: 2006
-        text: 120,00 €
-      - title: Château les Carmes Haut-Brion
-        year: 2014
-        text: 250,00 €
+        year: 2016
+        text: 130,00 €
+      - title: Domaine de Chevalier
+        year: 2017
+        text: 155,00 €
       - title: Château Smith Haut Lafitte
-        year: 2016
-        text: 275,00 €
+        year: 2017
+        text: 185,00 €
+      - title: Château Pape Clément
+        year: 2011
+        text: 215,00 €
+      - title: Château les Carmes Haut-Brion
+        year: 2017
+        text: 215,00 €
       - title: Château Haut-Bailly
-        year: 2016
-        text: 285,00 €
+        year: 2017
+        text: 225,00 €
 
   - type: table
     grid: medium
@@ -683,35 +709,32 @@ blocks:
         year: 2013
         text: 145,00 €
       - title: Château Pavie Macquin
-        year: 2016
-        text: 195,00 €
-      - title: Château Troplong Mondot
-        year: 2015
+        year: 2017
+        text: 185,00 €
+      - title: Château Bellevue
+        year: 2012
         text: 230,00 €
+      - title: Clos Fourtet
+        year: 2017
+        text: 235,00 €
       - title: Château Troplong Mondot
         year: 2002
-        text: 260,00 €
-      - title: Clos Fourtet
-        year: 2016
-        text: 250,00 €
-      - title: Château Valandraud
-        year: 2006
-        text: 295,00 €
+        text: 270,00 €
       - title: Chapelle D’Ausone
         year: 2015
         text: 370,00 €
       - title: Château Figeac
         year: 2016
-        text: 530,00 €
+        text: 495,00 €
+      - title: Château Pavie
+        year: 1988
+        text: 620,00 €
       - title: Château Angélus
         year: 2009
         text: 849,50 €
       - title: Château Ausone
         year: 2015
-        text: 1 620,00 €
-      - title: Château Valandraud
-        year: 2006
-        text: 295,00 €
+        text: 1 215,00 €
 
   - type: table
     grid: medium
@@ -720,41 +743,47 @@ blocks:
       text: Pomerol — 75cl
     rows:
       - title: Château La Fleur de Plince **— 37,50cl**
-        year: 2014
+        year: 2015
         text: 54,50 €
       - title: Château La Fleur de Plince
         year: 2014
         text: 89,00 €
       - title: Château Bellegrave
         year: 2010
-        text: 115,00 €
+        text: 120,00 €
       - title: Château Clinet
-        year: 2014
-        text: 195,00 €
+        year: 2015
+        text: 245,00 €
       - title: Château L’Évangile
         year: 2011
-        text: 320,00 €
+        text: 290,00 €
       - title: Château La Conseillante
+        year: 2004
+        text: 300,00 €
+      - title: Vieux Château Certan
+        year: 2017
+        text: 350,00 €
+      - title: Vieux Château Certan
         year: 2014
-        text: 340,00 €
+        text: 365,00 €
       - title: Château Trotanoy
-        year: 2015
-        text: 580,00 €
-      - title: Vieux Château Certan
-        year: 2014
-        text: 380,00 €
-      - title: Vieux Château Certan
-        year: 2010
-        text: 720,00 €
-      - title: Le Pin
-        year: 2014
-        text: 3 250,00 €
+        year: 2016
+        text: 440,00 €
+      - title: Château Lafleur
+        year: 2004
+        text: 840,00 €
+      - title: Château Lafleur
+        year: 2011
+        text: 980,00 €
       - title: Petrus
         year: 2004
-        text: 3 450,00 €
+        text: 2 800,00 €
+      - title: Le Pin
+        year: 2017
+        text: 3 250,00 €
       - title: Petrus
         year: 2005
-        text: 6 850,00 €
+        text: 4 995,00 €
 
   - type: table
     grid: medium
@@ -763,36 +792,24 @@ blocks:
       title: Les 1er grands crus classés
       text: 75cl
     rows:
-      - title: Château Yquem *Sauternes* **— 37,50cl**
-        year: 2011
-        text: 320,00 €
-      - title: Château Yquem *Sauternes* **— 37,50cl**
-        year: 2016
-        text: 320,00 €
-      - title: Château Yquem *Sauternes*
-        year: 2011
-        text: 570,00 €
-      - title: Château Yquem *Sauternes*
-        year: 2016
-        text: 570,00 €
       - title: Château Margaux *Margaux*
         year: 2004
-        text: 1 060,00 €
+        text: 900,00 €
       - title: Château Mouton Rothschild *Pauillac*
-        year: 2014
-        text: 1 040,00 €
-      - title: Château Haut-Brion *Pessac Léognan*
-        year: 2016
-        text: 1 150,00 €
+        year: 2006
+        text: 935,00 €
       - title: Château Latour *Pauillac*
         year: 2006
-        text: 1 250,00 €
-      - title: Château Lafite Rothschild *Pauillac*
-        year: 2011
-        text: 1 460,00 €
+        text: 1 070,00 €
       - title: Château Cheval Blanc *Saint Emilion*
         year: 2015
-        text: 1 520,00 €
+        text: 1 080,00 €
+      - title: Château Haut-Brion *Pessac Léognan*
+        year: 2016
+        text: 1 090,00 €
+      - title: Château Lafite Rothschild *Pauillac*
+        year: 2011
+        text: 1 190,00 €
 
   - type: title
     heading:
