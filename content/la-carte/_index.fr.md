@@ -1,4 +1,5 @@
 ---
+id: 7bb39912-eb56-4df2-aec6-ea6885c4143d
 isPage: true
 title: La carte
 hero:
@@ -13,7 +14,6 @@ blocks:
   - type: title
     heading:
       title: Carte
-
   - type: table
     grid: medium
     heading:
@@ -51,7 +51,9 @@ blocks:
         text: 15,50 €
       - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
         text: 16,50 €
-      - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron vert)*
+      - title:
+          Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron
+          vert)*
         text: 18,50 €
       - title: Œuf à la coque au Caviar d’Aquitaine *(Perlita)*
         text: 19,50 €
@@ -59,7 +61,6 @@ blocks:
         text: 25,00 €
       - title: Caviar d’Aquitaine (30g) *(Perlita)*
         text: 79,50 €
-
   - type: table
     grid: medium
     heading:
@@ -73,7 +74,6 @@ blocks:
         text: 36,50 €
       - title: Plat Végétarien du Moment
         text: à l’ardoise
-
   - type: table
     grid: medium
     heading:
@@ -87,7 +87,6 @@ blocks:
         text: 35,50 €
       - title: Sole Grillée ou Meunière *(Selon Arrivage)*
         text: 44,50 €
-
   - type: table
     background: false
     grid: medium
@@ -106,13 +105,15 @@ blocks:
         text: 22,50 €
       - title: Foie de Veau poêlé au vinaigre de Xérès
         text: 23,00 €
-      - title: 'Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail, Jarreton Braisé, Jambon à l’Os*'
+      - title:
+          'Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame
+          Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail,
+          Jarreton Braisé, Jambon à l’Os*'
         text: 29,50 €
       - title: Cèpes à la Bordelaise
         text: 32,50 €
       - title: Foie de Canard Frais Poêlé aux Fruits (Fra)
         text: 36,50 €
-
   - type: table
     grid: medium
     heading:
@@ -130,18 +131,17 @@ blocks:
         text: 45,00 €
       - title: Côte de Bœuf 1,2 Kg pour deux aux échalotes confites *(Sauce au choix)*
         text: 89,50 €
-
   - type: table
     grid: medium
     heading:
       title: Les légumes
-      text: Frites Maison, Purée Maison, Tagliatelles, Endives Rissolées, Salade Verte, Riz, Jardinière de Légumes
+      text: Frites Maison, Purée Maison, Tagliatelles, Endives Rissolées, Salade
+        Verte, Riz, Jardinière de Légumes
     rows:
       - title: En Supplément
         text: 6,00 €
       - title: En Plat
         text: 13,00 €
-
   - type: table
     grid: medium
     heading:
@@ -155,11 +155,12 @@ blocks:
         text: 8,00 €
       - title: Brebis du Pays Basque
         text: 9,00 €
-      - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et Roquefort)*
+      - title:
+          Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et
+          Roquefort)*
         text: 15,00 €
       - title: Assiette des 4 Bergers *(Camembert, Brebis, Rocamadour et Roquefort)*
         text: 18,50 €
-
   - type: table
     grid: medium
     heading:
@@ -177,7 +178,6 @@ blocks:
         text: 10,00 €
       - title: Le Café Gourmand
         text: 13,20 €
-
   - type: table
     grid: medium
     heading:
@@ -193,14 +193,16 @@ blocks:
         text: 11,50 €
       - title: Fraise Melba
         text: 12,00 €
-      - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire, Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel Beurre salé)*
+      - title:
+          Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
+          Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel
+          Beurre salé)*
         text: 8,50 €
 
   - type: title
     background: true
     heading:
       title: Carte des vins
-
   - type: table
     grid: medium
     background: true
@@ -243,7 +245,6 @@ blocks:
         text: 115,00 €
       - title: La Grande Dame *Rosé*
         text: 375,00 €
-
   - type: table
     grid: medium
     background: true
@@ -257,22 +258,25 @@ blocks:
       - title: Château Grimont *Bordeaux Clairet*
         year: 2022
         text: 20,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
         year: 2024
         text: 24,50 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Les Trois Croix *Vdf Famille Patrick Léon*
         year: 2023
         text: 32,00 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Whispering Angel *des Caves d'Esclans Provence*
         year: 2023
         text: 47,00 €
       - title: Château de Selle *Domaines Ott CC Provence*
         year: 2023
         text: 71,50 €
+        src: /images/uploads/logo-ab.svg
       - title: Les Clans *du Château d'Esclans Provence*
         year: 2021
         text: 108,00 €
-
   - type: table
     grid: medium
     background: true
@@ -285,7 +289,7 @@ blocks:
       - title: Château de Selle *Domaines Ott CC Provence* **— 37,50cl**
         year: 2022
         text: 43,50 €
-
+        src: /images/uploads/logo-ab.svg
   - type: table
     grid: medium
     background: true
@@ -296,6 +300,7 @@ blocks:
       - title: Château La Rose Bois Montet *(Bordeaux)*
         year: 2023
         text: 19,50 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Réaut blanc *Sauvignon (Bordeaux)*
         year: 2023
         text: 20,50 €
@@ -308,6 +313,7 @@ blocks:
       - title: Château  Graville Lacoste *Graves (Bordeaux)*
         year: 2023
         text: 27,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Sainte Marie *Entre deux Mers (Bordeaux)*
         year: 2023
         text: 29,00 €
@@ -317,24 +323,29 @@ blocks:
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2018
         text: 31,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Fayard *St Macaire (Bordeaux)*
         year: 2018
         text: 36,50 €
       - title: Domaine de Riquewhir *Riesling – Alsace*
         year: 2018
         text: 38,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Rochemorin *Pessac Léognan*
         year: 2020
         text: 42,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Tour Léognan *2ème vin Carbonnieux*
         year: 2020
         text: 41,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Domaine du Colombier *Chablis – Bourgogne*
         year: 2022
         text: 47,50 €
       - title: Château Fontaine-Audon *Sancerre - Loire*
         year: 2022
         text: 50,50 €
+        src: /images/uploads/logo-terra-vitis.png
       - title: Bourgogne Côte-d’Or *M. Parize & P.Méreau*
         year: 2022
         text: 57,00 €
@@ -350,6 +361,7 @@ blocks:
       - title: Château Carbonnieux *Cru classé - Pessac Léognan*
         year: 2021
         text: 84,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Sigalas Rabaud *1er cru classé – Sauternes*
         year: 2000
         text: 116,50 €
@@ -368,7 +380,6 @@ blocks:
       - title: Château Yquem *1er GCC - Sauternes*
         year: 2011
         text: 580,00 €
-
   - type: table
     grid: medium
     background: true
@@ -396,7 +407,6 @@ blocks:
       - title: Château Yquem *1er CC - Sauternes*
         year: 2016
         text: 320,00 €
-
   - type: table
     grid: medium
     background: true
@@ -422,6 +432,7 @@ blocks:
       - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
         year: 2020
         text: 28,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Fernon *Graves (Bordeaux)*
         year: 2019
         text: 33,50 €
@@ -443,6 +454,7 @@ blocks:
       - title: Les Haldes de Luchey *Pessac léognan*
         year: 2018
         text: 41,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château La Haye *Saint Estèphe (Médoc)*
         year: 2019
         text: 42,50 €
@@ -455,6 +467,7 @@ blocks:
       - title: Château Les Trois Croix *Fronsac Famille Patrick Léon*
         year: 2020
         text: 48,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Aurore de Dauzac *Margaux 2ème vin Cht Dauzac*
         year: 2017
         text: 51,50 €
@@ -467,12 +480,15 @@ blocks:
       - title: Clos de la Barthassade « les gravettes » *Larzac (Languedoc)*
         year: 2022
         text: 54,50 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Haut Bergey *« Cuvée Paul » Pessac Léognan*
         year: 2019
         text: 55,50 €
+        src: /images/uploads/logo-ab.svg
       - title: Abbatucci « Faustine » V
         year: 2023
         text: 56,00 €
+        src: /images/uploads/logo-ab.svg
       - title: Lacoste-Borie *Pauillac 2ème vin de Gd-Puy-Lacoste*
         year: 2017
         text: 63,00 €
@@ -491,7 +507,6 @@ blocks:
       - title: Clos Rougeard « le Clos » *Saumur Champigny*
         year: 2018
         text: 310,00 €
-
   - type: table
     grid: medium
     background: true
@@ -503,12 +518,15 @@ blocks:
       - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
         year: 2020
         text: 17,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2019
         text: 25,00 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Les Haldes de Luchey *Pessac Léognan*
         year: 2019
         text: 25,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château La Grâce Dieu *Saint Emilion*
         year: 2018
         text: 27,50 €
@@ -518,7 +536,6 @@ blocks:
       - title: Château De France *Pessac Léognan*
         year: 2018
         text: 38,00 €
-
   - type: table
     grid: medium
     background: true
@@ -550,7 +567,6 @@ blocks:
       - title: Château Palmer
         year: 2017
         text: 460,00 €
-
   - type: table
     grid: medium
     background: true
@@ -587,7 +603,6 @@ blocks:
       - title: Château Ducru-Beaucaillou
         year: 2009
         text: 580,00 €
-
   - type: table
     grid: medium
     background: true
@@ -612,16 +627,17 @@ blocks:
       - title: Château Pontet-Canet
         year: 2017
         text: 215,00 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Pichon Longueville *Comtesse de Lalande*
         year: 2017
         text: 265,00 €
       - title: Château Pontet-Canet
         year: 2016
         text: 295,00 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Lynch Bages
         year: 2010
         text: 340,00 €
-
   - type: table
     grid: medium
     background: true
@@ -658,7 +674,6 @@ blocks:
       - title: Château Cos d’Estournel
         year: 2016
         text: 420,00 €
-
   - type: table
     grid: medium
     background: true
@@ -671,9 +686,11 @@ blocks:
       - title: Château Latour Martillac
         year: 2014
         text: 85,00 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Carbonnieux
         year: 2018
         text: 88,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Malartic Lagravière
         year: 2016
         text: 130,00 €
@@ -692,7 +709,6 @@ blocks:
       - title: Château Haut-Bailly
         year: 2017
         text: 225,00 €
-
   - type: table
     grid: medium
     background: true
@@ -735,7 +751,6 @@ blocks:
       - title: Château Ausone
         year: 2015
         text: 1 215,00 €
-
   - type: table
     grid: medium
     background: true
@@ -751,6 +766,7 @@ blocks:
       - title: Château Bellegrave
         year: 2010
         text: 120,00 €
+        src: /images/uploads/logo-ab.svg
       - title: Château Clinet
         year: 2015
         text: 245,00 €
@@ -784,7 +800,6 @@ blocks:
       - title: Petrus
         year: 2005
         text: 4 995,00 €
-
   - type: table
     grid: medium
     background: true
@@ -814,13 +829,14 @@ blocks:
   - type: title
     heading:
       title: Carte des boissons
-
   - type: table
     grid: medium
     heading:
       title: Les Boissons Chaudes
     rows:
-      - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à la solidarité locale*
+      - title:
+          Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
+          la solidarité locale*
         text: 3,20 €
       - title: Décaféiné
         text: 3,40 €
@@ -832,11 +848,11 @@ blocks:
         text: 13,50 €
       - title: French Coffee
         text: 14,50 €
-
   - type: alert
     state: warning
     offset: center
     grid: medium
-    text: |-
-      En accord avec la Loi : L-112-8 du code monétaire et financier, nous n’acceptons plus les chèques. Prix nets TVA au taux de 10 % incluse (20% sur les Alcools) et Service compris.
+    text: 'En accord avec la Loi : L-112-8 du code monétaire et financier, nous
+      n’acceptons plus les chèques. Prix nets TVA au taux de 10 % incluse (20%
+      sur les Alcools) et Service compris.'
 ---
