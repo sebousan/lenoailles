@@ -1,5 +1,5 @@
 {{- $fields := slice 
-  "title" 
+  "title_markdown" 
   "image_src" 
   "year" 
   "text" -}}

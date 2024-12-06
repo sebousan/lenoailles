@@ -8,7 +8,6 @@ hero:
   cover_mobile: 375x200
 
 admin:
-  branch: main
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
