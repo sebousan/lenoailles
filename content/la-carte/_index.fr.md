@@ -208,30 +208,28 @@ blocks:
       title: Les Champagnes et Effervescents
       text: 75cl
     rows:
-      - title: Moët et Chandon *Impérial* **<span>— la coupe 12,5cl**
-        text: 15,50 €
       - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
         text: 39,50 €
       - title: Besserat de Bellefon *Gde Tradition Brut*
         text: 74,00 €
-      - title: Moët et Chandon *Impérial*
-        text: 87,00 €
       - title: Louis Roederer *Brut Premier*
-        text: 90,00 €
+        text: 88,50 €
+      - title: Moët et Chandon *Impérial*
+        text: 92.50 €
       - title: Veuve Clicquot Ponsardin *Brut*
         text: 105,00 €
       - title: Lanson *Le vintage 2012 Brut*
         text: 135,00 €
       - title: Louis Roederer *Blanc de Blancs vintage 2015*
-        text: 165,00 €
+        text: 170,00 €
       - title: Cattier Clos du Moulin *Brut Premier Cru*
-        text: 205,00 €
-      - title: Cristal Roederer *cuvée 2014*
-        text: 299,00 €
-      - title: Dom Pérignon *cuvée 2013*
-        text: 325,00 €
+        text: 215,00 €
       - title: Henri Giraud *MV 18*
-        text: 450,00 €
+        text: 265,00 €
+      - title: Cristal Roederer *cuvée 2014*
+        text: 315,00 €
+      - title: Dom Pérignon *cuvée 2013*
+        text: 375,00 €
   - type: table
     grid: medium
     background: true
@@ -240,11 +238,9 @@ blocks:
       text: 75cl
     rows:
       - title: Palmer *Rosé cuvée « Solera »*
-        text: 83,50 €
-      - title: Moët et Chandon *Impérial Rosé*
-        text: 108,00 €
+        text: 91,00 €
       - title: Veuve Clicquot Ponsardin *Rosé*
-        text: 120,00 €
+        text: 115,00 €
       - title: La Grande Dame *Rosé*
         text: 375,00 €
 
@@ -256,26 +252,23 @@ blocks:
       text: 75cl
     rows:
       - title: Château Réaut *Bordeaux*
-        year: 2022
+        year: 2023
         text: 19,00 €
       - title: Château Grimont *Bordeaux Clairet*
-        year: 2021
+        year: 2022
         text: 20,50 €
       - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
-        year: 2022
+        year: 2024
         text: 24,50 €
       - title: Château Les Trois Croix *Vdf Famille Patrick Léon*
-        year: 2022
-        text: 29,50 €
-      - title: BY Ott *Par Domaines Ott Provence*
-        year: 2022
-        text: 35,50 €
+        year: 2023
+        text: 32,00 €
       - title: Whispering Angel *des Caves d'Esclans Provence*
-        year: 2022
-        text: 46,00 €
+        year: 2023
+        text: 47,00 €
       - title: Château de Selle *Domaines Ott CC Provence*
-        year: 2022
-        text: 69,50 €
+        year: 2023
+        text: 71,50 €
       - title: Les Clans *du Château d'Esclans Provence*
         year: 2021
         text: 108,00 €
@@ -286,18 +279,12 @@ blocks:
     heading:
       text: Autres
     rows:
-      - title: BY Ott *Par Domaines Ott Provence* **— 50cl**
-        year: 2022
-        text: 26,00 €
       - title: Whispering Angel *des Caves d'Esclans Provence* **— 37,50cl**
-        year: 2022
+        year: 2023
         text: 33,50 €
       - title: Château de Selle *Domaines Ott CC Provence* **— 37,50cl**
         year: 2022
-        text: 42,50 €
-      - title: Whispering Angel *des Caves d'Esclans Provence* **— 150cl**
-        year: 2022
-        text: 96,50 €
+        text: 43,50 €
 
   - type: table
     grid: medium
@@ -306,83 +293,80 @@ blocks:
       title: Les Vins Blancs de Bordeaux et d’Ailleurs
     rows:
       - title: Château La Rose Bois Montet *(Bordeaux)*
-        year: 2022
-        text: 17,50 €
+        year: 2023
+        text: 19,50 €
       - title: Château Réaut blanc *Sauvignon (Bordeaux)*
-        year: 2022
+        year: 2023
         text: 20,50 €
       - title: N°1 de Dourthe *(Bordeaux)*
+        year: 2023
+        text: 23,50 €
+      - title: Refuge d’amour *IGP côtes de Gascogne*
         year: 2022
-        text: 22,50 €
-      - title: Orby *Côtes de Gascogne moelleux*
-        year: 2021
-        text: 23,50 €
-      - title: Château Sainte Marie *Entre deux Mers (Bordeaux)*
-        year: 2022
-        text: 27,00 €
+        text: 24,50 €
       - title: Château  Graville Lacoste *Graves (Bordeaux)*
-        year: 2022
-        text: 28,50 €
+        year: 2023
+        text: 27,50 €
+      - title: Château Sainte Marie *Entre deux Mers (Bordeaux)*
+        year: 2023
+        text: 29,00 €
       - title: Clos des Orfeuilles *Muscadet Sèvre et Maine sur lie-Loire*
-        year: 2020
-        text: 29,50 €
+        year: 2021
+        text: 30,50 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2018
         text: 31,50 €
-      - title: Château de Chantegrive *Graves (Bordeaux)*
-        year: 2020
-        text: 31,50 €
       - title: Château Fayard *St Macaire (Bordeaux)*
-        year: 2016
-        text: 35,50 €
+        year: 2018
+        text: 36,50 €
+      - title: Domaine de Riquewhir *Riesling – Alsace*
+        year: 2018
+        text: 38,50 €
       - title: Château Rochemorin *Pessac Léognan*
-        year: 2019
-        text: 38,50 €
+        year: 2020
+        text: 42,50 €
       - title: Château Tour Léognan *2ème vin Carbonnieux*
         year: 2020
         text: 41,50 €
-      - title: Domaine de Riquewhir *Riesling – Alsace*
-        year: 2017
-        text: 42,50 €
       - title: Domaine du Colombier *Chablis – Bourgogne*
-        year: 2021
+        year: 2022
         text: 47,50 €
       - title: Château Fontaine-Audon *Sancerre - Loire*
-        year: 2021
-        text: 51,50 €
+        year: 2022
+        text: 50,50 €
       - title: Bourgogne Côte-d’Or *M. Parize & P.Méreau*
-        year: 2020
-        text: 52,50 €
+        year: 2022
+        text: 57,00 €
       - title: Château Roûmieu-Lacoste *Sauternes*
         year: 2018
         text: 53,50 €
-      - title: DLes Demoiselles Larrivet Haut-Brion *Pessac Léognan*
+      - title: Les Demoiselles Larrivet Haut-Brion *Pessac Léognan*
         year: 2019
-        text: 58,00 €
+        text: 59,50 €
       - title: Domaine Pascal Jolivet *Pouilly Fumé - Loire*
-        year: 2022
-        text: 61,50 €
+        year: 2023
+        text: 62,50 €
       - title: Château Carbonnieux *Cru classé - Pessac Léognan*
-        year: 2020
+        year: 2021
         text: 84,50 €
       - title: Château Sigalas Rabaud *1er cru classé – Sauternes*
         year: 2000
-        text: 101,50 €
+        text: 116,50 €
       - title: Château de Fieuzal *Pessac Léognan*
         year: 2019
         text: 120,00 €
       - title: Chassagne-Montrachet *Les Vieilles Vignes V.Girardin*
-        year: 2020
-        text: 148,50 €
-      - title: Domaine du Colombier *Chablis – Bourgogne*
+        year: 2022
+        text: 182,50 €
+      - title: Château Smith Haut Lafitte *Pessac Léognan*
         year: 2018
-        text: 230,00 €
+        text: 225,00 €
+      - title: Comptoir de Martray *GC - Corton-Charlemagne*
+        year: 2016
+        text: 275,00 €
       - title: Château Yquem *1er GCC - Sauternes*
         year: 2011
-        text: 570,00 €
-      - title: Château Yquem *1er GCC - Sauternes*
-        year: 2016
-        text: 570,00 €
+        text: 580,00 €
 
   - type: table
     grid: medium
@@ -391,99 +375,93 @@ blocks:
       title: Les Vins Rouges de Bordeaux et d’Ailleurs
       text: 75cl
     rows:
-      - title: Marquis de Bordeaux *Bordeaux*
-        year: ''
-        text: 18,50 €
       - title: Calvet Réserve *Bordeaux*
         year: ''
-        text: 20,00 €
-      - title: Château Belleville *Bordeaux*
-        year: 2020
-        text: 22,50 €
+        text: 19,50 €
       - title: Château Réaut *Côtes de Bordeaux*
-        year: 2016
-        text: 27,00 €
-      - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
-        year: 2016
-        text: 28,00 €
-      - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
         year: 2018
-        text: 28,00 €
+        text: 24,50 €
+      - title: Torus *Madiran*
+        year: 2019
+        text: 24,50 €
+      - title: Château Donissan CB Listrac *Médoc*
+        year: 2018
+        text: 27,50 €
       - title: Château de la Chaize *Brouilly (Beaujolais)*
         year: 2021
-        text: 28,50 €
-      - title: Château la Rose des Tuileries *Lalande de Pomerol*
-        year: 2018
-        text: 32,00 €
+        text: 27,50 €
+      - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
+        year: 2020
+        text: 28,50 €
       - title: Château Fernon *Graves (Bordeaux)*
         year: 2019
         text: 33,50 €
-      - title: Château Larrivaux *Haut Médoc*
-        year: 2017
-        text: 34,00 €
+      - title: Château Duplessis *100% malbec - Bordeaux*
+        year: 2019
+        text: 34,50 €
       - title: Château Pontac Montplaisir *Pessac léognan*
-        year: 2018
+        year: 2019
         text: 36,00 €
-      - title: Château de Chantegrive *Graves (Bordeaux)*
-        year: 2018
-        text: 37,50 €
+      - title: Château la Rose des Tuileries *Lalande de Pomerol*
+        year: 2020
+        text: 36,00 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2019
-        text: 37,50 €
+        text: 38,00 €
       - title: Les Tours de Laroque *Saint Emilion 2ème vin cht Laroque*
         year: 2019
         text: 38,50 €
       - title: Les Haldes de Luchey *Pessac léognan*
-        year: 2017
-        text: 41,50 €
-      - title: Les Haldes de Luchey *Pessac léognan*
         year: 2018
         text: 41,50 €
       - title: Château La Haye *Saint Estèphe (Médoc)*
-        year: 2015
-        text: 43,50 €
+        year: 2019
+        text: 42,50 €
       - title: Château La Grâce Dieu *Saint Emilion*
         year: 2018
-        text: 45,50 €
-      - title: Château Beau-Site *Saint Estèphe (Médoc)*
-        year: 2016
-        text: 47,50 €
+        text: 46,50 €
       - title: Château Beau-Site *Saint Estèphe (Médoc)*
         year: 2018
         text: 47,50 €
       - title: Château Les Trois Croix *Fronsac Famille Patrick Léon*
-        year: 2016
+        year: 2020
         text: 48,50 €
       - title: Aurore de Dauzac *Margaux 2ème vin Cht Dauzac*
         year: 2017
-        text: 52,50 €
+        text: 51,50 €
+      - title: Domaine des Closiers *les Closiers - Saumur Champigny (Loire)*
+        year: 2022
+        text: 52,50 €
       - title: Carat de Château Réaut *Bordeaux*
         year: 2016
         text: 53,50 €
+      - title: Clos de la Barthassade « les gravettes » *Larzac (Languedoc)*
+        year: 2022
+        text: 54,50 €
       - title: Château Haut Bergey *« Cuvée Paul » Pessac Léognan*
         year: 2019
         text: 55,50 €
+      - title: Abbatucci « Faustine » V
+        year: 2023
+        text: 56,00 €
       - title: Lacoste-Borie *Pauillac 2ème vin de Gd-Puy-Lacoste*
-        year: 2013
-        text: 58,00 €
+        year: 2017
+        text: 63,00 €
       - title: Château De France *Pessac Léognan*
         year: 2018
-        text: 62,50 €
-      - title: Domaine des Closiers *les Coudraies Saumur Champigny (Loire)*
-        year: 2020
-        text: 63,00 €
+        text: 63,00 €
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
-        year: 2020
-        text: 78,50 €
+        year: ''
+        text: 82,00 €
       - title: Clos de l’Oratoire Des Papes *Chateauneuf-du-Pape (Rhône)*
-        year: 2020
-        text: 93,50 €
-      - title: Monthelie-Les Duresses *Hospices de Beaune (Bourgogne)*
+        year: 2022
+        text: 94,50 €
+      - title: Château de Fonsalette *E.Raynaud - Côtes du Rhone*
+        year: 2013
+        text: 250,00 €
+      - title: Clos Rougeard « le Clos » *Saumur Champigny*
         year: 2018
-        text: 180,00 €
-      - title: Clos Vougeot *Grand Cru Comptoir de Martray (Bourgogne)*
-        year: 2016
-        text: 480,00 €
+        text: 310,00 €
 
   - type: table
     grid: medium
@@ -494,38 +472,23 @@ blocks:
       - title: Calvet Réserve *Bordeaux*
         text: 13,00 €
       - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
-        year: 2016
+        year: 2020
         text: 17,50 €
-      - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
-        year: 2018
-        text: 17,50 €
-      - title: Château de Chantegrive *Graves (Bordeaux)*
-        year: 2018
-        text: 25,00 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2019
         text: 25,00 €
       - title: Les Haldes de Luchey *Pessac Léognan*
-        year: 2017
-        text: 25,50 €
-      - title: Les Haldes de Luchey *Pessac Léognan*
-        year: 2018
+        year: 2019
         text: 25,50 €
       - title: Château La Grâce Dieu *Saint Emilion*
         year: 2018
-        text: 26,50 €
+        text: 27,50 €
       - title: Château Beau-Site *Saint Estèphe (Médoc)*
-        year: 2016
-        text: 27,50 €
-      - title: Château Beau-Site *Saint Estèphe (Médoc)*
-        year: 2020
+        year: 2021
         text: 27,50 €
       - title: Château De France *Pessac Léognan*
-        year: 2017
-        text: 37,50 €
-      - title: Domaine Jamet *Côte Rôtie (Rhône)*
-        year: 2017
-        text: 85,00 €
+        year: 2018
+        text: 38,00 €
 
   - type: table
     grid: medium
@@ -534,33 +497,30 @@ blocks:
       title: Les grands crus classés
       text: Margaux — 75cl
     rows:
-      - title: Margaux du Château Margaux *3ème Vin du Château*
-        year: 2015
-        text: 115,00 €
-      - title: Château Giscours
-        year: 2011
-        text: 165,00 €
+      - title: Château d'Issan **— 37,50cl**
+        year: 2012
+        text: 110,00 €
+      - title: Margaux du Château Margaux *3ème Vin du Château Margaux*
+        year: 2017
+        text: 130,00 €
       - title: Château Dauzac
-        year: 2009
-        text: 195,00 €
+        year: 2013
+        text: 165,00 €
+      - title: Château Giscours
+        year: 2017
+        text: 180,00 €
+      - title: Château d'Issan
+        year: 2015
+        text: 195,00 €
       - title: Château Rauzan-Ségla
         year: 2006
         text: 225,00 €
-      - title: Château d'Issan **— 37,50cl**
-        year: 2009
-        text: 105,00 €
       - title: Château d'Issan
         year: 2009
-        text: 285,00 €
-      - title: Château d'Issan **— 37,50cl**
-        year: 2012
-        text: 105,00 €
-      - title: Château d'Issan
-        year: 2012
-        text: 285,00 €
+        text: 245,00 €
       - title: Château Palmer
-        year: 2000
-        text: 800,00 €
+        year: 2017
+        text: 460,00 €
 
   - type: table
     grid: medium
@@ -569,35 +529,32 @@ blocks:
       text: Saint Julien — 75cl
     rows:
       - title: Château Gloria
-        year: 2011
+        year: 2014
         text: 98,00 €
+      - title: Château Beychevelle **— 37,50cl**
+        year: 2014
+        text: 135,00 €
       - title: Château Talbot
-        year: 2007
+        year: 2016
         text: 180,00 €
+      - title: Château Léoville Poyferré
+        year: 2017
+        text: 185,00 €
       - title: Château Saint Pierre
         year: 2000
         text: 195,00 €
-      - title: Château Beychevelle **— 37,50cl**
-        year: 2008
-        text: 135,00 €
       - title: Château Beychevelle
-        year: 2008
-        text: 240,00 €
-      - title: Château Beychevelle **— 37,50cl**
-        year: 2014
-        text: 135,00 €
+        year: 2010
+        text: 275,00 €
       - title: Château Beychevelle
-        year: 2014
-        text: 240,00 €
-      - title: Château Léoville Barton
-        year: 2016
-        text: 265,00 €
+        year: 2017
+        text: 215,00 €
       - title: Château Ducru-Beaucaillou
         year: 2014
-        text: 320,00 €
+        text: 290,00 €
       - title: Château Ducru-Beaucaillou
         year: 2015
-        text: 370,00 €
+        text: 330,00 €
       - title: Château Ducru-Beaucaillou
         year: 2009
         text: 580,00 €
@@ -612,17 +569,11 @@ blocks:
         year: 2011
         text: 39,00 €
       - title: Château Fonbadet
-        year: 2011
-        text: 70,00 €
-      - title: Château Fonbadet **— 37,50cl**
-        year: 2012
-        text: 39,00 €
-      - title: Château Fonbadet
-        year: 2012
-        text: 70,00 €
+        year: 2015
+        text: 96,00 €
       - title: Château Batailley
         year: 2017
-        text: 117,50 €
+        text: 118,50 €
       - title: Château Grand-Puy-Lacoste
         year: 2006
         text: 210,00 €
