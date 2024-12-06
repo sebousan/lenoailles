@@ -1,6 +1,8 @@
 ---
 isIndex: true
 title: Accueil
+description: Depuis 1932, le Noailles offre un cadre intemporel et une cuisine
+  raffinée en plein cœur de Bordeaux.
 hero:
   surtitle: Bordeaux, Allées de Tourny
   title: Brasserie Le Noailles
@@ -15,7 +17,8 @@ blocks:
     surtitle: La brasserie
     title: La plus Parisienne des Brasseries Bordelaises
     text: >-
-      Depuis 1932, le Noailles offre un cadre intemporel et une cuisine raffinée en plein cœur de Bordeaux.
+      Depuis 1932, le Noailles offre un cadre intemporel et une cuisine raffinée
+      en plein cœur de Bordeaux.
 
 
       Dans cette institution où François Mauriac avait son rond de serviette, de nombreuses personnalités artistiques, intellectuelles, économiques et politiques se succèdent depuis plusieurs générations.
@@ -25,38 +28,43 @@ blocks:
       - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
         blank: true
         text: Réserver
-
+    direction: ltr
   - type: editorial
     background: false
     direction: rtl
     surtitle: La carte
     title: Spécialités françaises et locales
-    text: >-
-      Le Noailles vous offre une cuisine française haut de gamme, mettant en avant des produits frais et locaux. Parmi les incontournables de la carte, vous retrouverez les œufs mimosa, les huîtres de Joël Dupuch, le foie de veau poêlé, la sole, le légendaire tournedos Rossini, des plats emblématiques des grandes brasseries parisiennes mais aussi quelques plats signature comme les saint jacques aux cèpes…
+    text: Le Noailles vous offre une cuisine française haut de gamme, mettant en
+      avant des produits frais et locaux. Parmi les incontournables de la carte,
+      vous retrouverez les œufs mimosa, les huîtres de Joël Dupuch, le foie de
+      veau poêlé, la sole, le légendaire tournedos Rossini, des plats
+      emblématiques des grandes brasseries parisiennes mais aussi quelques plats
+      signature comme les saint jacques aux cèpes…
     image:
       src: /images/uploads/IMGP9644.jpg
     cta:
       url: /la-carte/
       text: Découvrir la carte
-
   - type: editorial
     background: false
     surtitle: Histoire
     title: Une histoire de familles
-    text: >-
-      Depuis 1932, différentes familles ont successivement pris les rênes de cette brasserie, qui est progressivement devenue une véritable institution, symbole de tradition et de qualité.
+    text: Depuis 1932, différentes familles ont successivement pris les rênes de
+      cette brasserie, qui est progressivement devenue une véritable
+      institution, symbole de tradition et de qualité.
     image:
       src: /images/uploads/IMGP1452.jpg
     ctas:
       - url: /la-brasserie/
         text: Découvrir la brasserie
-
+    direction: ltr
   - type: editorial
     direction: rtl
     surtitle: Contact
     title: Ouvert tous les jours de l’année
     text: >-
-      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle d’or ».
+      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle
+      d’or ».
 
 
       À quelques mètres du grand théâtre le Noailles vous accueille du lundi au dimanche de 12h00 à 15h00 et de 19h00 à 23h00.
@@ -65,15 +73,12 @@ blocks:
     cta:
       url: /contact/
       text: Venir nous voir
-
   - type: figure
     figure:
       src: /images/uploads/IMGP1379.jpg
-
   - type: testimonials
     heading:
-      text: >-
-        **Les avis**
+      text: "**Les avis**"
     layout: carousel
     carousel:
       params:
@@ -133,7 +138,8 @@ blocks:
       - author:
           title: Jacques GUICHARD
         quote: >-
-          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
+          L’idée même de la brasserie. Grande salle aux tables rapprochées.
+          Service rapide et professionnel. Plats classiques bien exécutés.
 
 
           Cuisine: 5/5
@@ -145,10 +151,10 @@ blocks:
           Ambiance: 4/5
       - author:
           title: G.A
-        quote: >-
-          J’adore cette brasserie. Très sympa. Service efficace. Cuisine excellente.
+        quote: J’adore cette brasserie. Très sympa. Service efficace. Cuisine
+          excellente.
       - author:
           title: Viator-helveticus
-        quote: >-
-          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
+        quote: L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
+          rapide et professionnel. Plats classiques bien exécutés.
 ---

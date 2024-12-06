@@ -15,14 +15,14 @@ blocks:
     background: false
     surtitle: La brasserie
     title: Un lieu, une histoire
-    text: >-
-      Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles offre un cadre intemporel et une cuisine raffinée.
+    text: Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes
+      de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles
+      offre un cadre intemporel et une cuisine raffinée.
     image:
       src: /images/uploads/IMGP9382.jpg
     cta:
       url: /la-brasserie/
       text: Découvrir la brasserie
-
   - type: editorial
     background: false
     direction: rtl
@@ -42,7 +42,8 @@ blocks:
     surtitle: Contact
     title: Ouvert tous les jours de l’année
     text: >-
-      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle d’or ».
+      Située en plein cœur de Bordeaux, dans le quartier dit du « Triangle
+      d’or ».
 
 
       Restauration pour le déjeuner et le dîner.
@@ -52,15 +53,12 @@ blocks:
       url: /contact/
       text: Venir nous voir
     direction: ltr
-
   - type: figure
     figure:
       src: /images/uploads/IMGP1379.jpg
-
   - type: testimonials
     heading:
-      text: >-
-        **Les avis**
+      text: "**Les avis**"
     layout: carousel
     carousel:
       params:
@@ -120,7 +118,8 @@ blocks:
       - author:
           title: Jacques GUICHARD
         quote: >-
-          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
+          L’idée même de la brasserie. Grande salle aux tables rapprochées.
+          Service rapide et professionnel. Plats classiques bien exécutés.
 
 
           Cuisine: 5/5
@@ -132,10 +131,10 @@ blocks:
           Ambiance: 4/5
       - author:
           title: G.A
-        quote: >-
-          J’adore cette brasserie. Très sympa. Service efficace. Cuisine excellente.
+        quote: J’adore cette brasserie. Très sympa. Service efficace. Cuisine
+          excellente.
       - author:
           title: Viator-helveticus
-        quote: >-
-          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service rapide et professionnel. Plats classiques bien exécutés.
+        quote: L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
+          rapide et professionnel. Plats classiques bien exécutés.
 ---
