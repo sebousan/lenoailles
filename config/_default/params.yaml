@@ -11,6 +11,8 @@ admin:
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
+  config:
+    id: false
   collections:
     config:
       files:
@@ -20,6 +22,19 @@ admin:
         - banner
         - footer
         - seo
+    indexes:
+      enable: false
+    pages:
+      fields:
+        - is_page
+        - draft
+        - title_page
+        - description
+        - featured_image
+        - hero
+        - blocks
+        - body
+        - slug
   blocks:
     enable:
       - alert

@@ -1,6 +1,7 @@
 ---
+isPage: true
 draft: true
-title: Home
+title: Bienvenido
 hero:
   surtitle: Bordeaux, Allées de Tourny
   title: Brasserie Le Noailles

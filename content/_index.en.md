@@ -1,4 +1,5 @@
 ---
+isPage: true
 title: Accueil
 description: Since 1932, Le Noailles has offered a timeless setting and refined
   cuisine in the heart of Bordeaux.
