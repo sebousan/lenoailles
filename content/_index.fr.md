@@ -1,5 +1,6 @@
 ---
 isIndex: true
+draft: false
 title: Accueil
 description: Depuis 1932, le Noailles offre un cadre intemporel et une cuisine
   raffinée en plein cœur de Bordeaux.
@@ -78,7 +79,7 @@ blocks:
       src: /images/uploads/IMGP1379.jpg
   - type: testimonials
     heading:
-      text: "**Les avis**"
+      text: '**Les avis**'
     layout: carousel
     carousel:
       params:
@@ -155,6 +156,7 @@ blocks:
           excellente.
       - author:
           title: Viator-helveticus
-        quote: L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
+        quote:
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
           rapide et professionnel. Plats classiques bien exécutés.
 ---

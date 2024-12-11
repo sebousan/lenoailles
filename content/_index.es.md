@@ -1,5 +1,4 @@
 ---
-isIndex: true
 draft: true
 title: Home
 hero:
@@ -15,7 +14,8 @@ blocks:
     background: false
     surtitle: La brasserie
     title: Un lieu, une histoire
-    text: Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes
+    text:
+      Avec ses miroirs, ses fresques murales du peintre Dauguet, ses banquettes
       de velours rouge, ses garçons en gilet noir et tablier blanc, Le Noailles
       offre un cadre intemporel et une cuisine raffinée.
     image:
@@ -58,7 +58,7 @@ blocks:
       src: /images/uploads/IMGP1379.jpg
   - type: testimonials
     heading:
-      text: "**Les avis**"
+      text: '**Les avis**'
     layout: carousel
     carousel:
       params:
@@ -135,6 +135,7 @@ blocks:
           excellente.
       - author:
           title: Viator-helveticus
-        quote: L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
+        quote:
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
           rapide et professionnel. Plats classiques bien exécutés.
 ---
