@@ -100,8 +100,7 @@ blocks:
         text: 22,50 €
       - title: Pan-Fried Calf’s liver
         text: 23,00 €
-      - title:
-          Traditionnal madame Homar Sauerkraut *(Opening dish at Noailles in June
+      - title: Traditionnal madame Homar Sauerkraut *(Opening dish at Noailles in June
           1932)*
         text: 29,50 €
       - title: Pan-Fried Cèpes with Parsley and Shallots
@@ -130,8 +129,7 @@ blocks:
     grid: medium
     heading:
       title: Les légumes
-      text:
-        Home made Fries, Home made Mashed Potatoes, Pasta, Pan-fried Endives,
+      text: Home made Fries, Home made Mashed Potatoes, Pasta, Pan-fried Endives,
         Green Salad, Rice, Mixed vegetables.
     rows:
       - title: On the side
@@ -187,8 +185,7 @@ blocks:
         text: 11,50 €
       - title: Strawberries Melba
         text: 12,00 €
-      - title:
-          Cream 2 scoops *(Vanilla, Coffee, Chocolate, Rum Raisin, Pear, Pistachio,
+      - title: Cream 2 scoops *(Vanilla, Coffee, Chocolate, Rum Raisin, Pear, Pistachio,
           Blackcurrant, Lime, Strawberry, Raspberry, Pineapple, Salted Butter
           Caramel)*
         text: 8,50 €
@@ -408,7 +405,7 @@ blocks:
       text: 75cl
     rows:
       - title: Calvet Réserve *Bordeaux*
-        year: ''
+        year: ""
         text: 19,50 €
       - title: Château Réaut *Côtes de Bordeaux*
         year: 2018
@@ -489,7 +486,7 @@ blocks:
         year: 2018
         text: 63,00 €
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
-        year: ''
+        year: ""
         text: 82,00 €
       - title: Clos de l’Oratoire Des Papes *Chateauneuf-du-Pape (Rhône)*
         year: 2022
@@ -818,7 +815,6 @@ blocks:
       - title: Château Lafite Rothschild *Pauillac*
         year: 2011
         text: 1 190,00 €
-
   - type: title
     heading:
       title: Drinks menu
@@ -827,8 +823,7 @@ blocks:
     heading:
       title: Les Boissons Chaudes
     rows:
-      - title:
-          Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
+      - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
           la solidarité locale*
         text: 3,20 €
       - title: Décaféiné
@@ -845,7 +840,7 @@ blocks:
     state: warning
     offset: center
     grid: medium
-    text: 'En accord avec la Loi : L-112-8 du code monétaire et financier, nous
+    text: "En accord avec la Loi : L-112-8 du code monétaire et financier, nous
       n’acceptons plus les chèques. Prix nets TVA au taux de 10 % incluse (20%
-      sur les Alcools) et Service compris.'
+      sur les Alcools) et Service compris."
 ---

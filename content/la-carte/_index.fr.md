@@ -51,8 +51,7 @@ blocks:
         text: 15,50 €
       - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
         text: 16,50 €
-      - title:
-          Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron
+      - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron
           vert)*
         text: 18,50 €
       - title: Œuf à la coque au Caviar d’Aquitaine *(Perlita)*
@@ -105,10 +104,9 @@ blocks:
         text: 22,50 €
       - title: Foie de Veau poêlé au vinaigre de Xérès
         text: 23,00 €
-      - title:
-          'Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame
+      - title: "Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame
           Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail,
-          Jarreton Braisé, Jambon à l’Os*'
+          Jarreton Braisé, Jambon à l’Os*"
         text: 29,50 €
       - title: Cèpes à la Bordelaise
         text: 32,50 €
@@ -155,8 +153,7 @@ blocks:
         text: 8,00 €
       - title: Brebis du Pays Basque
         text: 9,00 €
-      - title:
-          Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et
+      - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et
           Roquefort)*
         text: 15,00 €
       - title: Assiette des 4 Bergers *(Camembert, Brebis, Rocamadour et Roquefort)*
@@ -193,12 +190,10 @@ blocks:
         text: 11,50 €
       - title: Fraise Melba
         text: 12,00 €
-      - title:
-          Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
+      - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
           Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel
           Beurre salé)*
         text: 8,50 €
-
   - type: title
     background: true
     heading:
@@ -219,7 +214,7 @@ blocks:
       - title: Moët et Chandon *Impérial*
         text: 92.50 €
       - title: Veuve Clicquot Ponsardin *Brut*
-        text: 105,00 €
+        text: 115,00 €
       - title: Lanson *Le vintage 2012 Brut*
         text: 135,00 €
       - title: Louis Roederer *Blanc de Blancs vintage 2015*
@@ -415,7 +410,7 @@ blocks:
       text: 75cl
     rows:
       - title: Calvet Réserve *Bordeaux*
-        year: ''
+        year: ""
         text: 19,50 €
       - title: Château Réaut *Côtes de Bordeaux*
         year: 2018
@@ -496,7 +491,7 @@ blocks:
         year: 2018
         text: 63,00 €
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
-        year: ''
+        year: ""
         text: 82,00 €
       - title: Clos de l’Oratoire Des Papes *Chateauneuf-du-Pape (Rhône)*
         year: 2022
@@ -825,7 +820,6 @@ blocks:
       - title: Château Lafite Rothschild *Pauillac*
         year: 2011
         text: 1 190,00 €
-
   - type: title
     heading:
       title: Carte des boissons
@@ -834,8 +828,7 @@ blocks:
     heading:
       title: Les Boissons Chaudes
     rows:
-      - title:
-          Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
+      - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
           la solidarité locale*
         text: 3,20 €
       - title: Décaféiné
@@ -852,7 +845,7 @@ blocks:
     state: warning
     offset: center
     grid: medium
-    text: 'En accord avec la Loi : L-112-8 du code monétaire et financier, nous
+    text: "En accord avec la Loi : L-112-8 du code monétaire et financier, nous
       n’acceptons plus les chèques. Prix nets TVA au taux de 10 % incluse (20%
-      sur les Alcools) et Service compris.'
+      sur les Alcools) et Service compris."
 ---
