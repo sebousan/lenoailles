@@ -36,7 +36,7 @@ blocks:
     cta:
       blank: true
       text: Visite virtuelle
-      url: https://www.google.com/maps/@44.8432593,-0.5756103,3a,75y,225h,90t/data=!3m8!1e1!3m6!1shbfmQZsDJ8wAAAQvOsqxqw!2e0!3e2!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DhbfmQZsDJ8wAAAQvOsqxqw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D225.31219%26pitch%3D0!7i13312!8i6656
+      url: https://my.matterport.com/show/?m=8ZEgTp2sMqQ
 
   - type: title
     heading:
