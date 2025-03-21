@@ -322,13 +322,13 @@ blocks:
         year: 2018
         text: 32,50 €
         src: /images/uploads/hve_produit_ocre.png
-      - title: Château Fayard *St Macaire (Bordeaux)*
-        year: 2020
-        text: 39,00 €
       - title: Domaine de Riquewhir *Riesling – Alsace*
         year: 2019
         text: 38,00 €
         src: /images/uploads/hve_produit_ocre.png
+      - title: Château Fayard *St Macaire (Bordeaux)*
+        year: 2020
+        text: 39,00 €
       - title: Château Tour Léognan *2ème vin Carbonnieux*
         year: 2023
         text: 39,50 €
@@ -344,12 +344,12 @@ blocks:
       - title: Domaine du Colombier *Chablis – Bourgogne*
         year: 2022
         text: 48,00 €
-      - title: Bourgogne Côte-d’Or *M. Parize & P.Méreau*
-        year: 2022
-        text: 57,00 €
       - title: Château Roûmieu-Lacoste *Sauternes*
         year: 2022
         text: 53,50 €
+      - title: Bourgogne Côte-d’Or *M. Parize & P.Méreau*
+        year: 2022
+        text: 57,00 €
       - title: Les Demoiselles Larrivet Haut-Brion *Pessac Léognan*
         year: 2019
         text: 58,50 €
@@ -489,7 +489,7 @@ blocks:
         year: 2021
         text: 55,50 €
         src: /images/uploads/logo-ab.svg
-      - title: Abbatucci « Faustine » V
+      - title: Abbatucci « Faustine » *V.V  Corse*
         year: 2023
         text: 61,50 €
         src: /images/uploads/logo-ab.svg
@@ -503,6 +503,9 @@ blocks:
         year: 2017
         text: 74,50 €
         src: /images/uploads/hve_produit_ocre.png
+      - title: Château Belgrave *\-Haut -Médoc*
+        year: 2016
+        text: 75,00 €
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
         year: 2022
         text: 84,50 €
@@ -513,19 +516,16 @@ blocks:
         src: /images/uploads/logo-ab.svg
         year: 2022
         text: 178,50 €
-      - title: Château Belgrave *\-Haut -Médoc*
-        year: 2016
-        text: 75,00 €
       - title: Roc de Cambes - *Côtes de Bourg*
         year: 2017
         text: 196,00 €
-      - title: Clos Rougeard « le Clos » *Saumur Champigny*
-        year: 2018
-        text: 310,00 €
       - title: Clos des Mouches - J.Droubin - Beaune 1er cru (Bourgogne)
         src: /images/uploads/logo-ab.svg
         year: 2020
         text: 215,00 €
+      - title: Clos Rougeard « le Clos » *Saumur Champigny*
+        year: 2018
+        text: 310,00 €
   - type: table
     grid: medium
     background: true
@@ -549,8 +549,8 @@ blocks:
       - title: Château La Grâce Dieu *Saint Emilion*
         year: 2020
         text: 27,50 €
-      - title: Château Beau-Site *Saint Estèphe (Médoc)* Plusieurs millésimes, nous
-          consulter
+      - title: Château Beau-Site *Saint Estèphe (Médoc)*              *Plusieurs
+          millésimes, nous consulter*
         year: ""
         text: 27,50 €
       - title: Château De France *Pessac Léognan*
@@ -576,26 +576,21 @@ blocks:
       - title: Château Giscours
         year: 2017
         text: 145,00 €
+      - title: Château Brane Cantenac
+        year: 2017
+        text: 150,00 €
       - title: Château d'Issan
         year: 2015
         text: 195,00 €
+      - title: Château d'Issan
+        year: 2009
+        text: 245,00 €
       - title: Château Rauzan-Ségla
         year: 2006
         text: 210,00 €
       - year: 2010
         title: Château Rauzan-Ségla
         text: 275,00 €
-      - title: Château Brane Cantenac
-        year: 2017
-        text: 150,00 €
-      - title: Château d'Issan
-        year: 2009
-        text: 245,00 €
-      - title: |-
-          
-          Château d'Issan
-        year: 2015
-        text: 195,00 €
       - title: Château Palmer
         year: 2017
         text: 460,00 €
@@ -614,21 +609,21 @@ blocks:
       - title: Château Gloria
         year: 2014
         text: 98,00 €
-      - title: Château Saint Pierre
-        year: 2000
-        text: 199,00 €
       - title: Château Saint-pierre
         year: 2016
         text: 150,00 €
+      - title: Château Saint Pierre
+        year: 2000
+        text: 199,00 €
       - title: Château Léoville Poyferré
         year: 2017
         text: 185,00 €
       - title: Château Beychevelle
-        year: 2010
-        text: 295,00 €
-      - title: Château Beychevelle
         year: 2017
         text: 215,00 €
+      - title: Château Beychevelle
+        year: 2010
+        text: 295,00 €
       - title: Château Léoville Las Cases
         year: 2007
         text: 350,00 €
@@ -638,7 +633,9 @@ blocks:
       - title: Château Ducru-Beaucaillou
         year: 2015
         text: 390,00 €
-      - title: Château Saint-Pierre
+      - title: |-
+          
+          Château Ducru-Beaucaillou
         year: 2009
         text: 610,00 €
   - type: table
