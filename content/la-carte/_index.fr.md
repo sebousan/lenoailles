@@ -216,17 +216,17 @@ blocks:
       - title: Veuve Clicquot Ponsardin *Brut*
         text: 115,00 €
       - title: Lanson *Le vintage 2012 Brut*
-        text: 135,00 €
+        text: 140,00 €
       - title: Louis Roederer *Blanc de Blancs vintage 2015*
         text: 170,00 €
       - title: Cattier Clos du Moulin *Brut Premier Cru*
-        text: 215,00 €
+        text: 205,00 €
       - title: Henri Giraud *MV 18*
         text: 265,00 €
       - title: Cristal Roederer *cuvée 2014*
-        text: 315,00 €
+        text: 325,00 €
       - title: Dom Pérignon *cuvée 2013*
-        text: 375,00 €
+        text: 355,00 €
   - type: table
     grid: medium
     background: true
@@ -237,7 +237,7 @@ blocks:
       - title: Palmer *Rosé cuvée « Solera »*
         text: 91,00 €
       - title: Veuve Clicquot Ponsardin *Rosé*
-        text: 115,00 €
+        text: 117,00 €
       - title: La Grande Dame *Rosé*
         text: 375,00 €
   - type: table
@@ -251,16 +251,16 @@ blocks:
         year: 2023
         text: 19,00 €
       - title: Château Grimont *Bordeaux Clairet*
-        year: 2022
+        year: 2025
         text: 20,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
-        year: 2024
+        year: 2025
         text: 24,50 €
         src: /images/uploads/logo-ab.svg
       - title: Château Les Trois Croix *Vdf Famille Patrick Léon*
         year: 2023
-        text: 32,00 €
+        text: 29,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Whispering Angel *des Caves d'Esclans Provence*
         year: 2023
@@ -278,10 +278,13 @@ blocks:
     heading:
       text: Autres
     rows:
+      - title: Odyssée \*Côtes de Provence\* \*\*— 37,50cl\*\*
+        year: 2023
+        text: 21,00 €
       - title: Whispering Angel *des Caves d'Esclans Provence* **— 37,50cl**
         year: 2023
-        text: 33,50 €
-      - title: Château de Selle *Domaines Ott CC Provence* **— 37,50cl**
+        text: 32,00 €
+      - title: Odyssée *Côtes de Provence* **— 37,50cl**
         year: 2022
         text: 43,50 €
         src: /images/uploads/logo-ab.svg
@@ -299,11 +302,11 @@ blocks:
       - title: Château Réaut blanc *Sauvignon (Bordeaux)*
         year: 2023
         text: 20,50 €
-      - title: N°1 de Dourthe *(Bordeaux)*
-        year: 2023
-        text: 23,50 €
+      - title: Château La Rose Bellevue *Blaye Blanc* *(Bordeaux)*
+        year: 2024
+        text: 24,00 €
       - title: Refuge d’amour *IGP côtes de Gascogne*
-        year: 2022
+        year: 2023
         text: 24,50 €
       - title: Château  Graville Lacoste *Graves (Bordeaux)*
         year: 2023
@@ -314,48 +317,48 @@ blocks:
         text: 29,00 €
       - title: Clos des Orfeuilles *Muscadet Sèvre et Maine sur lie-Loire*
         year: 2021
-        text: 30,50 €
+        text: 29,50 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2018
-        text: 31,50 €
+        text: 32,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Fayard *St Macaire (Bordeaux)*
-        year: 2018
-        text: 36,50 €
+        year: 2020
+        text: 39,00 €
       - title: Domaine de Riquewhir *Riesling – Alsace*
-        year: 2018
-        text: 38,50 €
+        year: 2019
+        text: 38,00 €
+        src: /images/uploads/hve_produit_ocre.png
+      - title: Château Tour Léognan *2ème vin Carbonnieux*
+        year: 2023
+        text: 39,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Rochemorin *Pessac Léognan*
         year: 2020
         text: 42,50 €
         src: /images/uploads/hve_produit_ocre.png
-      - title: Château Tour Léognan *2ème vin Carbonnieux*
-        year: 2020
-        text: 41,50 €
-        src: /images/uploads/hve_produit_ocre.png
+      - title: Domaine Chavet - C*los de Coquin - Menetou-Salon -Loire*
+        year: 2022
+        text: 44,00 €
+        src: /images/uploads/logo-terra-vitis.png
       - title: Domaine du Colombier *Chablis – Bourgogne*
         year: 2022
-        text: 47,50 €
-      - title: Château Fontaine-Audon *Sancerre - Loire*
-        year: 2022
-        text: 50,50 €
-        src: /images/uploads/logo-terra-vitis.png
+        text: 48,00 €
       - title: Bourgogne Côte-d’Or *M. Parize & P.Méreau*
         year: 2022
         text: 57,00 €
       - title: Château Roûmieu-Lacoste *Sauternes*
-        year: 2018
+        year: 2022
         text: 53,50 €
       - title: Les Demoiselles Larrivet Haut-Brion *Pessac Léognan*
         year: 2019
-        text: 59,50 €
+        text: 58,50 €
       - title: Domaine Pascal Jolivet *Pouilly Fumé - Loire*
         year: 2023
         text: 62,50 €
       - title: Château Carbonnieux *Cru classé - Pessac Léognan*
-        year: 2021
-        text: 84,50 €
+        year: 2022
+        text: 89,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Sigalas Rabaud *1er cru classé – Sauternes*
         year: 2000
@@ -363,12 +366,17 @@ blocks:
       - title: Château de Fieuzal *Pessac Léognan*
         year: 2019
         text: 120,00 €
+      - title: Domaine Belargus - *"Les Quarts" Anjou-Loire*
+        src: /images/uploads/logo-ab.svg
+        year: 2021
+        text: 150,00 €
       - title: Chassagne-Montrachet *Les Vieilles Vignes V.Girardin*
         year: 2022
         text: 182,50 €
-      - title: Château Smith Haut Lafitte *Pessac Léognan*
-        year: 2018
-        text: 225,00 €
+      - title: Château Smith Haut Lafitte *Pessac Léognan (Plusieurs millésimes, nous
+          consulter)*
+        year: ""
+        text: "235,00 €  "
       - title: Comptoir de Martray *GC - Corton-Charlemagne*
         year: 2016
         text: 275,00 €
@@ -390,15 +398,16 @@ blocks:
       - title: Château Rochemorin *Pessac Léognan*
         year: 2020
         text: 25,50 €
-      - title: Château Fontaine-Audon *Sancerre - Loire*
-        year: 2022
-        text: 29,00 €
+      - title: Château Carbonnieux - *Cru classé - Pessac Léognan*
+        year: 2023
+        text: 53,00 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château Sigalas Rabaud *1er CC - Sauternes*
         year: 2007
         text: 66,50 €
       - title: Château de Fieuzal *Pessac Léognan*
         year: 2019
-        text: 79,50 €
+        text: 81,00 €
       - title: Château Yquem *1er CC - Sauternes*
         year: 2016
         text: 320,00 €
