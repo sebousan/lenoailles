@@ -547,10 +547,11 @@ blocks:
         text: 25,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château La Grâce Dieu *Saint Emilion*
-        year: 2018
+        year: 2020
         text: 27,50 €
-      - title: Château Beau-Site *Saint Estèphe (Médoc)*
-        year: 2021
+      - title: Château Beau-Site *Saint Estèphe (Médoc)* Plusieurs millésimes, nous
+          consulter
+        year: ""
         text: 27,50 €
       - title: Château De France *Pessac Léognan*
         year: 2018
@@ -562,30 +563,48 @@ blocks:
       title: Les grands crus classés
       text: Margaux — 75cl
     rows:
-      - title: Château d'Issan **— 37,50cl**
-        year: 2012
-        text: 110,00 €
+      - title: Clos Dufourg
+        src: /images/uploads/logo-ab.svg
+        year: 2019
+        text: 110,00 €
+      - title: Château Dauzac
+        year: 2017
+        text: 115,50 €
       - title: Margaux du Château Margaux *3ème Vin du Château Margaux*
         year: 2017
         text: 130,00 €
-      - title: Château Dauzac
-        year: 2013
-        text: 165,00 €
       - title: Château Giscours
         year: 2017
-        text: 180,00 €
+        text: 145,00 €
       - title: Château d'Issan
         year: 2015
         text: 195,00 €
       - title: Château Rauzan-Ségla
         year: 2006
-        text: 225,00 €
+        text: 210,00 €
+      - year: 2010
+        title: Château Rauzan-Ségla
+        text: 275,00 €
+      - title: Château Brane Cantenac
+        year: 2017
+        text: 150,00 €
       - title: Château d'Issan
         year: 2009
         text: 245,00 €
+      - title: |-
+          
+          Château d'Issan
+        year: 2015
+        text: 195,00 €
       - title: Château Palmer
         year: 2017
         text: 460,00 €
+      - title: Château Palmer
+        year: 2010
+        text: 650,00 €
+      - title: Château Margaux
+        year: 2004
+        text: 900,00 €
   - type: table
     grid: medium
     background: true
@@ -595,18 +614,15 @@ blocks:
       - title: Château Gloria
         year: 2014
         text: 98,00 €
-      - title: Château Beychevelle **— 37,50cl**
-        year: 2014
-        text: 135,00 €
-      - title: Château Talbot
+      - title: Château Saint Pierre
+        year: 2000
+        text: 199,00 €
+      - title: Château Saint-pierre
         year: 2016
-        text: 180,00 €
+        text: 150,00 €
       - title: Château Léoville Poyferré
         year: 2017
         text: 185,00 €
-      - title: Château Saint Pierre
-        year: 2000
-        text: 195,00 €
       - title: Château Beychevelle
         year: 2010
         text: 275,00 €
@@ -619,7 +635,7 @@ blocks:
       - title: Château Ducru-Beaucaillou
         year: 2015
         text: 330,00 €
-      - title: Château Ducru-Beaucaillou
+      - title: Château Saint-Pierre
         year: 2009
         text: 580,00 €
   - type: table
