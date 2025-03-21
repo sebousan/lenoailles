@@ -420,20 +420,17 @@ blocks:
     rows:
       - title: Calvet Réserve *Bordeaux*
         year: ""
-        text: 19,50 €
+        text: 19,80 €
       - title: Château Réaut *Côtes de Bordeaux*
-        year: 2018
-        text: 24,50 €
-      - title: Torus *Madiran*
         year: 2019
-        text: 24,50 €
+        text: 25,50 €
       - title: Château Donissan CB Listrac *Médoc*
         year: 2018
         text: 27,50 €
       - title: Château de la Chaize *Brouilly (Beaujolais)*
         year: 2021
-        text: 27,50 €
-      - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
+        text: 30,50 €
+      - title: Château de la Chaize *Fleurie (Beaujolais)*
         year: 2020
         text: 28,50 €
         src: /images/uploads/hve_produit_ocre.png
@@ -493,12 +490,16 @@ blocks:
         year: 2023
         text: 56,00 €
         src: /images/uploads/logo-ab.svg
-      - title: Lacoste-Borie *Pauillac 2ème vin de Gd-Puy-Lacoste*
-        year: 2017
-        text: 63,00 €
       - title: Château De France *Pessac Léognan*
         year: 2018
         text: 63,00 €
+      - title: Lacoste-Borie *Pauillac 2ème vin de Gd-Puy-Lacoste*
+        year: 2017
+        text: 63,00 €
+      - title: Château Bouscassé - *VV A.Brumont - Madiran (Sud-Ouest)*
+        year: 2017
+        text: 74,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
         year: ""
         text: 82,00 €
