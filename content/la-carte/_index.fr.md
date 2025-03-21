@@ -625,19 +625,22 @@ blocks:
         text: 185,00 €
       - title: Château Beychevelle
         year: 2010
-        text: 275,00 €
+        text: 295,00 €
       - title: Château Beychevelle
         year: 2017
         text: 215,00 €
+      - title: Château Léoville Las Cases
+        year: 2007
+        text: 350,00 €
       - title: Château Ducru-Beaucaillou
         year: 2014
-        text: 290,00 €
+        text: 320,00 €
       - title: Château Ducru-Beaucaillou
         year: 2015
-        text: 330,00 €
+        text: 390,00 €
       - title: Château Saint-Pierre
         year: 2009
-        text: 580,00 €
+        text: 610,00 €
   - type: table
     grid: medium
     background: true
