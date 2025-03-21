@@ -278,7 +278,7 @@ blocks:
     heading:
       text: Autres
     rows:
-      - title: Odyssée \*Côtes de Provence\* \*\*— 37,50cl\*\*
+      - title: Odyssée *Côtes de Provence — 37,50cl*
         year: 2023
         text: 21,00 €
       - title: Whispering Angel *des Caves d'Esclans Provence* **— 37,50cl**
@@ -427,30 +427,33 @@ blocks:
       - title: Château Donissan CB Listrac *Médoc*
         year: 2018
         text: 27,50 €
-      - title: Château de la Chaize *Brouilly (Beaujolais)*
+      - title: |-
+          
+          Château de la Chaize *Fleurie (Beaujolais)*
         year: 2021
         text: 30,50 €
-      - title: Château de la Chaize *Fleurie (Beaujolais)*
+      - title: Château Haut-Macô *\- Côtes du Bourg*
         year: 2020
         text: 28,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Fernon *Graves (Bordeaux)*
-        year: 2019
+        year: 2020
         text: 33,50 €
       - title: Château Duplessis *100% malbec - Bordeaux*
         year: 2019
         text: 34,50 €
-      - title: Château Pontac Montplaisir *Pessac léognan*
-        year: 2019
-        text: 36,00 €
       - title: Château la Rose des Tuileries *Lalande de Pomerol*
         year: 2020
         text: 36,00 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2019
-        text: 38,00 €
-      - title: Les Tours de Laroque *Saint Emilion 2ème vin cht Laroque*
+        text: 36,50 €
+        src: /images/uploads/hve_produit_ocre.png
+      - title: Château Pontac Montplaisir *Pessac léognan*
         year: 2019
+        text: 38,00 €
+      - title: Les Tours de Laroque *Saint Emilion 2ème vin cht Laroque*
+        year: 2020
         text: 38,50 €
       - title: Les Haldes de Luchey *Pessac léognan*
         year: 2018
@@ -460,8 +463,8 @@ blocks:
         year: 2019
         text: 42,50 €
       - title: Château La Grâce Dieu *Saint Emilion*
-        year: 2018
-        text: 46,50 €
+        year: 2019
+        text: 45,50 €
       - title: Château Beau-Site *Saint Estèphe (Médoc)*
         year: 2018
         text: 47,50 €
@@ -470,25 +473,25 @@ blocks:
         text: 48,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Aurore de Dauzac *Margaux 2ème vin Cht Dauzac*
-        year: 2017
-        text: 51,50 €
+        year: 2021
+        text: 50,50 €
       - title: Domaine des Closiers *les Closiers - Saumur Champigny (Loire)*
         year: 2022
         text: 52,50 €
       - title: Carat de Château Réaut *Bordeaux*
-        year: 2016
+        year: 2018
         text: 53,50 €
       - title: Clos de la Barthassade « les gravettes » *Larzac (Languedoc)*
         year: 2022
         text: 54,50 €
         src: /images/uploads/logo-ab.svg
       - title: Château Haut Bergey *« Cuvée Paul » Pessac Léognan*
-        year: 2019
+        year: 2021
         text: 55,50 €
         src: /images/uploads/logo-ab.svg
       - title: Abbatucci « Faustine » V
         year: 2023
-        text: 56,00 €
+        text: 61,50 €
         src: /images/uploads/logo-ab.svg
       - title: Château De France *Pessac Léognan*
         year: 2018
@@ -501,17 +504,28 @@ blocks:
         text: 74,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Clos de Bully *Côte de Beaune (Bourgogne)*
-        year: ""
-        text: 82,00 €
+        year: 2022
+        text: 84,50 €
       - title: Clos de l’Oratoire Des Papes *Chateauneuf-du-Pape (Rhône)*
         year: 2022
-        text: 94,50 €
-      - title: Château de Fonsalette *E.Raynaud - Côtes du Rhone*
-        year: 2013
-        text: 250,00 €
+        text: 96,50 €
+      - title: Domaine Trapet - Cuvée 19859 - Gevrey Chambertin (Bourgogne)
+        src: /images/uploads/logo-ab.svg
+        year: 2022
+        text: 178,50 €
+      - title: Château Belgrave *\-Haut -Médoc*
+        year: 2016
+        text: 75,00 €
+      - title: Roc de Cambes - *Côtes de Bourg*
+        year: 2017
+        text: 196,00 €
       - title: Clos Rougeard « le Clos » *Saumur Champigny*
         year: 2018
         text: 310,00 €
+      - title: Clos des Mouches - J.Droubin - Beaune 1er cru (Bourgogne)
+        src: /images/uploads/logo-ab.svg
+        year: 2020
+        text: 215,00 €
   - type: table
     grid: medium
     background: true
