@@ -597,9 +597,6 @@ blocks:
       - title: Château Palmer
         year: 2010
         text: 650,00 €
-      - title: Château Margaux
-        year: 2004
-        text: 900,00 €
   - type: table
     grid: medium
     background: true
@@ -644,9 +641,6 @@ blocks:
     heading:
       text: Pauillac — 75cl
     rows:
-      - title: Château Fonbadet **— 37,50cl**
-        year: 2011
-        text: 39,00 €
       - title: Château Fonbadet
         year: 2015
         text: 96,00 €
@@ -655,10 +649,18 @@ blocks:
         text: 118,50 €
       - title: Château Bellevue Cardon
         year: 2015
-        text: 140,00 €
+        text: 135,00 €
+      - title: Château Pedescleaux
+        year: 2018
+        text: 125,00 €
       - title: Château Grand-Puy-Lacoste
         year: 2006
         text: 210,00 €
+      - title: |-
+          
+          Château Grand-Puy-Lacoste
+        year: 2015
+        text: 190,00 €
       - title: Château Pontet-Canet
         year: 2017
         text: 215,00 €
@@ -666,22 +668,29 @@ blocks:
       - title: Château Pichon Longueville *Comtesse de Lalande*
         year: 2017
         text: 265,00 €
+      - title: Château Lynch Bages
+        year: 2017
+        text: 225,00 €
+      - title: |-
+          
+          Château Lynch Bages
+        year: 2010
+        text: 340,00 €
+      - title: |-
+          
+          Château Pontet-Canet
+        year: 2017
+        text: 230,00 €
       - title: Château Pontet-Canet
         year: 2016
-        text: 295,00 €
+        text: 290,00 €
         src: /images/uploads/logo-ab.svg
-      - title: Château Lynch Bages
-        year: 2010
-        text: 340,00 €
   - type: table
     grid: medium
     background: true
     heading:
       text: Saint Estèphe — 75cl
     rows:
-      - title: Château Haut-Marbuzet **— 37,50cl**
-        year: 2017
-        text: 39,50 €
       - title: Château Haut-Marbuzet
         year: 2017
         text: 82,50 €
@@ -693,31 +702,33 @@ blocks:
         text: 99,50 €
       - title: Château Montrose
         year: 2014
-        text: 225,00 €
+        text: 265,00 €
       - title: Château Montrose
         year: 2017
-        text: 255,00 €
+        text: 245,00 €
       - title: Château Montrose
         year: 2010
-        text: 480,00 €
+        text: 460,00 €
       - title: Château Calon-Ségur
         year: 2017
         text: 255,00 €
+      - title: |-
+          
+          Château Calon-Ségur
+        year: 2000
+        text: 280,00 €
       - title: Château Cos d’Estournel
         year: 2008
         text: 300,00 €
       - title: Château Cos d’Estournel
         year: 2016
-        text: 420,00 €
+        text: 440,00 €
   - type: table
     grid: medium
     background: true
     heading:
       text: Pessac Léognan — 75cl
     rows:
-      - title: Château Latour Martillac **— 37,50cl**
-        year: 2019
-        text: 43,50 €
       - title: Château Latour Martillac
         year: 2014
         text: 85,00 €
@@ -727,8 +738,14 @@ blocks:
         text: 88,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Malartic Lagravière
-        year: 2016
-        text: 130,00 €
+        year: 2017
+        text: 119,50 €
+        src: /images/uploads/hve_produit_ocre.png
+      - title: |-
+          
+          Château Malartic Lagravière
+        year: 2008
+        text: 140,00 €
       - title: Domaine de Chevalier
         year: 2017
         text: 155,00 €
@@ -737,13 +754,16 @@ blocks:
         text: 185,00 €
       - title: Château Pape Clément
         year: 2011
-        text: 215,00 €
+        text: 240,00 €
       - title: Château les Carmes Haut-Brion
         year: 2017
         text: 215,00 €
       - title: Château Haut-Bailly
         year: 2017
         text: 225,00 €
+      - title: Château Branon
+        year: 2015
+        text: 160,00 €
   - type: table
     grid: medium
     background: true
@@ -847,10 +867,20 @@ blocks:
         text: 900,00 €
       - title: Château Mouton Rothschild *Pauillac*
         year: 2006
-        text: 935,00 €
+        text: 980,00 €
+      - title: |-
+          
+          Château Mouton Rothschild *Pauillac*
+        year: 2014
+        text: 920,00 €
       - title: Château Latour *Pauillac*
         year: 2006
         text: 1 070,00 €
+      - title: |-
+          
+          Château Latour *Pauillac*
+        year: 1996
+        text: 1445,00 €
       - title: Château Cheval Blanc *Saint Emilion*
         year: 2015
         text: 1 080,00 €
