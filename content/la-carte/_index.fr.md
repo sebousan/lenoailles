@@ -585,6 +585,9 @@ blocks:
       - title: Château d'Issan
         year: 2009
         text: 245,00 €
+      - title: Château d'Issan - **37, 5cl**
+        year: 2012
+        text: 110,00 €
       - title: Château Rauzan-Ségla
         year: 2006
         text: 210,00 €
@@ -621,6 +624,9 @@ blocks:
       - title: Château Beychevelle
         year: 2010
         text: 295,00 €
+      - title: Château Beychevelle - **37,5cl**
+        year: 2014
+        text: 135,00 €
       - title: Château Léoville Las Cases
         year: 2007
         text: 350,00 €
@@ -644,6 +650,9 @@ blocks:
       - title: Château Fonbadet
         year: 2015
         text: 96,00 €
+      - title: Château Fonbadet - *Pauillac* - **37,5cl**
+        year: 2014
+        text: 39,00 €
       - title: Château Batailley
         year: 2017
         text: 118,50 €
@@ -694,6 +703,9 @@ blocks:
       - title: Château Haut-Marbuzet
         year: 2017
         text: 82,50 €
+      - title: Château Haut-Marbuzet - *Saint-Estèphe* - **37,5cl**
+        year: 2017
+        text: 39,50 €
       - title: Château Phélan Ségur
         year: 2012
         text: 125,50 €
@@ -733,6 +745,9 @@ blocks:
         year: 2014
         text: 85,00 €
         src: /images/uploads/hve_produit_ocre.png
+      - title: Château Latour Martillac - **37,5cl**
+        year: 2020
+        text: 43,50 €
       - title: Château Carbonnieux
         year: 2018
         text: 88,50 €
@@ -750,17 +765,17 @@ blocks:
         year: 2017
         text: 155,00 €
       - title: Château Smith Haut Lafitte
-        year: 2017
-        text: 185,00 €
+        year: 2018
+        text: 237,50 €
       - title: Château Pape Clément
         year: 2011
         text: 240,00 €
       - title: Château les Carmes Haut-Brion
-        year: 2017
-        text: 215,00 €
+        year: 2015
+        text: 275,00 €
       - title: Château Haut-Bailly
-        year: 2017
-        text: 225,00 €
+        year: 2006
+        text: 239,00 €
       - title: Château Branon
         year: 2015
         text: 160,00 €
@@ -770,73 +785,94 @@ blocks:
     heading:
       text: Saint Emilion — 75cl
     rows:
-      - title: Château Corbin **— 37,50cl**
-        year: 2015
-        text: 49,50 €
       - title: Château Corbin
         year: 2015
         text: 73,50 €
-      - title: Château Trotte Vielle
-        year: 2013
-        text: 145,00 €
-      - title: Château Pavie Macquin
+      - title: Château Corbin - **37,5cl**
+        year: 2015
+        text: 49,50 €
+      - title: Château Moulin Saint-Georges
         year: 2017
-        text: 185,00 €
+        text: 94,50 €
       - title: Château Bellevue
         year: 2012
         text: 230,00 €
+      - title: Château Trotte Vielle
+        year: 2013
+        text: 140,00 €
+      - title: Château Pavie Macquin
+        year: 2018
+        text: 200,00 €
       - title: Clos Fourtet
-        year: 2017
-        text: 235,00 €
+        year: 2018
+        text: 255,00 €
       - title: Château Troplong Mondot
-        year: 2002
-        text: 270,00 €
+        year: 2017
+        text: 216,00 €
+      - title: |-
+          
+          Château Troplong Mondot
+        year: 2015
+        text: 225,00 €
       - title: Chapelle D’Ausone
         year: 2015
-        text: 370,00 €
+        text: 350,00 €
       - title: Château Figeac
-        year: 2016
-        text: 495,00 €
+        year: 2009
+        text: 530,00 €
       - title: Château Pavie
         year: 1988
         text: 620,00 €
       - title: Château Angélus
         year: 2009
-        text: 849,50 €
+        text: 660,00 €
+      - title: Château Valandraud
+        year: 2005
+        text: 520,00 €
       - title: Château Ausone
         year: 2015
-        text: 1 215,00 €
+        text: 1 215,00 €
+      - title: |-
+          
+          Château Ausone
+        year: 2010
+        text: 1 495,00 €
   - type: table
     grid: medium
     background: true
     heading:
       text: Pomerol — 75cl
     rows:
-      - title: Château La Fleur de Plince **— 37,50cl**
-        year: 2015
-        text: 54,50 €
       - title: Château La Fleur de Plince
         year: 2014
         text: 89,00 €
+      - title: Château La Fleur de Plince - **37,5cl**
+        year: 2016
+        text: 54,50 €
       - title: Château Bellegrave
         year: 2010
-        text: 120,00 €
+        text: 140,00 €
         src: /images/uploads/logo-ab.svg
       - title: Château Clinet
-        year: 2015
-        text: 245,00 €
+        year: 2018
+        text: 175,00 €
       - title: Château L’Évangile
         year: 2011
         text: 290,00 €
       - title: Château La Conseillante
         year: 2004
         text: 300,00 €
+      - title: |-
+          
+          Château La Conseillante
+        year: 2017
+        text: 290,00 €
       - title: Vieux Château Certan
         year: 2017
         text: 350,00 €
       - title: Vieux Château Certan
         year: 2014
-        text: 365,00 €
+        text: 390,00 €
       - title: Château Trotanoy
         year: 2016
         text: 440,00 €
@@ -848,13 +884,16 @@ blocks:
         text: 980,00 €
       - title: Petrus
         year: 2004
-        text: 2 800,00 €
-      - title: Le Pin
-        year: 2017
-        text: 3 250,00 €
+        text: 2 750,00 €
       - title: Petrus
         year: 2005
         text: 4 995,00 €
+      - title: Le Pin
+        year: 2017
+        text: 3 250,00 €
+      - title: Château Latour à Pomerol
+        year: 2018
+        text: 180,00 €
   - type: table
     grid: medium
     background: true
@@ -882,11 +921,11 @@ blocks:
         year: 1996
         text: 1445,00 €
       - title: Château Cheval Blanc *Saint Emilion*
-        year: 2015
-        text: 1 080,00 €
+        year: 2017
+        text: 950,00 €
       - title: Château Haut-Brion *Pessac Léognan*
-        year: 2016
-        text: 1 090,00 €
+        year: 2018
+        text: 780,00 €
       - title: Château Lafite Rothschild *Pauillac*
         year: 2011
         text: 1 190,00 €
