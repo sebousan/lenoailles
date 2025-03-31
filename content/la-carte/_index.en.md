@@ -197,7 +197,7 @@ blocks:
     grid: medium
     background: true
     heading:
-      title: Les Champagnes et Effervescents
+      title: Champagne & Sparkling Wines
       text: 75cl
     rows:
       - title: Crémant de Bordeaux Lateyron *"Paulian" Brut*
@@ -209,19 +209,19 @@ blocks:
       - title: Moët et Chandon *Impérial*
         text: 92.50 €
       - title: Veuve Clicquot Ponsardin *Brut*
-        text: 105,00 €
+        text: 115,00 €
       - title: Lanson *Le vintage 2012 Brut*
-        text: 135,00 €
+        text: 140,00 €
       - title: Louis Roederer *Blanc de Blancs vintage 2015*
         text: 170,00 €
       - title: Cattier Clos du Moulin *Brut Premier Cru*
-        text: 215,00 €
+        text: 205,00 €
       - title: Henri Giraud *MV 18*
         text: 265,00 €
       - title: Cristal Roederer *cuvée 2014*
-        text: 315,00 €
+        text: 325,00 €
       - title: Dom Pérignon *cuvée 2013*
-        text: 375,00 €
+        text: 355,00 €
   - type: table
     grid: medium
     background: true
@@ -232,7 +232,7 @@ blocks:
       - title: Palmer *Rosé cuvée « Solera »*
         text: 91,00 €
       - title: Veuve Clicquot Ponsardin *Rosé*
-        text: 115,00 €
+        text: 117,00 €
       - title: La Grande Dame *Rosé*
         text: 375,00 €
   - type: table
@@ -250,12 +250,12 @@ blocks:
         text: 20,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Le Champ des Grillons *IGP Côte de thongue (Languedoc)*
-        year: 2024
+        year: 2025
         text: 24,50 €
         src: /images/uploads/logo-ab.svg
       - title: Château Les Trois Croix *Vdf Famille Patrick Léon*
         year: 2023
-        text: 32,00 €
+        text: 29,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Whispering Angel *des Caves d'Esclans Provence*
         year: 2023
@@ -273,6 +273,11 @@ blocks:
     heading:
       text: Autres
     rows:
+      - title: |-
+          
+          Odyssée *Côtes de Provence — 37,50cl*
+        year: 2023
+        text: 21,00 €
       - title: Whispering Angel *des Caves d'Esclans Provence* **— 37,50cl**
         year: 2023
         text: 33,50 €

@@ -284,7 +284,7 @@ blocks:
       - title: Whispering Angel *des Caves d'Esclans Provence* **— 37,50cl**
         year: 2023
         text: 32,00 €
-      - title: Odyssée *Côtes de Provence* **— 37,50cl**
+      - title: Château de Selle *Domaines Ott CC Provence* **— 37,50cl**
         year: 2022
         text: 43,50 €
         src: /images/uploads/logo-ab.svg
