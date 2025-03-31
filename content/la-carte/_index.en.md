@@ -473,8 +473,8 @@ blocks:
         text: 48,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Aurore de Dauzac *Margaux 2ème vin Cht Dauzac*
-        year: 2017
-        text: 51,50 €
+        year: 2021
+        text: 50,50 €
       - title: Domaine des Closiers *les Closiers - Saumur Champigny (Loire)*
         year: 2022
         text: 52,50 €
