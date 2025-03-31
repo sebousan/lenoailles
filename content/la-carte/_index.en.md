@@ -399,15 +399,18 @@ blocks:
       - title: Château Rochemorin *Pessac Léognan*
         year: 2020
         text: 25,50 €
-      - title: Château Fontaine-Audon *Sancerre - Loire*
-        year: 2022
-        text: 29,00 €
+      - title: |-
+          
+          Château Carbonnieux - *Cru classé - Pessac Léognan*
+        src: /images/uploads/hve_produit_ocre.png
+        year: 2023
+        text: 53,00 €
       - title: Château Sigalas Rabaud *1er CC - Sauternes*
         year: 2007
         text: 66,50 €
       - title: Château de Fieuzal *Pessac Léognan*
         year: 2019
-        text: 79,50 €
+        text: 81,00 €
       - title: Château Yquem *1er CC - Sauternes*
         year: 2016
         text: 320,00 €
@@ -415,45 +418,42 @@ blocks:
     grid: medium
     background: true
     heading:
-      title: Les Vins Rouges de Bordeaux et d’Ailleurs
+      title: Red Wines from Bordeaux and Beyond
       text: 75cl
     rows:
       - title: Calvet Réserve *Bordeaux*
         year: ""
-        text: 19,50 €
+        text: 19,80 €
       - title: Château Réaut *Côtes de Bordeaux*
-        year: 2018
-        text: 24,50 €
-      - title: Torus *Madiran*
         year: 2019
-        text: 24,50 €
+        text: 25,50 €
       - title: Château Donissan CB Listrac *Médoc*
         year: 2018
         text: 27,50 €
-      - title: Château de la Chaize *Brouilly (Beaujolais)*
+      - title: Château de la Chaize *Fleurie (Beaujolais)*
         year: 2021
-        text: 27,50 €
+        text: 30,50 €
       - title: Château Haut-Macô *Côtes de Bourg Bordeaux*
         year: 2020
         text: 28,50 €
         src: /images/uploads/hve_produit_ocre.png
       - title: Château Fernon *Graves (Bordeaux)*
-        year: 2019
+        year: 2020
         text: 33,50 €
       - title: Château Duplessis *100% malbec - Bordeaux*
         year: 2019
         text: 34,50 €
-      - title: Château Pontac Montplaisir *Pessac léognan*
-        year: 2019
-        text: 36,00 €
       - title: Château la Rose des Tuileries *Lalande de Pomerol*
         year: 2020
         text: 36,00 €
+      - title: Château Pontac Montplaisir *Pessac léognan*
+        year: 2019
+        text: 38,00 €
       - title: Château de Chantegrive *Graves (Bordeaux)*
         year: 2019
-        text: 38,00 €
+        text: 36,50 €
       - title: Les Tours de Laroque *Saint Emilion 2ème vin cht Laroque*
-        year: 2019
+        year: 2020
         text: 38,50 €
       - title: Les Haldes de Luchey *Pessac léognan*
         year: 2018
@@ -463,8 +463,8 @@ blocks:
         year: 2019
         text: 42,50 €
       - title: Château La Grâce Dieu *Saint Emilion*
-        year: 2018
-        text: 46,50 €
+        year: 2019
+        text: 45,50 €
       - title: Château Beau-Site *Saint Estèphe (Médoc)*
         year: 2018
         text: 47,50 €
@@ -489,13 +489,15 @@ blocks:
         year: 2019
         text: 55,50 €
         src: /images/uploads/logo-ab.svg
-      - title: Abbatucci « Faustine » V
+      - title: Abbatucci « Faustine » *VV (Vdf Corse)*
         year: 2023
-        text: 56,00 €
-        src: /images/uploads/logo-ab.svg
-      - title: Lacoste-Borie *Pauillac 2ème vin de Gd-Puy-Lacoste*
+        text: 61,50 €
+      - title: |-
+          
+          Château Bouscassé - *VV A.Brumont - Madiran (Sud-Ouest)*
         year: 2017
-        text: 63,00 €
+        text: 74,50 €
+        src: /images/uploads/hve_produit_ocre.png
       - title: Château De France *Pessac Léognan*
         year: 2018
         text: 63,00 €
