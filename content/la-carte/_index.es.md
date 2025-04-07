@@ -12,6 +12,8 @@ hero:
     background_image: true
     darken: true
     src: /images/uploads/IMGP9676.jpg
+  ctas:
+    ? blank
 blocks:
   - type: editorial
     direction: rtl
