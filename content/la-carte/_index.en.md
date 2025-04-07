@@ -124,24 +124,25 @@ blocks:
   - type: table
     grid: medium
     heading:
-      title: Les grillades
+      title: Grills
     rows:
-      - title: La Pièce du Boucher du jour
+      - title: Meat of the day
         text: à l’ardoise
-      - title: Magret de Canard Grillé 200g *avec ou sans Sauce au Poivre*
+      - title: Grilled Duck breast 200g with or without Peppercorn Sauce
         text: 22,50 €
-      - title: Entrecôte Grillée Sauce Bordelaise 300g
+      - title: Grilled &quot;Entrecôte&quot; 300 G. with “Sauce Bordelaise”
         text: 28,50 €
-      - title: Tournedos Grillé *(Sauce au choix)*
+      - title: Grilled Beef tenderloin (&quot;Filet Mignon&quot;) *(Sauce in the
+          choice)*
         text: 37,00 €
-      - title: Tournedos Rossini au Foie gras de Canard poêlé
+      - title: Beef tenderloin Rossini with a slice of pan-fried Duck Liver
         text: 45,00 €
-      - title: Côte de Bœuf 1,2 Kg pour deux aux échalotes confites *(Sauce au choix)*
+      - title: Prime rib of Beef *(1.2 kilo to share between two people)*
         text: 89,50 €
   - type: table
     grid: medium
     heading:
-      title: Les légumes
+      title: Sides
       text: Frites Maison, Purée Maison, Tagliatelles, Endives Rissolées, Salade
         Verte, Riz, Jardinière de Légumes
     rows:
@@ -152,20 +153,19 @@ blocks:
   - type: table
     grid: medium
     heading:
-      title: Les fromages affinés
+      title: Matured Cheeses
     rows:
-      - title: Rocamadour A.O.P.
+      - title: Chabichou (Goat Cheese) A.O.P.
         text: 7,00 €
       - title: Roquefort A.O.P.
         text: 7,50 €
-      - title: Camembert au lait cru
+      - title: Raw Milk Camembert
         text: 8,00 €
-      - title: Brebis du Pays Basque
+      - title: Ewe Cheese from Pays Basque
         text: 9,00 €
-      - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et
-          Roquefort)*
+      - title: Assortment of three cheeses *(Camembert, Brebis et Roquefort)*
         text: 15,00 €
-      - title: Assiette des 4 Bergers *(Camembert, Brebis, Rocamadour et Roquefort)*
+      - title: Assortment of Four cheeses *(Camembert, Brebis, Chabichou et Roquefort)*
         text: 18,50 €
   - type: table
     grid: medium
