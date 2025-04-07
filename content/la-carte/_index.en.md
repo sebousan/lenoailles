@@ -64,54 +64,62 @@ blocks:
   - type: table
     grid: medium
     heading:
-      title: Les œufs et plats végétariens
+      title: Eggs and Vegetarian Dishes
     rows:
-      - title: Œuf Bacon
+      - title: Fried eggs with bacon
         text: 16,50 €
-      - title: Omelette aux Cèpes
+      - title: Wild Mushrooms Cepes Omelette
         text: 27,50 €
-      - title: Omelette aux Truffes
+      - title: Truffle Omelette
         text: 36,50 €
-      - title: Plat Végétarien du Moment
+      - title: Vegetarian dish of the day
         text: à l’ardoise
   - type: table
     grid: medium
     heading:
-      title: Les poissons
+      title: Fishes
     rows:
-      - title: Dos de Merlu Grillé sauce Raisins & Sauternes et ses Petits Légumes
+      - title: Grilled hake fillet and Sauternes sauce
         text: 26,50 €
-      - title: 1ère Symphonie de Maître Lombard *(Saumon, Merlu et Saint Jacques)*
+      - title: The first Symphony by Master Lombard *(Salmon, Cod and Scallops)*
         text: 28,50 €
-      - title: Noix de St Jacques aux Cèpes
+      - title: Fresh scallops with wild cepes mushrooms
         text: 35,50 €
-      - title: Sole Grillée ou Meunière *(Selon Arrivage)*
+      - title: Grilled or pan-fried Sole *(with mix of Vegetables)*
         text: 44,50 €
   - type: table
     background: false
     grid: medium
     heading:
-      title: Les classiques
+      title: Classics
     rows:
-      - title: Suprême de Volaille Rôti Sauce Vermouth, Tagliatelles
+      - title: Chicken breast with Pastas and Vermouth sauce
         text: 20,50 €
-      - title: Tartare de Bœuf *assaisonné ou non*
+      - title: Beef Tartare, seasoned or not, with Homemade Froes (FR)
         text: 21,00 €
-      - title: Rognons de Veau grillés Purée Maison
+      - title: Grilled Veal Kidneys withj homemade mash (EU)
         text: 21,50 €
-      - title: Confit de Canard au four *(10 min cuisson) et ses Frites Maison*
+      - title: Duck Confit in the Oven (10 min cooking) and Homemade Fries (FR)
         text: 22,00 €
-      - title: Tête de Veau Ravigote Pomme vapeur
+      - title: |-
+          
+          Veal head slices with a Ravigote Sauce
         text: 22,50 €
-      - title: Foie de Veau poêlé au vinaigre de Xérès
+      - title: |-
+          
+          Pan-Fried Calf’s liver
         text: 23,00 €
-      - title: "Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame
-          Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail,
-          Jarreton Braisé, Jambon à l’Os*"
+      - title: >-
+          
+          Traditionnal madame Homar Sauerkraut *(Opening dish at Noailles in June 1932)*
         text: 29,50 €
-      - title: Cèpes à la Bordelaise
+      - title: |-
+          
+          Pan-Fried Cèpes with Parsley and Shallots
         text: 32,50 €
-      - title: Foie de Canard Frais Poêlé aux Fruits (Fra)
+      - title: |-
+          
+          Pan-Fried Fresh Duck liver with Fruits (Fra)
         text: 36,50 €
   - type: table
     grid: medium
