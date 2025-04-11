@@ -143,8 +143,9 @@ blocks:
     grid: medium
     heading:
       title: Sides
-      text: Frites Maison, Purée Maison, Tagliatelles, Endives Rissolées, Salade
-        Verte, Riz, Jardinière de Légumes
+      text: |-
+        Home-made fries, Homemade Mashed Potatoes, Tagliatelle Pastas, Sautéed
+        Chicories, Salad, Rice, Mixed vegetables
     rows:
       - title: En Supplément
         text: 6,00 €
@@ -161,7 +162,7 @@ blocks:
         text: 7,50 €
       - title: Raw Milk Camembert
         text: 8,00 €
-      - title: Ewe Cheese from Pays Basque
+      - title: Brebis (Ewe Cheese) from Pays Basque
         text: 9,00 €
       - title: Assortment of three cheeses *(Camembert, Brebis et Roquefort)*
         text: 15,00 €
@@ -170,43 +171,49 @@ blocks:
   - type: table
     grid: medium
     heading:
-      title: Les desserts
+      title: Desserts
     rows:
-      - title: Crème Brûlée à la Vanille
+      - title: Crème Brûlée
         text: 8,50 €
-      - title: Fromage Blanc *et son Coulis fruits Rouge ou Caramel au Beurre Salé*
+      - title: White Cheese With red-fruits coulis or salted-butter Caramel
         text: 8,50 €
-      - title: Mousse au Chocolat Maison
+      - title: Homemade Chocolate Mousse
         text: 9,50 €
-      - title: Pâtisserie du jour Maison
+      - title: Homemade Pastry of the Day
         text: 10,00 €
-      - title: Coupe de Fraises
+      - title: Fresh Strawberries
         text: 10,00 €
       - title: Le Café Gourmand
         text: 13,20 €
   - type: table
     grid: medium
     heading:
-      title: Les desserts glacés
+      title: Ice cream Desserts
     rows:
-      - title: Caramel au Beurre Salé Liégeois
+      - title: Liégeois Salted-Butter Caramel
         text: 9,50 €
-      - title: Café ou Chocolat Liégeois
+      - title: Liégeois Coffee or Chocolate Flavored
         text: 9,50 €
-      - title: Profiteroles au Chocolat
+      - title: Chocolate Profiteroles
         text: 10,50 €
-      - title: Pêche Melba
+      - title: Peach Melba
         text: 11,50 €
-      - title: Fraise Melba
+      - title: Strawberry Melba
         text: 12,00 €
-      - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
-          Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel
-          Beurre salé)*
+      - title: |-
+          
+
+
+
+
+          Two Scoops of Ice cream *(Vanilla, Chocolate, Strawberry, Raisin
+          & Rhum, Caramel, Raspberry, Lime, Blackcurrent, Peer, Pineapple,
+          Pistacchio)*
         text: 8,50 €
   - type: title
     background: true
     heading:
-      title: Carte des vins
+      title: Wine Menu
   - type: table
     grid: medium
     background: true
