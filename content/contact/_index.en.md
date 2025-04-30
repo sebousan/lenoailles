@@ -25,7 +25,6 @@ blocks:
         text: Book online
         url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
     direction: ltr
-
   - type: editorial
     direction: rtl
     surtitle: Virtual Tour
@@ -36,7 +35,6 @@ blocks:
       blank: true
       text: Virtual Tour
       url: https://my.matterport.com/show/?m=8ZEgTp2sMqQ
-
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.575624,44.8432406]}'
@@ -54,7 +52,6 @@ blocks:
         text: B, C et D, Quinconces stop
         icon: train-lightrail-front
     column: 2
-
   - type: editorial
     direction: ltr
     surtitle: 100 seats available
@@ -64,7 +61,6 @@ blocks:
     cta:
       text: Learn more
       url: /en/groups/
-
   - type: form
     background: true
     offset: center

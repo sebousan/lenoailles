@@ -23,9 +23,8 @@ blocks:
     ctas:
       - blank: true
         text: Réservation en ligne
-        url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+        url: https://bookings.zenchef.com/results?rid=376082&pid=1001
     direction: ltr
-
   - type: editorial
     direction: rtl
     surtitle: Visite virtuelle
@@ -36,7 +35,6 @@ blocks:
       blank: true
       text: Visite virtuelle
       url: https://my.matterport.com/show/?m=8ZEgTp2sMqQ
-
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.575624,44.8432406]}'
@@ -54,7 +52,6 @@ blocks:
         text: B, C et D, arrêt Quinconces
         icon: train-lightrail-front
     column: 2
-
   - type: editorial
     direction: ltr
     surtitle: 100 places assises
@@ -64,7 +61,6 @@ blocks:
     cta:
       text: En savoir plus
       url: /les-groupes/
-
   - type: form
     background: true
     offset: center
