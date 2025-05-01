@@ -24,7 +24,7 @@ blocks:
     ctas:
       - blank: true
         text: Réservation en ligne
-        url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+        url: https://bookings.zenchef.com/results?rid=376082&pid=1001
     direction: ltr
   - type: editorial
     direction: rtl

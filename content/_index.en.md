@@ -25,7 +25,7 @@ blocks:
     image:
       src: /images/uploads/IMGP9382.jpg
     ctas:
-      - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
         blank: true
         text: Book now
   - type: editorial

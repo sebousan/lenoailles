@@ -26,7 +26,7 @@ blocks:
     image:
       src: /images/uploads/IMGP9382.jpg
     ctas:
-      - url: https://ib.guestonline.fr/instabook/bookings/T48mtHU
+      - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
         blank: true
         text: Réserver
     direction: ltr
@@ -80,7 +80,7 @@ blocks:
     grid: container
   - type: testimonials
     heading:
-      text: "**Les avis**"
+      text: '**Les avis**'
     layout: carousel
     carousel:
       params:
@@ -157,6 +157,7 @@ blocks:
           excellente.
       - author:
           title: Viator-helveticus
-        quote: L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
+        quote:
+          L’idée même de la brasserie. Grande salle aux tables rapprochées. Service
           rapide et professionnel. Plats classiques bien exécutés.
 ---
