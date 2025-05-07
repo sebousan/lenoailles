@@ -65,7 +65,7 @@ blocks:
     background: true
     offset: center
     grid: medium
-    name: form-offer
+    name: form-contact
     submit: Envoyer
     heading:
       surtitle: Contactez-nous
