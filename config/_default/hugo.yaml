@@ -1,10 +1,15 @@
 ## LANGUAGE
 defaultContentLanguage: fr
-languageCode: fr
 
 ## ADVANCED
 build:
-  writeStats: true
+  _merge: deep
+  buildStats:
+    _merge: deep
+    disableClasses: false
+    disableIDs: true
+    disableTags: false
+    enable: true
 enableRobotsTXT: true
 imaging:
   anchor: Smart

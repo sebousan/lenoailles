@@ -1,13 +1,16 @@
 fr:
+  languageCode: fr
   languageName: Français
   title: Le Noailles
   weight: 1
 
 en:
+  languageCode: en
   languageName: English
   title: Le Noailles
   weight: 2
 # es:
+#   languageCode: es
 #   languageName: Español
 #   title: Le Noailles
 #   weight: 3
