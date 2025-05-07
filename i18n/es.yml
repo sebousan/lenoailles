@@ -2,3 +2,8 @@ label: Label
 name: Name
 price: Price
 year: Year
+
+admin:
+  files:
+    nav:
+      booking: Booking

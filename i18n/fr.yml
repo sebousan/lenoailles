@@ -2,3 +2,8 @@ label: Label
 name: Nom
 price: Prix
 year: Année
+
+admin:
+  files:
+    nav:
+      booking: Booking

@@ -1,0 +1,2 @@
+{{- $fields := slice "links" -}}
+{{- partial "admin/datas/_nav.yml" (dict "nav" "booking") -}}

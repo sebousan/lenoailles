@@ -17,6 +17,8 @@ admin:
     config:
       files:
         - nav-primary
+        - nav-secondary
+        - booking
         - nav-legal
         - nav-social
         - banner
