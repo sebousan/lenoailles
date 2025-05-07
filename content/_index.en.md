@@ -42,7 +42,7 @@ blocks:
     image:
       src: /images/uploads/IMGP9644.jpg
     cta:
-      url: /en/the-menu/
+      url: /en/la-carte/
       text: View the menu
   - type: editorial
     background: false

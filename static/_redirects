@@ -8,6 +8,9 @@
 /gastronomie.html                   /la-carte/
 /plat.html                          /la-carte/
 /dessert.html                       /la-carte/
+/vin.html                           /la-carte/#carte-des-vins
+/galerie.html                       /la-brasserie/
+/galerie2.html                      /la-brasserie/
 /gallerie.html                      /la-brasserie/
 /brasserie.html                     /la-brasserie/
 /offrir.html                        /offrir-un-repas/
@@ -21,6 +24,7 @@
 /gastronomie_en.html                /en/la-carte/
 /plat_en.html                       /en/la-carte/
 /dessert_en.html                    /en/la-carte/
+/vin_en.html                        /en/la-carte/#wine-list
 /gallerie_en.html                   /en/la-brasserie/
 /brasserie_en.html                  /en/la-brasserie/
 /mentions_en.html                   /en/legal-mentions/
@@ -28,4 +32,7 @@
 
 /pdf/LaCarte.pdf                    /la-carte/
 /pdf/menu.pdf                       /la-carte/
+/pdf/Menu.pdf                       /la-carte/
 /pdf/Carte-vins.pdf                 /la-carte/#carte-des-vins
+
+/en/the-menu/                       /en/la-carte/
