@@ -72,19 +72,23 @@ blocks:
       title: Send us a message
     items:
       - label: Name
+        name: nom
         type: text
         required: true
         autocomplete: name
         full: true
       - label: Phone
+        name: telephone
         type: tel
         required: true
         autocomplete: tel
       - label: Email
+        name: email
         type: email
         required: true
         autocomplete: email
       - label: Message
+        name: message
         type: textarea
         full: true
         required: true

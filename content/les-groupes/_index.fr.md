@@ -59,22 +59,27 @@ blocks:
       text: Pour profiter d’un repas entre collègues ou amis et célébrer toute occasion aussi bien dans un cadre privé que professionnel, chacun de vos événements trouvera au Noailles un cadre à sa mesure.
     items:
       - label: Nom
+        name: nom
         type: text
         required: true
         autocomplete: name
       - label: Société
+        name: societe
         type: text
         required: false
         autocomplete: organization
       - label: Téléphone
+        name: telephone
         type: tel
         required: true
         autocomplete: tel
       - label: Email
+        name: email
         type: email
         required: true
         autocomplete: email
       - label: Type d’évènement
+        name: type
         type: select
         options:
           - title: Déjeuner
@@ -84,19 +89,23 @@ blocks:
         required: true
         autocomplete: false
       - label: Nombre de convives (15 minimum)
+        name: convives
         type: number
         required: true
         autocomplete: false
       - label: Budget par personne
+        name: budget
         type: number
         hint: Montant TTC en €
         required: true
         autocomplete: false
       - label: Date souhaitée
+        name: date
         type: date
         required: true
         autocomplete: false
       - label: Message
+        name: message
         type: textarea
         full: true
         required: true

@@ -60,22 +60,27 @@ blocks:
       text: Whether it’s a meal with colleagues or friends, or a celebration in a private or professional setting, le Noailles offers the perfect venue for any occasion.
     items:
       - label: Name
+        name: nom
         type: text
         required: true
         autocomplete: name
       - label: Company
+        name: societe
         type: text
         required: false
         autocomplete: organization
       - label: Phone
+        name: telephone
         type: tel
         required: true
         autocomplete: tel
       - label: Email
+        name: email
         type: email
         required: true
         autocomplete: email
       - label: Event Type
+        name: type
         type: select
         options:
           - title: Lunch
@@ -85,19 +90,22 @@ blocks:
         required: true
         autocomplete: false
       - label: Number of guests (minimum of 15)
+        name: convives
         type: number
         required: true
         autocomplete: false
       - label: Budget per person
+        name: budget
         type: number
-        # hint: Montant TTC en €
         required: true
         autocomplete: false
       - label: Preferred date
+        name: date
         type: date
         required: true
         autocomplete: false
       - label: Message
+        name: message
         type: textarea
         full: true
         required: true

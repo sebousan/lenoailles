@@ -73,19 +73,23 @@ blocks:
       title: Envoyez-nous un message
     items:
       - label: Nom
+        name: nom
         type: text
         required: true
         autocomplete: name
         full: true
       - label: Téléphone
+        name: telephone
         type: tel
         required: true
         autocomplete: tel
       - label: Email
+        name: email
         type: email
         required: true
         autocomplete: email
       - label: Message
+        name: message
         type: textarea
         full: true
         required: true
