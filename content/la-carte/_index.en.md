@@ -23,11 +23,11 @@ blocks:
       text: From the Parcs de l'Impératrice "Joël Dupuch"
     rows:
       - title: 6 Spéciales n°2
-        text: 15,00 €
+        text: 15,50 €
       - title: 9 Spéciales n°2
-        text: 22,50 €
+        text: 23,30 €
       - title: 12 Spéciales n°2
-        text: 30,00 €
+        text: 31,00 €
       - title: Side Sausage (FR)
         text: 5,50 €
   - type: table
@@ -40,15 +40,15 @@ blocks:
       - title: Mimosa eggs with tuna
         text: 9,50 €
       - title: Grenier Médocain
-        text: 11,50 €
-      - title: Herring fillets with steamed potatoes
-        text: 11,50 €
+        text: 12,00 €
+      - title: Artichoke with Vinaigette (Veg)
+        text: 13,00 €
       - title: Goat cheese salad with walnut oil
         text: 12,50 €
-      - title: French Oignon Soup
-        text: 13,50 €
-      - title: Parma Ham Plate (ITA)
-        text: 14,00 €
+      - title: Andalusian Gazpacho
+        text: 10,00 €
+      - title: Bayonne Ham Plate (FR)
+        text: 15,00 €
       - title: Salmon “Gravlax”
         text: 15,50 €
       - title: Snails Bordelaise style

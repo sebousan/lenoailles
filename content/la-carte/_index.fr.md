@@ -21,11 +21,11 @@ blocks:
       text: Des parcs de l’Impératrice « Joël Dupuch »
     rows:
       - title: 6 Spéciales n°2
-        text: 15,00 €
+        text: 15,50 €
       - title: 9 Spéciales n°2
-        text: 22,50 €
+        text: 23,30 €
       - title: 12 Spéciales n°2
-        text: 30,00 €
+        text: 31,00 €
       - title: Saucisse d’Accompagnement
         text: 5,50 €
   - type: table
@@ -38,15 +38,15 @@ blocks:
       - title: Œuf Mimosa au thon
         text: 9,50 €
       - title: Grenier Médocain
-        text: 11,50 €
-      - title: Hareng Pommes à l’Huile
-        text: 11,50 €
+        text: 12,00 €
+      - title: Artichaut Vinaigrette (Vég)
+        text: 13,00 €
       - title: Salade de Chèvre chaud rôti à l’huile de noix
         text: 12,50 €
-      - title: Soupe à l’Oignon Gratinée
-        text: 13,50 €
-      - title: Assiette de Jambon de Parme
-        text: 14,00 €
+      - title: Gazpacho Andalou
+        text: 10,00 €
+      - title: Assiette de Jambon de Bayonne
+        text: 15,00 €
       - title: Saumon Gravlax
         text: 15,50 €
       - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
