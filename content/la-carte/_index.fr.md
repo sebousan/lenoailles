@@ -66,11 +66,11 @@ blocks:
       title: Les œufs et plats végétariens
     rows:
       - title: Œuf Bacon
-        text: 16,50 €
+        text: 17,00 €
       - title: Omelette aux Cèpes
         text: 27,50 €
       - title: Omelette aux Truffes
-        text: 36,50 €
+        text: 37,00 €
       - title: Plat Végétarien du Moment
         text: à l’ardoise
   - type: table
@@ -78,12 +78,12 @@ blocks:
     heading:
       title: Les poissons
     rows:
-      - title: Dos de Merlu Grillé sauce Raisins & Sauternes et ses Petits Légumes
-        text: 26,50 €
+      - title: Poisson du Jour
+        text: "-"
       - title: 1ère Symphonie de Maître Lombard *(Saumon, Merlu et Saint Jacques)*
         text: 28,50 €
       - title: Noix de St Jacques aux Cèpes
-        text: 35,50 €
+        text: 36,50 €
       - title: Sole Grillée ou Meunière *(Selon Arrivage)*
         text: 44,50 €
   - type: table
@@ -92,7 +92,7 @@ blocks:
     heading:
       title: Les classiques
     rows:
-      - title: Suprême de Volaille Rôti Sauce Vermouth, Tagliatelles
+      - title: Suprême de Volaille Rôti Crème Moutarde, Tagliatelles
         text: 20,50 €
       - title: Tartare de Bœuf *assaisonné ou non*
         text: 21,00 €
@@ -104,10 +104,8 @@ blocks:
         text: 22,50 €
       - title: Foie de Veau poêlé au vinaigre de Xérès
         text: 23,00 €
-      - title: "Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de Madame
-          Homar » *Saucisse Francfort, Saucisse Montbéliard, Saucisson à l’ail,
-          Jarreton Braisé, Jambon à l’Os*"
-        text: 29,50 €
+      - title: Andouillette AAAAA, Purée Maison et Crème Moutarde
+        text: 19,50 €
       - title: Cèpes à la Bordelaise
         text: 32,50 €
       - title: Foie de Canard Frais Poêlé aux Fruits (Fra)

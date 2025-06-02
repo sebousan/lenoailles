@@ -67,11 +67,11 @@ blocks:
       title: Eggs and Vegetarian Dishes
     rows:
       - title: Fried eggs with bacon
-        text: 16,50 €
+        text: 17,00 €
       - title: Wild Mushrooms Cepes Omelette
         text: 27,50 €
       - title: Truffle Omelette
-        text: 36,50 €
+        text: 37,00 €
       - title: Vegetarian dish of the day
         text: à l’ardoise
   - type: table
@@ -79,12 +79,12 @@ blocks:
     heading:
       title: Fishes
     rows:
-      - title: Grilled hake fillet and Sauternes sauce
-        text: 26,50 €
+      - title: Fish of the Day
+        text: "-"
       - title: The first Symphony by Master Lombard *(Salmon, Cod and Scallops)*
         text: 28,50 €
       - title: Fresh scallops with wild cepes mushrooms
-        text: 35,50 €
+        text: 36,50 €
       - title: Grilled or pan-fried Sole *(with mix of Vegetables)*
         text: 44,50 €
   - type: table
@@ -93,7 +93,7 @@ blocks:
     heading:
       title: Classics
     rows:
-      - title: Chicken breast with Pastas and Vermouth sauce
+      - title: Chicken breast with Pastas and Mustard Cream
         text: 20,50 €
       - title: Beef Tartare, seasoned or not, with Homemade Froes (FR)
         text: 21,00 €
@@ -109,10 +109,8 @@ blocks:
           
           Pan-Fried Calf’s liver
         text: 23,00 €
-      - title: >-
-          
-          Traditionnal madame Homar Sauerkraut *(Opening dish at Noailles in June 1932)*
-        text: 29,50 €
+      - title: Andouillette AAAAA, Homemade Mash, Mustard Cream
+        text: 19,50 €
       - title: |-
           
           Pan-Fried Cèpes with Parsley and Shallots
