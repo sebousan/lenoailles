@@ -120,11 +120,11 @@ blocks:
       - title: Magret de Canard Grillé 200g *avec ou sans Sauce au Poivre*
         text: 22,50 €
       - title: Entrecôte Grillée Sauce Bordelaise 300g
-        text: 28,50 €
+        text: 29,00 €
       - title: Tournedos Grillé *(Sauce au choix)*
-        text: 37,00 €
+        text: 37,50 €
       - title: Tournedos Rossini au Foie gras de Canard poêlé
-        text: 45,00 €
+        text: 46,00 €
       - title: Côte de Bœuf 1,2 Kg pour deux aux échalotes confites *(Sauce au choix)*
         text: 89,50 €
   - type: table
@@ -172,7 +172,7 @@ blocks:
       - title: Coupe de Fraises
         text: 10,00 €
       - title: Le Café Gourmand
-        text: 13,20 €
+        text: 13,30 €
   - type: table
     grid: medium
     heading:
@@ -183,7 +183,7 @@ blocks:
       - title: Café ou Chocolat Liégeois
         text: 9,50 €
       - title: Profiteroles au Chocolat
-        text: 10,50 €
+        text: 11,00 €
       - title: Pêche Melba
         text: 11,50 €
       - title: Fraise Melba
@@ -937,17 +937,17 @@ blocks:
     rows:
       - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
           la solidarité locale*
-        text: 3,20 €
+        text: 3,30 €
       - title: Décaféiné
-        text: 3,40 €
+        text: 3,50 €
       - title: Thé *Earl Grey, Ceylan, Darjeeling, Thé vert, Thé vert Menthe*
         text: 5,10 €
       - title: Infusion *Tilleul, Camomille, Verveine, Verveine Menthe*
         text: 5,10 €
       - title: Irish Coffee
-        text: 13,50 €
+        text: 13,60 €
       - title: French Coffee
-        text: 14,50 €
+        text: 14,60 €
   - type: alert
     state: warning
     offset: center

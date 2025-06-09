@@ -129,12 +129,12 @@ blocks:
       - title: Grilled Duck breast 200g with or without Peppercorn Sauce
         text: 22,50 €
       - title: Grilled &quot;Entrecôte&quot; 300 G. with “Sauce Bordelaise”
-        text: 28,50 €
+        text: 29,00 €
       - title: Grilled Beef tenderloin (&quot;Filet Mignon&quot;) *(Sauce in the
           choice)*
-        text: 37,00 €
+        text: 37,50 €
       - title: Beef tenderloin Rossini with a slice of pan-fried Duck Liver
-        text: 45,00 €
+        text: 46,00 €
       - title: Prime rib of Beef *(1.2 kilo to share between two people)*
         text: 89,50 €
   - type: table
@@ -182,7 +182,7 @@ blocks:
       - title: Fresh Strawberries
         text: 10,00 €
       - title: Le Café Gourmand
-        text: 13,20 €
+        text: 13,30 €
   - type: table
     grid: medium
     heading:
@@ -193,7 +193,7 @@ blocks:
       - title: Liégeois Coffee or Chocolate Flavored
         text: 9,50 €
       - title: Chocolate Profiteroles
-        text: 10,50 €
+        text: 11,00 €
       - title: Peach Melba
         text: 11,50 €
       - title: Strawberry Melba
@@ -953,17 +953,17 @@ blocks:
     rows:
       - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
           la solidarité locale*
-        text: 3,20 €
+        text: 3,30 €
       - title: Décaféiné
-        text: 3,40 €
+        text: 3,50 €
       - title: Thé *Earl Grey, Ceylan, Darjeeling, Thé vert, Thé vert Menthe*
         text: 5,10 €
       - title: Infusion *Tilleul, Camomille, Verveine, Verveine Menthe*
         text: 5,10 €
       - title: Irish Coffee
-        text: 13,50 €
+        text: 13,60 €
       - title: French Coffee
-        text: 14,50 €
+        text: 14,60 €
   - type: alert
     state: warning
     offset: center
