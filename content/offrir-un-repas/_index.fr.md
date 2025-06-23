@@ -17,33 +17,34 @@ blocks:
       un évènement particulier…
 
 
-
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
 
 
-      Envoyez nous un message, nous composerons ensemble votre bon cadeau.
+      Pour un bon cadeau rapide, utilisez notre module [ici ](https://bookings.zenchef.com/shop?rid=376082)
+
+
+      Pour un montant personnalisé, envoyez nous un message, nous composerons ensemble votre bon cadeau.
     cta:
-      url: '/contact/#form-5'
+      url: /contact/#form-5
       text: Message
     image:
       src: /images/uploads/IMG_7199.jpg
     direction: ltr
-
   - type: gallery
     column: 3
     ratio: 1.25
     gallery:
-      - image:
+      - image: null
         src: /images/uploads/IMGP1517.jpg
-      - image:
+      - image: null
         src: /images/uploads/IMGP1522.jpg
-      - image:
+      - image: null
         src: /images/uploads/IMGP1532.jpg
-      - image:
+      - image: null
         src: /images/uploads/IMGP9676.jpg
-      - image:
+      - image: null
         src: /images/uploads/IMGP9644.jpg
-      - image:
+      - image: null
         src: /images/uploads/IMGP9602.jpg
     background: false
 ---
