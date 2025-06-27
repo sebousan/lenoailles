@@ -24,7 +24,7 @@ blocks:
       For a quick gift voucher, use our module [here](https://bookings.zenchef.com/shop?rid=376082)
 
 
-      For a customized amount, send us a message, and together we’ll create your personalized gift voucher.
+      Or send us a message.
     cta:
       url: /contact/#form-5
       text: Message
