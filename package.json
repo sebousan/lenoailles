@@ -1,10 +1,10 @@
 {
-  "name": "hugolify-template",
-  "version": "1.12.0",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "name": "lenoailles",
+  "version": "1.0.0",
+  "homepage": "https://www.lenoailles.fr",
+  "repository": "https://github.com/sebousan/lenoailles",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/sebousan/lenoailles/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",
@@ -27,9 +27,11 @@
     "build": "hugo --noChmod --gc --minify",
     "tidy": "hugo mod tidy",
     "update": "hugo mod get -u",
-    "updateall": "yarn update && yarn tidy && yarn upgrade",
+    "update:all": "yarn update && yarn tidy && yarn upgrade",
     "clean": "hugo mod clean",
-    "cleanall": "hugo mod clean --all",
-    "cms": "npx netlify-cms-proxy-server"
+    "clean:all": "hugo mod clean --all",
+    "netlifycms": "npx netlify-cms-proxy-server",
+    "decapcms": "npx decap-server",
+    "cms": "yarn decapcms"
   }
 }

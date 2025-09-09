@@ -1,5 +1,6 @@
 _merge: deep
-animation: false
+
+# Images
 logo:
   header: false
   footer: /assets/images/logo-footer.svg
@@ -7,12 +8,35 @@ hero:
   cover: 1600x350
   cover_mobile: 375x200
 
+# Javascripts
+animation: false
+carousel: true
+map: true
+parallax: 
+  enable: false
+bootstrap:
+  carousel: false 
+  collapse: false 
+  dropdown: true 
+  modal: false 
+  offcanvas: true 
+  popover: false 
+  scrollspy: false 
+  tab: false 
+  toast: false
+  tooltip: false 
+
+# CMS
 admin:
+
+  # Config
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
   config:
     id: false
+
+  # Collections
   collections:
     config:
       files:
@@ -37,15 +61,23 @@ admin:
         - blocks
         - body
         - slug
+  
+  # Blocks
   blocks:
     enable:
       - alert
       - editorial
       - form
       - figure
+      - gallery
       - informations
       - map
       - pushes
       - table
       - testimonials
       - title
+
+  # Shortcodes
+  shortcodes:
+    enable:
+      - blank_link
