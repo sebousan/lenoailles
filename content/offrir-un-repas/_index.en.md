@@ -21,7 +21,7 @@ blocks:
       Choose from our full [à la carte](/la-carte/) menu according to your budget.
 
 
-      For a quick gift voucher, use our module [here](https://bookings.zenchef.com/shop?rid=376082)
+      For a quick gift voucher, [use our module](https://bookings.zenchef.com/shop?rid=376082).
 
 
       Or send us a message.

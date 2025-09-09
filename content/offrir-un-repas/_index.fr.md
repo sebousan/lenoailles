@@ -18,10 +18,10 @@ blocks:
       Vous choisissez selon votre budget parmi l’ensemble des plats que nous proposons à [la carte](/la-carte/).
 
 
-      Pour un bon cadeau rapide, utilisez notre module [ICI ](https://bookings.zenchef.com/shop?rid=376082)
+      Pour un bon cadeau rapide, [utilisez notre module](https://bookings.zenchef.com/shop?rid=376082).
 
 
-      Ou bien envoyez nous un message.[](https://bookings.zenchef.com/shop?rid=376082)
+      Ou bien envoyez nous un message.
     cta:
       url: /contact/#form-5
       text: Message
