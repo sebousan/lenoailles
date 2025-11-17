@@ -7,6 +7,9 @@ logo:
 hero:
   cover: 1600x350
   cover_mobile: 375x200
+image:
+  retina:
+    desktop: true
 
 # Javascripts
 animation: false

@@ -3,9 +3,7 @@ defaultContentLanguage: fr
 
 ## ADVANCED
 build:
-  _merge: deep
   buildStats:
-    _merge: deep
     disableClasses: false
     disableIDs: true
     disableTags: false
@@ -22,5 +20,4 @@ markup:
 pagination:
   pagerSize: 9
 removePathAccents: true
-disableHugoGeneratorInject: true
 timeout: 100000
