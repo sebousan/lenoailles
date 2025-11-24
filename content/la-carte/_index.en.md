@@ -29,7 +29,7 @@ blocks:
       - title: 12 Spéciales n°2
         text: 31,00 €
       - title: Side Sausage (FR)
-        text: 5,50 €
+        text: 5,80 €
   - type: table
     grid: medium
     heading:
@@ -41,26 +41,27 @@ blocks:
         text: 9,50 €
       - title: Grenier Médocain
         text: 12,00 €
-      - title: Artichoke with Vinaigette (Veg)
-        text: 13,00 €
+      - title: Onion Soup
+        text: 13,50 €
       - title: Goat cheese salad with walnut oil
         text: 12,50 €
-      - title: Andalusian Gazpacho
-        text: 10,00 €
+      - title: Herring with Potatoes in Oil
+        text: 11,50 €
+        year: ""
       - title: Bayonne Ham Plate (FR)
         text: 15,00 €
       - title: Salmon “Gravlax”
         text: 15,50 €
       - title: Snails Bordelaise style
-        text: 16,50 €
+        text: 17,00 €
       - title: Tartare of crab and avocado
         text: 18,50 €
       - title: Boiled Egg with Caviar from Aquitaine *(Perlita)*
-        text: 19,50 €
+        text: 19,80 €
       - title: Duck Foie Gras (FR)
         text: 25,00 €
       - title: Caviar from Aquitaine (30g) *(Perlita)*
-        text: 79,50 €
+        text: 82,50 €
   - type: table
     grid: medium
     heading:
@@ -82,9 +83,9 @@ blocks:
       - title: Fish of the Day
         text: "-"
       - title: The first Symphony by Master Lombard *(Salmon, Cod and Scallops)*
-        text: 28,50 €
+        text: 29,00 €
       - title: Fresh scallops with wild cepes mushrooms
-        text: 36,50 €
+        text: 37,50 €
       - title: Grilled or pan-fried Sole *(with mix of Vegetables)*
         text: 44,50 €
   - type: table
@@ -96,7 +97,7 @@ blocks:
       - title: Chicken breast with Pastas and Mustard Cream
         text: 20,50 €
       - title: Beef Tartare, seasoned or not, with Homemade Froes (FR)
-        text: 21,00 €
+        text: 22,00 €
       - title: Grilled Veal Kidneys withj homemade mash (EU)
         text: 21,50 €
       - title: Duck Confit in the Oven (10 min cooking) and Homemade Fries (FR)
@@ -109,8 +110,9 @@ blocks:
           
           Pan-Fried Calf’s liver
         text: 23,00 €
-      - title: Andouillette AAAAA, Homemade Mash, Mustard Cream
-        text: 19,50 €
+      - title: 'Opening Dish of Le Noailles in June 1932 : "La Choucroute de Madame
+          Homar"'
+        text: 29,50 €
       - title: |-
           
           Pan-Fried Cèpes with Parsley and Shallots
@@ -155,7 +157,7 @@ blocks:
       title: Matured Cheeses
     rows:
       - title: Chabichou (Goat Cheese) A.O.P.
-        text: 7,00 €
+        text: 8,50 €
       - title: Roquefort A.O.P.
         text: 7,50 €
       - title: Raw Milk Camembert
@@ -176,11 +178,11 @@ blocks:
       - title: White Cheese With red-fruits coulis or salted-butter Caramel
         text: 8,50 €
       - title: Homemade Chocolate Mousse
-        text: 9,50 €
+        text: 10,50 €
       - title: Homemade Pastry of the Day
         text: 10,00 €
       - title: Fresh Strawberries
-        text: 10,00 €
+        text: 11,00 €
       - title: Le Café Gourmand
         text: 13,30 €
   - type: table
@@ -194,8 +196,6 @@ blocks:
         text: 9,50 €
       - title: Chocolate Profiteroles
         text: 11,00 €
-      - title: Peach Melba
-        text: 11,50 €
       - title: Strawberry Melba
         text: 12,00 €
       - title: |-

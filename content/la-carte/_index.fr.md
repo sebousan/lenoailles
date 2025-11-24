@@ -27,7 +27,7 @@ blocks:
       - title: 12 Spéciales n°2
         text: 31,00 €
       - title: Saucisse d’Accompagnement
-        text: 5,50 €
+        text: 5,80 €
   - type: table
     grid: medium
     heading:
@@ -39,27 +39,27 @@ blocks:
         text: 9,50 €
       - title: Grenier Médocain
         text: 12,00 €
-      - title: Artichaut Vinaigrette (Vég)
-        text: 13,00 €
+      - title: Soupe à l'Oignon Grattinée
+        text: 13,50 €
       - title: Salade de Chèvre chaud rôti à l’huile de noix
         text: 12,50 €
-      - title: Gazpacho Andalou
-        text: 10,00 €
+      - title: Hareng Pommes à l'Huile
+        text: 11,50 €
       - title: Assiette de Jambon de Bayonne
         text: 15,00 €
       - title: Saumon Gravlax
         text: 15,50 €
       - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
-        text: 16,50 €
+        text: 17,00 €
       - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron
           vert)*
         text: 18,50 €
       - title: Œuf à la coque au Caviar d’Aquitaine *(Perlita)*
-        text: 19,50 €
+        text: 19,80 €
       - title: Foie Gras de Canard mi cuit au Lillet
         text: 25,00 €
       - title: Caviar d’Aquitaine (30g) *(Perlita)*
-        text: 79,50 €
+        text: 82,50 €
   - type: table
     grid: medium
     heading:
@@ -81,9 +81,9 @@ blocks:
       - title: Poisson du Jour
         text: "-"
       - title: 1ère Symphonie de Maître Lombard *(Saumon, Merlu et Saint Jacques)*
-        text: 28,50 €
+        text: 29,00 €
       - title: Noix de St Jacques aux Cèpes
-        text: 36,50 €
+        text: 37,50 €
       - title: Sole Grillée ou Meunière *(Selon Arrivage)*
         text: 44,50 €
   - type: table
@@ -95,7 +95,7 @@ blocks:
       - title: Suprême de Volaille Rôti Crème Moutarde, Tagliatelles
         text: 20,50 €
       - title: Tartare de Bœuf *assaisonné ou non*
-        text: 21,00 €
+        text: 22,00 €
       - title: Rognons de Veau grillés Purée Maison
         text: 21,50 €
       - title: Confit de Canard au four *(10 min cuisson) et ses Frites Maison*
@@ -104,8 +104,10 @@ blocks:
         text: 22,50 €
       - title: Foie de Veau poêlé au vinaigre de Xérès
         text: 23,00 €
-      - title: Andouillette AAAAA, Purée Maison et Crème Moutarde
-        text: 19,50 €
+      - title: "#### **Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de
+          Madame Homar »**"
+        text: 29,50 €
+        year: ""
       - title: Cèpes à la Bordelaise
         text: 32,50 €
       - title: Foie de Canard Frais Poêlé aux Fruits (Fra)
@@ -143,8 +145,8 @@ blocks:
     heading:
       title: Les fromages affinés
     rows:
-      - title: Rocamadour A.O.P.
-        text: 7,00 €
+      - title: Chabichou  A.O.P.
+        text: 8,50 €
       - title: Roquefort A.O.P.
         text: 7,50 €
       - title: Camembert au lait cru
@@ -166,11 +168,11 @@ blocks:
       - title: Fromage Blanc *et son Coulis fruits Rouge ou Caramel au Beurre Salé*
         text: 8,50 €
       - title: Mousse au Chocolat Maison
-        text: 9,50 €
+        text: 10,50 €
       - title: Pâtisserie du jour Maison
         text: 10,00 €
       - title: Coupe de Fraises
-        text: 10,00 €
+        text: 11,00 €
       - title: Le Café Gourmand
         text: 13,30 €
   - type: table
@@ -184,8 +186,6 @@ blocks:
         text: 9,50 €
       - title: Profiteroles au Chocolat
         text: 11,00 €
-      - title: Pêche Melba
-        text: 11,50 €
       - title: Fraise Melba
         text: 12,00 €
       - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
