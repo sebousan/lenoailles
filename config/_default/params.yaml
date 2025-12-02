@@ -33,6 +33,7 @@ bootstrap:
 admin:
 
   # Config
+  cms: decapcms
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
