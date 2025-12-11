@@ -3,8 +3,8 @@
 {{- $args := dict 
   "label" "Table"
   "name" "table"
-  "collapsed" false
   "fields" $fields
+  "summary" "{{heading.title}}"
   -}}
 
 {{ partial "admin/widgets/object.js" $args }}

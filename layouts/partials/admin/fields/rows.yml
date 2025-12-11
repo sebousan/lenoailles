@@ -6,7 +6,7 @@
 {{- $fields = partial "admin/func/GetFields.html" (dict "field" . "fields" $fields) -}}
 
 {{- $args := dict 
-  "label" "Tableau"
+  "label" "Lignes"
   "label_singular" "ligne"
   "name" "rows"
   "fields" $fields
