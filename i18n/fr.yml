@@ -4,6 +4,14 @@ price: Prix
 year: Année
 
 admin:
+  collections:
+    cartes:
+      label: Cartes
+      label_singular: Carte
+      _description: Toutes les cartes du Noailles
   files:
+    beverages: Boissons
+    meals: Plats
+    wines: Vins
     nav:
       booking: Booking
