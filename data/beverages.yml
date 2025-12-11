@@ -25,11 +25,11 @@ en:
   blocks:
     - type: title
       heading:
-        title: Carte des boissons
+        title: Drinks menu
     - type: table
       grid: medium
       heading:
-        title: Les Boissons Chaudes
+        title: Hot Drinks
       rows:
         - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
             la solidarité locale*

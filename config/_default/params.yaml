@@ -76,6 +76,7 @@ admin:
   blocks:
     enable:
       - alert
+      - cartes
       - editorial
       - form
       - figure

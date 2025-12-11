@@ -1,0 +1,7 @@
+{{- with .cartes }}
+  {{- range . }}
+    {{- with index (index site.Data .) site.Language.Lang }}
+      {{- partial "blocks/range.html" .blocks }}
+    {{- end }}
+  {{- end }}
+{{- end }}

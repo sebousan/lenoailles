@@ -1,0 +1,11 @@
+{{- $options := slice "meals" "wines" "beverages" -}}
+
+{{- $args := dict 
+  "label" "Cartes"
+  "name" "cartes"
+  "multiple" true
+  "options" $options
+  "summary" "{{heading.title}}"
+  -}}
+
+{{ partial "admin/widgets/select.js" $args }}

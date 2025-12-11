@@ -183,6 +183,9 @@ fr:
           text: 8,50 €
 en:
   blocks:
+    - type: title
+      heading:
+        title: Carte
     - type: table
       grid: medium
       heading:
