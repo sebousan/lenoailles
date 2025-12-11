@@ -33,6 +33,7 @@ bootstrap:
 admin:
 
   # Config
+  cms: decapcms
   i18n:
     default_locale: fr
     locales: '[fr,en,es]'
@@ -51,6 +52,12 @@ admin:
         - banner
         - footer
         - seo
+    cartes:
+      enable: true
+      files:
+        - meals
+        - wines
+        - beverages
     indexes:
       enable: false
     pages:
@@ -69,6 +76,7 @@ admin:
   blocks:
     enable:
       - alert
+      - cartes
       - editorial
       - form
       - figure
@@ -79,7 +87,7 @@ admin:
       - table
       - testimonials
       - title
-
+  
   # Shortcodes
   shortcodes:
     enable:

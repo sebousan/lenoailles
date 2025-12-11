@@ -1,0 +1,46 @@
+fr:
+  blocks:
+    - type: title
+      heading:
+        title: Carte des boissons
+    - type: table
+      grid: medium
+      heading:
+        title: Les Boissons Chaudes
+      rows:
+        - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
+            la solidarité locale*
+          text: 3,30 €
+        - title: Décaféiné
+          text: 3,50 €
+        - title: Thé *Earl Grey, Ceylan, Darjeeling, Thé vert, Thé vert Menthe*
+          text: 5,10 €
+        - title: Infusion *Tilleul, Camomille, Verveine, Verveine Menthe*
+          text: 5,10 €
+        - title: Irish Coffee
+          text: 13,60 €
+        - title: French Coffee
+          text: 14,60 €
+en:
+  blocks:
+    - type: title
+      heading:
+        title: Drinks menu
+    - type: table
+      grid: medium
+      heading:
+        title: Hot Drinks
+      rows:
+        - title: Café Massaya Bio *Café dont 5 cts seront reversés à BMS pour contribuer à
+            la solidarité locale*
+          text: 3,30 €
+        - title: Décaféiné
+          text: 3,50 €
+        - title: Thé *Earl Grey, Ceylan, Darjeeling, Thé vert, Thé vert Menthe*
+          text: 5,10 €
+        - title: Infusion *Tilleul, Camomille, Verveine, Verveine Menthe*
+          text: 5,10 €
+        - title: Irish Coffee
+          text: 13,60 €
+        - title: French Coffee
+          text: 14,60 €

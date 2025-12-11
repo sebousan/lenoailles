@@ -3,14 +3,13 @@
   "image_src" 
   "year" 
   "text" -}}
-{
-  name: 'rows',
-  label: 'Tableau',
-  label_singular: 'ligne',
-  widget: 'list',
-  required: false,
-  i18n: true,
-  collapsed: true,
-  summary: '{{`{{title}}`}}',
-  {{ partial "admin/fields/_fields.yml" $fields }}
-}
+{{- $fields = partial "admin/func/GetFields.html" (dict "field" . "fields" $fields) -}}
+
+{{- $args := dict 
+  "label" "Lignes"
+  "label_singular" "ligne"
+  "name" "rows"
+  "fields" $fields
+  -}}
+
+{{ partial "admin/widgets/list.js" $args }}

@@ -1,0 +1,4 @@
+aside [href="#/collections/cartes"] span::before {
+    /* content: '\F91A'; */
+    content: '\F194';
+}

@@ -1,0 +1,9 @@
+{{- $fields := slice "cartes" -}}
+
+{{- $args := dict 
+  "label" "Cartes"
+  "name" "cartes"
+  "fields" $fields
+  -}}
+
+{{ partial "admin/widgets/object.js" $args }}

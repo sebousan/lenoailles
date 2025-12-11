@@ -1,0 +1,376 @@
+fr:
+  blocks:
+    - type: title
+      heading:
+        title: Carte
+    - type: table
+      grid: medium
+      heading:
+        title: Les huîtres spéciales
+        text: Des parcs de l’Impératrice « Joël Dupuch »
+      rows:
+        - title: 6 Spéciales n°2
+          text: 15,50 €
+        - title: 9 Spéciales n°2
+          text: 23,30 €
+        - title: 12 Spéciales n°2
+          text: 31,00 €
+        - title: Saucisse d’Accompagnement
+          text: 5,80 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les entrées
+      rows:
+        - title: L’Entrée du jour
+          text: à l’ardoise
+        - title: Œuf Mimosa au thon
+          text: 9,50 €
+        - title: Grenier Médocain
+          text: 12,00 €
+        - title: Soupe à l'Oignon Grattinée
+          text: 13,50 €
+        - title: Salade de Chèvre chaud rôti à l’huile de noix
+          text: 12,50 €
+        - title: Hareng Pommes à l'Huile
+          text: 11,50 €
+        - title: Assiette de Jambon de Bayonne
+          text: 15,00 €
+        - title: Saumon Gravlax
+          text: 15,50 €
+        - title: Escargots à la Bordelaise *(tomates, oignons chair à saucisse, persil…)*
+          text: 17,00 €
+        - title: Tartare de Crabe *(chair de crabe, tomates, avocat et sorbet citron
+            vert)*
+          text: 18,50 €
+        - title: Œuf à la coque au Caviar d’Aquitaine *(Perlita)*
+          text: 19,80 €
+        - title: Foie Gras de Canard mi cuit au Lillet
+          text: 25,00 €
+        - title: Caviar d’Aquitaine (30g) *(Perlita)*
+          text: 82,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les œufs et plats végétariens
+      rows:
+        - title: Œuf Bacon
+          text: 17,00 €
+        - title: Omelette aux Cèpes
+          text: 27,50 €
+        - title: Omelette aux Truffes
+          text: 37,00 €
+        - title: Plat Végétarien du Moment
+          text: à l’ardoise
+    - type: table
+      grid: medium
+      heading:
+        title: Les poissons
+      rows:
+        - title: Poisson du Jour
+          text: "-"
+        - title: 1ère Symphonie de Maître Lombard *(Saumon, Merlu et Saint Jacques)*
+          text: 29,00 €
+        - title: Noix de St Jacques aux Cèpes
+          text: 37,50 €
+        - title: Sole Grillée ou Meunière *(Selon Arrivage)*
+          text: 44,50 €
+    - type: table
+      background: false
+      grid: medium
+      heading:
+        title: Les classiques
+      rows:
+        - title: Suprême de Volaille Rôti Crème Moutarde, Tagliatelles
+          text: 20,50 €
+        - title: Tartare de Bœuf *assaisonné ou non*
+          text: 22,00 €
+        - title: Rognons de Veau grillés Purée Maison
+          text: 21,50 €
+        - title: Confit de Canard au four *(10 min cuisson) et ses Frites Maison*
+          text: 22,00 €
+        - title: Tête de Veau Ravigote Pomme vapeur
+          text: 22,50 €
+        - title: Foie de Veau poêlé au vinaigre de Xérès
+          text: 23,00 €
+        - title: "#### **Plat d’ouverture du Noailles en juin 1932 : « La Choucroute de
+            Madame Homar »**"
+          text: 29,50 €
+          year: ""
+        - title: Cèpes à la Bordelaise
+          text: 32,50 €
+        - title: Foie de Canard Frais Poêlé aux Fruits (Fra)
+          text: 36,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les grillades
+      rows:
+        - title: La Pièce du Boucher du jour
+          text: à l’ardoise
+        - title: Magret de Canard Grillé 200g *avec ou sans Sauce au Poivre*
+          text: 22,50 €
+        - title: Entrecôte Grillée Sauce Bordelaise 300g
+          text: 29,00 €
+        - title: Tournedos Grillé *(Sauce au choix)*
+          text: 37,50 €
+        - title: Tournedos Rossini au Foie gras de Canard poêlé
+          text: 46,00 €
+        - title: Côte de Bœuf 1,2 Kg pour deux aux échalotes confites *(Sauce au choix)*
+          text: 89,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les légumes
+        text: Frites Maison, Purée Maison, Tagliatelles, Endives Rissolées, Salade
+          Verte, Riz, Jardinière de Légumes
+      rows:
+        - title: En Supplément
+          text: 6,00 €
+        - title: En Plat
+          text: 13,00 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les fromages affinés
+      rows:
+        - title: Chabichou  A.O.P.
+          text: 8,50 €
+        - title: Roquefort A.O.P.
+          text: 7,50 €
+        - title: Camembert au lait cru
+          text: 8,00 €
+        - title: Brebis du Pays Basque
+          text: 9,00 €
+        - title: Assiette des 3 Bergers *(A choisir entre Camembert, Brebis, Rocamadour et
+            Roquefort)*
+          text: 15,00 €
+        - title: Assiette des 4 Bergers *(Camembert, Brebis, Rocamadour et Roquefort)*
+          text: 18,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les desserts
+      rows:
+        - title: Crème Brûlée à la Vanille
+          text: 8,50 €
+        - title: Fromage Blanc *et son Coulis fruits Rouge ou Caramel au Beurre Salé*
+          text: 8,50 €
+        - title: Mousse au Chocolat Maison
+          text: 10,50 €
+        - title: Pâtisserie du jour Maison
+          text: 10,00 €
+        - title: Coupe de Fraises
+          text: 11,00 €
+        - title: Le Café Gourmand
+          text: 13,30 €
+    - type: table
+      grid: medium
+      heading:
+        title: Les desserts glacés
+      rows:
+        - title: Caramel au Beurre Salé Liégeois
+          text: 9,50 €
+        - title: Café ou Chocolat Liégeois
+          text: 9,50 €
+        - title: Profiteroles au Chocolat
+          text: 11,00 €
+        - title: Fraise Melba
+          text: 12,00 €
+        - title: Coupes de Glaces 2 parfums *(Vanille, Café, Chocolat, Rhum Raisin, Poire,
+            Pistache, Cassis, Citron Vert, Fraise, Framboise, Ananas, Caramel
+            Beurre salé)*
+          text: 8,50 €
+    
+en:
+  blocks:
+    - type: title
+      heading:
+        title: Carte
+    - type: table
+      grid: medium
+      heading:
+        title: Oysters
+        text: From the Parcs de l'Impératrice "Joël Dupuch"
+      rows:
+        - title: 6 Spéciales n°2
+          text: 15,50 €
+        - title: 9 Spéciales n°2
+          text: 23,30 €
+        - title: 12 Spéciales n°2
+          text: 31,00 €
+        - title: Side Sausage (FR)
+          text: 5,80 €
+    - type: table
+      grid: medium
+      heading:
+        title: Starters
+      rows:
+        - title: Starter of the day
+          text: à l’ardoise
+        - title: Mimosa eggs with tuna
+          text: 9,50 €
+        - title: Grenier Médocain
+          text: 12,00 €
+        - title: Onion Soup
+          text: 13,50 €
+        - title: Goat cheese salad with walnut oil
+          text: 12,50 €
+        - title: Herring with Potatoes in Oil
+          text: 11,50 €
+          year: ""
+        - title: Bayonne Ham Plate (FR)
+          text: 15,00 €
+        - title: Salmon “Gravlax”
+          text: 15,50 €
+        - title: Snails Bordelaise style
+          text: 17,00 €
+        - title: Tartare of crab and avocado
+          text: 18,50 €
+        - title: Boiled Egg with Caviar from Aquitaine *(Perlita)*
+          text: 19,80 €
+        - title: Duck Foie Gras (FR)
+          text: 25,00 €
+        - title: Caviar from Aquitaine (30g) *(Perlita)*
+          text: 82,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Eggs and Vegetarian Dishes
+      rows:
+        - title: Fried eggs with bacon
+          text: 17,00 €
+        - title: Wild Mushrooms Cepes Omelette
+          text: 27,50 €
+        - title: Truffle Omelette
+          text: 37,00 €
+        - title: Vegetarian dish of the day
+          text: à l’ardoise
+    - type: table
+      grid: medium
+      heading:
+        title: Fishes
+      rows:
+        - title: Fish of the Day
+          text: "-"
+        - title: The first Symphony by Master Lombard *(Salmon, Cod and Scallops)*
+          text: 29,00 €
+        - title: Fresh scallops with wild cepes mushrooms
+          text: 37,50 €
+        - title: Grilled or pan-fried Sole *(with mix of Vegetables)*
+          text: 44,50 €
+    - type: table
+      background: false
+      grid: medium
+      heading:
+        title: Classics
+      rows:
+        - title: Chicken breast with Pastas and Mustard Cream
+          text: 20,50 €
+        - title: Beef Tartare, seasoned or not, with Homemade Froes (FR)
+          text: 22,00 €
+        - title: Grilled Veal Kidneys withj homemade mash (EU)
+          text: 21,50 €
+        - title: Duck Confit in the Oven (10 min cooking) and Homemade Fries (FR)
+          text: 22,00 €
+        - title: |-
+            
+            Veal head slices with a Ravigote Sauce
+          text: 22,50 €
+        - title: |-
+            
+            Pan-Fried Calf’s liver
+          text: 23,00 €
+        - title: 'Opening Dish of Le Noailles in June 1932 : "La Choucroute de Madame
+            Homar"'
+          text: 29,50 €
+        - title: |-
+            
+            Pan-Fried Cèpes with Parsley and Shallots
+          text: 32,50 €
+        - title: |-
+            
+            Pan-Fried Fresh Duck liver with Fruits (Fra)
+          text: 36,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Grills
+      rows:
+        - title: Meat of the day
+          text: à l’ardoise
+        - title: Grilled Duck breast 200g with or without Peppercorn Sauce
+          text: 22,50 €
+        - title: Grilled &quot;Entrecôte&quot; 300 G. with “Sauce Bordelaise”
+          text: 29,00 €
+        - title: Grilled Beef tenderloin (&quot;Filet Mignon&quot;) *(Sauce in the
+            choice)*
+          text: 37,50 €
+        - title: Beef tenderloin Rossini with a slice of pan-fried Duck Liver
+          text: 46,00 €
+        - title: Prime rib of Beef *(1.2 kilo to share between two people)*
+          text: 89,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Sides
+        text: |-
+          Home-made fries, Homemade Mashed Potatoes, Tagliatelle Pastas, Sautéed
+          Chicories, Salad, Rice, Mixed vegetables
+      rows:
+        - title: En Supplément
+          text: 6,00 €
+        - title: En Plat
+          text: 13,00 €
+    - type: table
+      grid: medium
+      heading:
+        title: Matured Cheeses
+      rows:
+        - title: Chabichou (Goat Cheese) A.O.P.
+          text: 8,50 €
+        - title: Roquefort A.O.P.
+          text: 7,50 €
+        - title: Raw Milk Camembert
+          text: 8,00 €
+        - title: Brebis (Ewe Cheese) from Pays Basque
+          text: 9,00 €
+        - title: Assortment of three cheeses *(Camembert, Brebis et Roquefort)*
+          text: 15,00 €
+        - title: Assortment of Four cheeses *(Camembert, Brebis, Chabichou et Roquefort)*
+          text: 18,50 €
+    - type: table
+      grid: medium
+      heading:
+        title: Desserts
+      rows:
+        - title: Crème Brûlée
+          text: 8,50 €
+        - title: White Cheese With red-fruits coulis or salted-butter Caramel
+          text: 8,50 €
+        - title: Homemade Chocolate Mousse
+          text: 10,50 €
+        - title: Homemade Pastry of the Day
+          text: 10,00 €
+        - title: Fresh Strawberries
+          text: 11,00 €
+        - title: Le Café Gourmand
+          text: 13,30 €
+    - type: table
+      grid: medium
+      heading:
+        title: Ice cream Desserts
+      rows:
+        - title: Liégeois Salted-Butter Caramel
+          text: 9,50 €
+        - title: Liégeois Coffee or Chocolate Flavored
+          text: 9,50 €
+        - title: Chocolate Profiteroles
+          text: 11,00 €
+        - title: Strawberry Melba
+          text: 12,00 €
+        - title: |-
+            Two Scoops of Ice cream *(Vanilla, Chocolate, Strawberry, Raisin
+            & Rhum, Caramel, Raspberry, Lime, Blackcurrent, Peer, Pineapple,
+            Pistacchio)*
+          text: 8,50 €
