@@ -22,7 +22,7 @@ blocks:
     state: warning
     offset: center
     grid: medium
-    text: "En accord avec la Loi : L-112-8 du code monétaire et financier, nous
-      n’acceptons plus les chèques. Prix nets TVA au taux de 10 % incluse (20%
-      sur les Alcools) et Service compris."
+    text: In accordance with Law L-112-8 of the Monetary and Financial Code, we no
+      longer accept checks. Net prices include VAT at the rate of 10% (20% on
+      alcoholic beverages) and service.
 ---
