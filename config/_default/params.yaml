@@ -36,7 +36,8 @@ admin:
   cms: decapcms
   i18n:
     default_locale: fr
-    locales: '[fr,en,es]'
+    # locales: '[fr,en,es]'
+    locales: '[fr,en]'
   config:
     id: false
 
