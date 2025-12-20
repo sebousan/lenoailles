@@ -8,3 +8,17 @@
         a:hover
             color: var(--bs-dropdown-link-hover-color)
             background-color: var(--bs-dropdown-link-hover-bg)
+    @include media-breakpoint-down(md)
+        .dropdown
+            > a,
+            .dropdown-toggle
+                display: none
+        .dropdown-menu
+            --bs-nav-link-font-size: 1.25rem
+            --bs-dropdown-bg: transparent
+            --bs-dropdown-link-hover-bg: transparent
+            --bs-dropdown-border-width: 0
+            display: block
+            position: static !important
+            margin: auto
+            text-align: center

@@ -2,7 +2,7 @@
 <section class="block-table {{- with .background }} block-bg{{ end }}" {{- partial "func/SetAnim" (dict "element" "block") }}>
   <div class="container">
 
-    {{- partial "blocks/heading.html" . -}}
+    {{- partial "blocks/heading.html" (dict "heading" .heading "container" false) -}}
 
     {{- if $class }}
     <div class="row">
