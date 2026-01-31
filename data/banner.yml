@@ -1,0 +1,6 @@
+fr:
+  text: Le restaurant est actuellement fermé.
+  state: danger
+en:
+  text: The restaurant is currently closed.
+  state: danger
