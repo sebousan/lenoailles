@@ -62,6 +62,8 @@ admin:
     indexes:
       enable: false
     pages:
+      nested:
+        depth: 1
       fields:
         - is_page
         - draft

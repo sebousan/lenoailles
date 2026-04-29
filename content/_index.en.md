@@ -25,16 +25,15 @@ blocks:
     image:
       src: /images/uploads/IMGP9382.jpg
     ctas:
-      - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
+      - url: /en/la-brasserie/
         blank: true
-        text: Book now
+        text: La brasserie
   - type: editorial
     background: false
     direction: rtl
     surtitle: La carte
     title: French and Local Specialties
-    text:
-      Le Noailles offers high-end French cuisine, showcasing fresh and locally
+    text: Le Noailles offers high-end French cuisine, showcasing fresh and locally
       sourced products. Among the must-tries on the menu, you’ll find deviled
       eggs, Joël Dupuch’s oysters, pan-fried calf liver, Dover sole, the
       legendary Tournedos Rossini, iconic dishes of great Parisian brasseries,
@@ -48,8 +47,7 @@ blocks:
     background: false
     surtitle: History
     title: A Story of Families
-    text:
-      Since 1932, different families have successively taken the helm of this
+    text: Since 1932, different families have successively taken the helm of this
       brasserie, which has gradually become a true institution, symbolizing
       tradition and quality.
     image:
@@ -81,7 +79,7 @@ blocks:
       src: /images/uploads/IMGP1379.jpg
   - type: testimonials
     heading:
-      text: '**Les avis**'
+      text: "**Les avis**"
     layout: carousel
     carousel:
       params:
@@ -123,19 +121,17 @@ blocks:
           image:
             linear: false
           title: julsq
-        quote:
-          'I can’t believe how good this is. I walked in by accident, business
+        quote: "I can’t believe how good this is. I walked in by accident, business
           trip, Sunday night. Lovely Art Deco brasserie. Exceptional service
           (Franck): friendly, competent, unobtrusive. Traditional, perfectly
           executed fare (“grenier médocain” which is a sort of thinly sliced
           porked pie, followed by magret which was unbelievably well cooked - a
           rare feast. The house wine was the second from “Domaine de Chevalier”.
           I spent three days in Bordeaux last week, tried several restaurants,
-          none even in the same league.'
+          none even in the same league."
       - author:
           title: Green Bay
-        quote:
-          What a great place!! Asked to sit on the porch, found a great table by
+        quote: What a great place!! Asked to sit on the porch, found a great table by
           the window. Willy was our server, spoke English and had a wonderful
           personality. He helped make our time special here. Olives were put on
           the table to nibble on with our wine. Picked a wonderful bottle of
@@ -146,13 +142,11 @@ blocks:
           Everything was Fantastic!!
       - author:
           title: Carolann N
-        quote:
-          Fun lively eating experience. Very good food French cuisine and good
+        quote: Fun lively eating experience. Very good food French cuisine and good
           service. Oysters for which they are known were outstanding.
       - author:
           title: David R
-        quote:
-          Elegant, full of locals so not the ‘tourist trap’ as suggested by a
+        quote: Elegant, full of locals so not the ‘tourist trap’ as suggested by a
           previous review. I had the gravalax which was perfect, not too strong,
           followed by the calf’s liver, tender with a lovely slightly sweet
           shallot sauce. The frites were a treat. My friends have the house
@@ -162,8 +156,7 @@ blocks:
           recommend it and cannot wait to go again
       - author:
           title: Kevin S
-        quote:
-          Fantastic traditional French Brassiere situated in central Bordeaux near
+        quote: Fantastic traditional French Brassiere situated in central Bordeaux near
           the opera house. Very busy with locals we were glad to have been able
           to book a table. The welcome was warm, the staff friendly and
           attentive and the atmosphere lively but relaxed. The food quality was
@@ -172,8 +165,7 @@ blocks:
           special gems. Well worth a visit
       - author:
           title: Dolly
-        quote:
-          Recommended again to us and it was perfect. Loads of locals eating here
+        quote: Recommended again to us and it was perfect. Loads of locals eating here
           in November. Very, very busy. Classic brasserie that we all thoroughly
           enjoyed. Would def come again.
 ---
