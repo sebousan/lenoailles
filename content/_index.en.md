@@ -26,7 +26,6 @@ blocks:
       src: /images/uploads/IMGP9382.jpg
     ctas:
       - url: /en/la-brasserie/
-        blank: true
         text: La brasserie
   - type: editorial
     background: false
