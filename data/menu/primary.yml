@@ -20,10 +20,6 @@ fr:
       title: Les groupes
     - url: /contact/
       title: Contact
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Réserver<span> en ligne</span>
-      is_highlighted: true
 en:
   links:
     - url: /en/la-carte/
@@ -46,33 +42,3 @@ en:
       title: Groups
     - url: /en/contact/
       title: Contact
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Book<span> online</span>
-      is_highlighted: true
-es:
-  links:
-    - url: /es/la-carte/
-      title: La carte
-      links:
-        - url: /es/la-carte/
-          title: La carte
-        - url: /es/la-carte/#carte-des-vins
-          title: La carte des vins
-        - url: /es/la-carte/#carte-des-boissons
-          title: La Carte des boissons
-    - url: https://www.facebook.com/Le.Noailles
-      title: Actualité
-      blank: true
-    - url: /es/la-brasserie/
-      title: La brasserie
-    - url: /es/offrir-un-repas/
-      title: Offrir
-    - url: /es/les-groupes/
-      title: Les groupes
-    - url: /es/contact/
-      title: Contact
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Reserver<span> en ligne</span>
-      is_highlighted: true
