@@ -1,18 +1,4 @@
 fr:
-  links:
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Réserver
-      is_highlighted: true
+  links: []
 en:
-  links:
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Book
-      is_highlighted: true
-es:
-  links:
-    - url: https://bookings.zenchef.com/results?rid=376082&pid=1001
-      blank: true
-      title: Reservar
-      is_highlighted: true
+  links: []
