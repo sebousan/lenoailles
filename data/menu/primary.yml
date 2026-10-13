@@ -20,6 +20,9 @@ fr:
       title: Les groupes
     - url: /contact/
       title: Contact
+    - title: Réservation en ligne
+      url: https://bookings.zenchef.com/results?rid=376082&pid=1001
+      blank: true
 en:
   links:
     - url: /en/la-carte/
@@ -42,3 +45,6 @@ en:
       title: Groups
     - url: /en/contact/
       title: Contact
+    - title: Online Booking
+      url: https://bookings.zenchef.com/results?rid=376082&pid=1001
+      blank: true
