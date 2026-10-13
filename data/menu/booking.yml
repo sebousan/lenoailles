@@ -1,4 +1,10 @@
 fr:
-  links: []
+  links:
+    - title: Réservation en ligne
+      url: https://bookings.zenchef.com/results?rid=376082&pid=1001
+      blank: true
 en:
-  links: []
+  links:
+    - title: Online Booking
+      url: https://bookings.zenchef.com/results?rid=376082&pid=1001
+      blank: true
