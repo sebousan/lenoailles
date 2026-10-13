@@ -1,6 +1,6 @@
 fr:
-  text: Le restaurant est actuellement fermé.
-  state: danger
+  text: Le Restaurant va rouvrir ses portes le Mercredi 21 octobre à 12:00 !
+  state: success
 en:
-  text: The restaurant is currently closed.
-  state: danger
+  text: The Restaurant will open its doors on Wednesday 21th of October at 12PM !
+  state: success
