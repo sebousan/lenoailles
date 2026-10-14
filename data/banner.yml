@@ -1,6 +1,6 @@
 fr:
   text: Le Restaurant va rouvrir ses portes d'ici la fin du mois !
-  state: success
+  state: info
 en:
   text: The Restaurant will open its doors in the end of the month !
-  state: success
+  state: info
